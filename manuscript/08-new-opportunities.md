@@ -8,9 +8,6 @@ Advertisements were to appear in the newspapers as passengers became established
 
 *Adelaide, March 1840*
 
-*
-*
-
 The Frenchmen, mentioned in the diaries were the Doiron brothers and an advertisement appeared in the South Australian Register 18th April 1840 for their business.
 
 *Messers Doiron Brothers have the honour to in form the public that they have just opened a shop in King William Street, near the Post Office, where the following articles may be procured: a splendid assortment of jewellery, gold and silver watches, guns and pistols, a fine assortment of cutlery, kangaroo knives, musical paintings, clocks and repeaters, silver, tortoise-shell, and other snuff boxes: work boxes, stationery, perfumery, and other articles. They also manufacture cutlery, arms &c, and turn all kinds of metals. Watches repaired, and blades replaced in knives and scissors, and penknives.*
@@ -21,8 +18,7 @@ The 1841 census gives us the information that there were two males with the surn
 
 Isaac Latimer continued to promote emigration, see this from the West Briton newspaper:
 
-*
-* *FREE EMIGRATION TO SOUTH AUSTRALIA - No charge for children above the age of seven years.*
+*FREE EMIGRATION TO SOUTH AUSTRALIA - No charge for children above the age of seven years.*
 
 *Married Labourers, Artisans, and other Working Men, may have a Free Passage to this flourishing Colony for themselves, their wives and such of the children as are above the age of seven years or under one. The applicants must be people of good character, and if above 30 years of age they must have a family. Every particular, and the necessary papers, may be obtained free of expense on applying postage paid to Mr. I. LATIMER,*
 
@@ -55,9 +51,6 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *some information respecting South Australia, which may be serviceable in assisting to settle the minds of many who may have some thoughts of leaving their native land. The statements which I am about to make shall be strictly correct, and therefore I call upon you, I entreat you as a public man, as a friend to the human family, to give them the utmost publicity. It is necessary that the public should know what to expect on the voyage, and, if spared, on their arrived in the colony.*
 
-*
-*
-
 *When you are put on ship-board, you are, with all you have and with all, that is put on board for you, entirely under the control and disposal of the Doctor and the Captain, so that your every comfort, even life itself, is dependent on the disposition of those, under*
 
 *whose care you are placed; and hence hundreds have found a watery grave through the unkindness and neglect of those under whose care they have been placed. It is true you have a scale of rations which you may think should be the guide of all on board, and the*
@@ -68,9 +61,6 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *sailors.*
 
-*
-*
-
 *Then the afflictions you may expect on the voyage; few ships, if any, are free from diseases; some have lost 30 or 40, others a great many more on the voyage. We were*
 
 *afflicted with typhus fever, through which we lost seven, and one fell overboard and was drowned; we expected to lose a great many more; three of my family were distressingly ill; we expected the death of my little boy every moment, but God has spared him. To describe to you my feelings amidst the groans and cries of the afflicted and the dying is impossible; I would make extracts from my journal to describe my feelings at the time, but I have not room.*
@@ -79,17 +69,11 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *Then your accommodation, when you reach the land of promise.*
 
-*
-*
-
-* Visited by the agent appointed, you are told when you are to land; early in the morning you have to get everything ready, and to take your family with you; you have not time to get breakfast, **or in the bustle of reaching the harbour you have no rations nor water served out, all hands being so engaged; you may take a little bread with you. It may happen, as it did*
+*Visited by the agent appointed, you are told when you are to land; early in the morning you have to get everything ready, and to take your family with you; you have not time to get breakfast, **or in the bustle of reaching the harbour you have no rations nor water served out, all hands being so engaged; you may take a little bread with you. It may happen, as it did*
 
 *with me, that your luggage and family are not to be taken by the first draw that is going up to town, which is distant seven miles; the day is far spent, and towards evening, your luggage and family are placed on a bullock draw, and move onwards towards the*
 
 *square. *
-
-*
-*
 
 *After some delay and insolence on the part of the driver, you are brought into the midst of some very poor looking wood huts; you ask what place this is, and you are*
 
@@ -111,15 +95,9 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *are subject, and what takes off a great many more is weakness occasioned by (letter illegible). This, with broken spirits, superinduces disease, and thus many find a premature grave.*
 
-*
-*
-
 *Then with regard to the abundance of labour, this is not true; when we first landed, I might have obtained work with a master-mason, who came out from the neighbourhood of Bodmin, but as I was engaged by a gentleman on board who came out with us, and*
 
 *who was about to put up a brick machine worked by steam, I declined the mastermason’s offer. The wages I obtained was 12s. per day, and 6s. for my boy; I worked on for about eight weeks and then was taken ill, which put myself and boy out of employ. I was the only mason my master employed; my illness obliged him to take other tradesmen to carry on his work, which was nearly finished before my recovery, and therefore his work was closed. On my recovery, I was anxious to obtain labor for myself and boy, having nothing scarcely to live on by this time; we went to all the master tradesmen in the city, and could not obtain one day’s work, and this is the case with many, very many, tradesmen in the city who have been of some standing here; so that it is now in the eighth week since I have done but one day's work, and I have travelled scores of miles in town and country seeking work, but cannot obtain any up to this time.*
-
-*
-*
 
 *To give you a proof of the scarcity of work, I have only to say that there are now one hundred men and upwards employed on government works to keep them from*
 
@@ -137,7 +115,7 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *assure you there is a very great want of work amongst all classes of workmen at this time. I would work at any thing could I find employ.*
 
-* I went into a quarry last week.*
+*I went into a quarry last week.*
 
 *There were two men at work from Perranwell, who told me they had not had half work; they then had a hundred load of stones in the quarry, and might have had as many*
 
@@ -215,9 +193,6 @@ Latimer had to respond in kind!!
 
 *who knew them as ever Mr. Sawle did.*
 
-*
-*
-
 *On reading over Mr. Sawle's letter again, I cannot help remarking the extremely disingenuous manner in which he has spoken of every-thing that he has touched upon.*
 
 *We all know that most things have their dark as well as their bright side. He had chosen to select, on this occasion, only the dark; and in many cases he has, by his "perhapses,"his "probablies," and his "maybes," led people to an opposite conclusion to what thefacts of the case, if fairly stated, must inevitably have led them. Is not such a course the worst kind of falsehood, because the least easy to be detected and refuted? He has, for instance, spoken of ill-treatment on board the emigrant ships, as if it were common, merely because the people on board the "Java" were not well used, and when he knew*
@@ -231,9 +206,6 @@ Latimer had to respond in kind!!
 *while on the voyage; and in these letters, which are now before me, there does not appear a single word of complaint! Would not any one have believed, from a casual reading of Mr. Sawle's last letter, that the disasters, the robberies of provisions, the*
 
 *deprivation of comforts, had all happened to him?*
-
-*
-*
 
 *Mr. Hall, in his third letter, dated April 30, 1840, says, "After a very long and tedious voyage, we landed at Holdfast Bay, distant about six miles from Adelaide, on Monday last. We sent on our luggage on the carts provided by Government to Emigration square*
 
@@ -255,9 +227,6 @@ Latimer had to respond in kind!!
 
 *which he spoke satisfactorily of the colony which he now condemns.*
 
-*
-*
-
 *Mr. Carleton Tufnell, one of the Assistant Poor Law Commissioners, in speaking of dissatisfied persons like Mr. Sawle, says "Some of these characters have at times been included among the emigrants, and the result is, that they are always dissatisfied with the provisions on board ship, with the accommodation, and with the captain; on landing, they are dissatisfied with the work, the climate, and their employers; they seem*
 
 *totally unable to bear the slightest variation from their usual habits, have no power of adaptation to circumstances, or of putting forth energy to overcome obstacles, and send home letters full of complaints of every thing and every body. Letters of this sort do*
@@ -265,9 +234,6 @@ Latimer had to respond in kind!!
 *infinite harm to the cause of emigration, and in fact one such letter will suddenly stop the emigration from a large district." Is not the whole of this most justly applicable to*
 
 *Mr. Sawle?*
-
-*
-*
 
 *Other persons have, like Mr. Sawle, written home bad accounts of the colony in the first moments of their depression. Some of those accounts have been published and have reached the province where their mis-statements have been exposed in the local papers.*
 
@@ -279,9 +245,6 @@ Latimer had to respond in kind!!
 
 *When I said that farmers required a very large capital, I meant those who were to set up at once as gentlemen. Much more depends on the habits and ingenuity of the colonist than on the amount of his capital. I know some who, with the present year, arrived without a pound in their pockets, but who, by a few months' service, have bought fiveacre lots of land, and are now cultivating their own little farms.*
 
-*
-*
-
 *It is quite evident that Mr. Sawle went out with the most absurd notions. He supposed that he, a common mason, was to receive four pounds twelve shillings a week for doing little or nothing. He supposed that people were to take care of his glass and crockery;that they were to see after and to carry his luggage; that they were to go into the fields and procure wood for him, and then, "may be," light his fire and boil his kettle; that they were to fetch his water for the use of his household; and, above all, that he wouldfind a city like the metropolis, or the large towns of the most civilized country in theworld, with streets so beautifully paved that after heavy rains such as we Englishmen have little idea of, there should be no difficulty in a flock of sheep wending their way*
 
 *from one end of them to the other. He ought to have known, and he was told, that labour was wanted, that it would be well paid for, but that there would be very many hardships, and much want of comfort to be endured. He ought to have known that itwas not probable he would find fruit trees with fruit ready to be plucked, or gardens ready laid out for the poorer emigrants to occupy, or potatoes waiting only to be dug, or*
@@ -289,9 +252,6 @@ Latimer had to respond in kind!!
 *ripe and laughing corn fields anxious for the sickle. All these things betoken an advanced state of civilization, and are the result of much labour and time. For a long*
 
 *while, where colonization is carried on upon a large scale, the settlers must be importers, and as they will have but few exports to send in exchange, things will most likely obtain a high price, and there will be a scarcity of many articles, which we, in a well-organized old community, may obtain in almost any village.*
-
-*
-*
 
 *But Mr. Sawle acknowledges that the emigrants received a week's rations, although he omits that they were nearly all engaged immediately they put their feet on shore; and he also says that "on entering the colony you are pleased with its appearance; the loveliness of the country, and the largeness and greenness of the trees; but still (of course!) there are many drawbacks." Whatever these drawbacks may be, they are not,*
 
@@ -338,6 +298,6 @@ Latimer had to respond in kind!!
 
 *of their fellow men.*
 
-* I am, Sir, Your obedient servant, I LATIMER.*
+*I am, Sir, Your obedient servant, I LATIMER.*
 
 <http://freepages.genealogy.rootsweb.ancestry.com/~wbritonad/cornwall/1841/misc/mar.html>

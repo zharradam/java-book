@@ -2,8 +2,6 @@
 
 ## Books, Pamphlets and Articles
 
-
-
 ANONYMOUS What is in a name (No citation found, copy held by this author ANONYMOUS The Last East Indiaman Sea Breezes- The Ship Lovers Magazine, October 1939, pages 235-236.
 
 BATESON, Charles, The Convict Ships 1787-1868, Sydney, A.H. & A.W.Reed, 1974
@@ -58,9 +56,7 @@ RICHARDS, William Journal of a voyage to South Australia on board the "JAVA" Mon
 
 TRANGMAR, James Log while on the "JAVA" outward bound, Gravesend October 12th 1839- Holdfast Bay February 1840 Typescript copy held by author, copy also in Mortlock Library of SouthAustraliana, State Library of South Australia.
 
-
 ## Newspapers
-
 
 THE ADELAIDE OBSERVER APRIL 3RD 1880
 
@@ -69,7 +65,6 @@ SOUTH AUSTRALIAN REGISTER February 8th 1840, February 11th, March 30th 1840.
 SOUTHERN AUSTRALIAN February 12th 1840, March 30th 1840. THE TIMES (London) July 26th, 1939.
 
 ## Documents
-
 
 Despatches to the Commissioners, 1838-1841 No. 20, March 3rd 1840 and No. 24, March 30th 1840,
 

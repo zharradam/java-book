@@ -30,15 +30,9 @@ I have mentioned a number of times the maritime author, W.H.Coates, F.R.G.S., Co
 
 "*On a visit to Gibraltar, however, a few weeks ago, a most strange coal hulk attracted my attention. Her shortness, her low bluff bow, and tumble -down sides, her square stern, and the fact of her being pierced by gun- ports on two decks, all pointed to a bygone date. An accommodation ladder hanging down, I went on board, and the appearance of her upper deck confirmed the impression I had already formed of her from outside.*
 
-*
-*
-
 *The waist, from the break of the poop to that of the forecastle, was so short as to seem almost a square. On this upper deck were 12 gun-ports, and in the stanchions on either side of them were still to be seen the heavy iron eyebolts for securing the breeching of the guns. One mast still stood, which being of teak, might be reasonably assumed to have been the original stick. By courtesy of her master I was shown all that was visible, her hold, being full of coal, checking all exploration below the main deck. On her forecastle head were still showing her knightheads, a stump of a bowsprit protruded from the bow, and one of the original catheads, the other, I was told had been torn off by a passing steamer. Her windlass though antiquated, seemed massive enough to have held the "Great Eastern".*
 
 *We descended then into her main deck. On this deck she had apparently carried twelve guns, and here, as on the upper deck, the breeching bolts for securing her guns to the side still remained, a silent testimony to the stirring times in which she had been afloat.*
-
-*
-*
 
 *... We found, during our wanderings, the old pair of double steering wheels which had formerly had their place, as was the custom in those days, under the break of the poop. Now, in the closing days of this grand old ship, they had been removed from their place and utilised as the wheels of the hand winch. The upper and main deck beams were supported by massive teak stanchions handsomely turned. On emerging from below, we found the present owner Mr. W. J. Smith, the well known P.& O agent. This gentleman, who takes a keen interest in old ships generally, takes an especial interest in this one which came into the hands of his firm some time ago."*
 

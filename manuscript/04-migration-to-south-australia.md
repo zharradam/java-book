@@ -1,6 +1,5 @@
 # Migration to South Australia
 
-
 For an insight into the migration of Cornish migrants, I can recommend the chapter, "The Great Migration", in Philip J. Payton's "The Cornish Miner in Australia---Cousin Jack Down Under".
 
 Payton tells us that there was a concerted campaign of to encourage migration, in Cornwall in the late 1830's and 1840. Meetings were held in the largest Cornish towns such as Truro and Bodmin, with lecturers explaining the benefits of emigration and enthusing over the supposed magnificence of South Australia. We have available to see, examples of the posters used by one of the local agents, Isaac Latimer, who was actually a reporter for the Cornish newspaper, "West Briton" are still currently available for viewing .

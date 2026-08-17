@@ -2,7 +2,6 @@
 
 ## Prepared by Dr. Arnold Hunt
 
-
 *Almighty God, before whom the generations rise and pass away.*
 
 *We remember today and give thanks to you for our forebears through whom the gift of life came to us.*

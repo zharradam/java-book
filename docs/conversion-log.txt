@@ -7,3 +7,14 @@ U+00AC artifact at ...Ward.  Robert Dunstan 27/5/40¬-11/6/40 7 Wife and 5 child
 U+00AC artifact at ...he Practical Idealists of 1836¬  Adelaide, Rigby , 1968  LUB...
 U+00AC artifact at ...rs 1/1/40-30/6/1840 and 1/7/40¬31/12/1840. Mortlock Library...
 U+00AC fixes applied: joined fragments with "-", removed strays.
+--- Second cleanup pass (phantom bullets) ---
+Removed 91 lone "*" lines (empty italic paragraphs from Blogger that
+Markdown read as empty bullet-list items, rendering as stray dots).
+Reattached the italic-opening "*" on 7 paragraph lines that began
+"* " (rendered as bullets): 4 via "^* *" -> "**", 3 via "* text*" ->
+"*text*" in 08-new-opportunities.md.
+Verified word-for-word identical against previous commit: PASS.
+Known remaining artifact: a few literal asterisks from unbalanced
+emphasis markup in the source (e.g. the Sawle/Warrior paragraph in
+New opportunities, the Conigrave ticket text in Java leaves London);
+each needs a per-case decision on where the italics should span.

@@ -1,6 +1,5 @@
 # Appendix A: James Trangmar, a brief history
 
-
 James Trangmar is described in Burkes Colonial Gentry as "Trangmar of Burswood". We learn that he was born at Brighton, in Sussex, on the 10th March 1820; and that his first marriage was at Longford, Tasmania to Mary Ann Coulston, on the 17th July, 1849. The children of this marriage were James William, Henry Watson, George Charles, and Ann. Mary Ann died on the 6th. July 1861.
 
 He then married Catherine McKery and they had one son, Ernest Albert. His rural interests included land at Burswood, Portland; Bochara, River Wannon, Violet Creek, on Violet Creek, Hamilton and Morgiana also at Wannon and also Cape Nelson, Trewalla.

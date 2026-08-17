@@ -4,7 +4,6 @@ Governor Gawler, as William Richards and the newspapers indicated, was very disg
 
 ## Proceedings of the Medical Board.
 
-
 **Minutes of the Meeting of Medical Board appointed to enquire into the causes of the sickness, suffering and mortality on board the JAVA Emigrant Ship, and to report upon what appear to have been the causes of this state of things.**
 
 Present
@@ -59,9 +58,6 @@ The arrogance of the Master of the ship, Captain Duthie is shown in the next quo
 
 *"... Captain Dutton* (Kerr had it wrong , it should be Duthie) *had eight sheep of his own, as well as a cow and calf on board (presumably the calf which was reared on milk that might have assisted the consumptive Mr. Watson) but so far from having these animals killed and given to the people suffering from lack of fresh provisions, and claiming fair compensation from the authorities, Captain Dutton was reported to have said it was no part of his duty as master of the ship to know the condition of the passengers on the lower deck."*
 
-*
-*
-
 What an outrageous state of affairs ! Both the ship's doctor and the Captain accepted no responsibility for the sad fate of their passengers. The person who was officially given the blame was the Surgeon Superintendent, that is the Colonization Commissioner's doctor on board the ship, Mr. Martin.
 
 I will quote in full from the letter that George Gawler, the Governor, or as he signed himself the Resident Commissioner, wrote on 3rd March 1840, addressed to the Secretary, Colonial Commissioners ;
@@ -75,9 +71,6 @@ I*n consequence of an application from Mr Beck, agent for the Ship "JAVA", I am 
 *All the proceedings of the investigation will be forwarded to England with as little delay as possible; they are only detained for the purpose of taking copies.*
 
 *I have , etc., George Gawler Resident Commissioner*
-
-*
-*
 
 The above letter was sent on the "Katherine Stewart Forbes" on the 7th April.
 

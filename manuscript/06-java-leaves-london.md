@@ -12,12 +12,6 @@ On 16th September 1839 Benjamin Conigrave purchased a passage for himself, his w
 
 The reverse of the card announcing the sailing date of the "JAVA", has the following information: *“**Mr. Conigrave has taken an Intermediate Cabin No. 25 (if -it is not engaged) for himself, wife and infant child 16 months, for 77 pounds and has this day paid out 25 pounds on account. Lachlan, Sons, 16/9/1839.' *
 
-*
-*
-
-*
-*
-
             The sailing of the "JAVA" from St. Katherine’s Dock was not without controversy for an article appeared in the Weekly Dispatch" on November 3rd 1839 and later printed about the time the "JAVA" arrived in Adelaide, in which, as I have indicated in my preface, it was said that the carpenters who were engaged in fitting her out, declared that the planks would not retain a screw or nail. Whilst the article may not in truth be referring to the "JAVA", I have included reference to it as a guide to the problems facing the emigrants of the time.
 
 The article referred to the fact that " in fitting up emigration ships, due regard is always had to external appearances; make the vessel pleasing to the eye, and the principle is accomplished. A coat of paint or varnish, like charity, often covers a multitude of faults in the shape of worm-eaten holes and other casualties. It is true that persons are appointed by the Government to inspect these ships, and report on their sea-worthiness; but unfortunately, those individuals are too apt to be deceived by their eyesight, and neglect to examine a vessel minutely. They go on board and find everything apparently fresh and new, and conclude the ship is all right, whereas, in many instances, if they would only take the trouble to raise a plank or two, and thrust a knife into the sides of the vessel, they would find the wood crumble to pieces like touchwood.”
@@ -41,9 +35,6 @@ The final quote is included for its pithiness:
 *In one case it appeared that, the vessel having experienced rough weather, the people were unable to go on deck and cook their provisions: the strongest maintained the upper hand over the weakest: and it was even said that there were women who died of starvation. At that time the passengers were expected to cook for themselves and from their being unable to do this the greatest suffering arose. It was naturally at the commencement of the voyage that this system produced its worst effects, for the first days were those in which the people suffered most from sea-sickness and under the prostration of body thereby induced were wholly incapacitated from cooking. Thus though provisions might be*
 
 *abundant enough, the passengers would be half starved."*
-
-*
-*
 
 A later author, Don Charlwood in his " The Long Farewell- Settlers under Sail" (Melbourne, Allen Lane, 1981, p I), told us "*Of those who set of, it is ironic that those condemned to transportation as convicts had best prospect of coming safely through. Fearful though their treatment often was - especially in the earliest years - losses among them through illness at sea averaged less than four per  voyage. On an emigrant ship a surgeon would not have considered it untoward had losses run to five times this number"*
 
@@ -141,9 +132,6 @@ Then on the **24th,** William noted that:
 
 *Caught plenty of water from the awning, filled 10 barrels of 180 gallons each. Very warm, shirt and pantaloons only. Child died."*
 
-*
-*
-
 James also noted a similar record of the day's events:
 
 "*Dead calm, 5 degrees North of the line, rain falling incessantly, buckets, tubs & etc. are in constant use for catching water. The ship's butcher has filled 7 casks of 200 gallons each for use of the livestock. This will be a great help towards making the water last out, as our captain does not intend putting into any port if he can possibly avoid it, being so near the Line, the men are beginning to prepare for Neptune coming on board."*
@@ -152,9 +140,6 @@ On the **25th November,** his diary recorded:
 
 "*There are great quantities of flying fish constantly about the vessel today. Sometimes they rise singly from the water and at other times in large flocks, looking in the distance like flocks of birds --- they look to be about the size and form of mackerel. We have a fine working breeze S. E. and by E. and are in hopes we have fallen in with the other trades although still North of the Line."*
 
-*
-*
-
 The diary entry for William Richards is so very different for the same day - even when he records the death of another "gentleman passenger" there was no matching note of the event in the diary of James Trangmar.
 
 William's diary for the **25th November** was as follows:
@@ -162,9 +147,6 @@ William's diary for the **25th November** was as follows:
 *"Caught the S. E. trades. Child died. Mr. Watson, Gentn passenger died leaving a wife and 3 children bound to Bathurst having purchased Land there prior to leaving England. When the coffin was thrown overboard, owing to the 5, 181b shot which ran to the foot, the lid flew open and the coffin, with the Body went off erect under water but did not sink."* \[It was this entry, of course, which led Colin Kerr in his "An Exelent Coliney", to name his chapter "The Floating Coffin".\] William continued with
 
 *"Ship in sight going west, the first we have seen since the 10th."*
-
-*
-*
 
 At some stage he added in the left hand margin of his diary, a sad note about Mr. Watson, which I alluded to in my introduction.
 
@@ -234,9 +216,6 @@ The next entries in James' diary take us to the New Year:
 
 *27o 18'East long. One of the men got very drunk this evening, went up on deck and insulted the officer of the watch --- he ordered him to go aft but the man refused to go. In the meantime the ship carpenter went and told the Captain to arm himself for the ship, was in a state of mutiny. The Captain, who from all accounts, was tipsy at the time came on deck and began lashing away at the man with his sword. The man then became very mutinous, and there is no doubt but that it would have ended badly if the Chief Mate had not intervened between the Captain and the man. Officers afterwards secured the drunk man, but not without some hazard, for he drew his knife upon them and stabbed the second mate in the leg. The others dispersed but were in a state of mutiny all night, refusing to work or do anything."*
 
-*
-*
-
 William, had recorded very different items in his diary on many days although he too recorded the drama of New Year's Eve:
 
 " **December 26th.** *Strong gale, going before the wind, had one roll after dinner, away went the pots, pans and kettles and everything that was loose.*
@@ -298,17 +277,11 @@ William's diary continued:
 
 *6 vessels have arrived since and not a single death, with better treatment. The term here is 'that horried ship the JAVA' She was certainly the finest ship that could be selected for Emigrants on account of the gun deck having the portholes constantly open, but it appears good food is the principal thing."*
 
-*
-*
-
 This was William's last entry
 
 In a personal communication with the author, noted South Australian maritime author, Ronald Parsons made the point that the general run of medical comforts aboard any and every sailing ship of the era, were a few dozen bottles of porter, some arrowroot, some laudanum and possibly some strong laxative pills. Parsons said that *"\[William\] did not know what to do to prepare himself and family for a long voyage. He was obviously unused to travel, had made no enquiries, and suffered accordingly.*
 
 *He should have taken some comforts against possible illness among his children; that was the normal thing to do by travelers in that day and age."*
-
-*
-*
 
 The Emigration Office gave the following report of the ship's steerage passengers:
 
@@ -390,8 +363,7 @@ The "JAVA" having arrived, the passengers began to tell their story to the Press
 
 This article received an immediate response in two newspapers at least when they published a letter in reply from Dr. J.Phin. Smith who wrote as below
 
-*
-* *To the Editor of the Southern Australian.*
+*To the Editor of the Southern Australian.*
 
 *Sir,*
 
@@ -424,11 +396,9 @@ As indicated earlier, after the "JAVA" had left London, that city's press had ca
 The "Southern Australian" also carried the extract from the "Weekly Dispatch" with similar editorial comment
 
 *" The "Dispatch" refers to a vessel which left St Catherine's Dock for South Australia in October last, the sides of which were so rotten and decayed, that the carpenters who were engaged in fitting her out, declared that the planks would scarcely retain a screw or nail. *
-*
-* *The vessel alluded to was in all probability the "JAVA", against the treatment on board of which a variety of complaints were preferred, when she came into port. A sort of investigation was, we believe gone into, but none of the particulars were suffered to transpire. This we deeply regret inasmuch as the parties, whether truly or falsely accused, must continue to lie under the imputation of guilt, until they are publicly and honorably acquitted.*
+*The vessel alluded to was in all probability the "JAVA", against the treatment on board of which a variety of complaints were preferred, when she came into port. A sort of investigation was, we believe gone into, but none of the particulars were suffered to transpire. This we deeply regret inasmuch as the parties, whether truly or falsely accused, must continue to lie under the imputation of guilt, until they are publicly and honorably acquitted.*
 
-*
-* *Were the case our own--- as it was that of the officers on board the "JAVA' --- a case in which an unusual mortality of the children was alleged to have sprung from the stingy and illiberal supply of medical comforts --- no considerations on earth should have induced us to have remained satisfied with a "hole and corner" investigation, or to have accepted the usual certificates, until we were fully acquitted as we had been publicly accused. But there is we regret to say, too much of a disposition in the colony to keep the public --- the party most deeply interested--- in the dark, with respect to matters on which they ought to be more fully informed. this however, must and will have an end. We have only to add in conclusion, that we are heartily glad to see that the subject is being taken up by the Governor."*
+*Were the case our own--- as it was that of the officers on board the "JAVA' --- a case in which an unusual mortality of the children was alleged to have sprung from the stingy and illiberal supply of medical comforts --- no considerations on earth should have induced us to have remained satisfied with a "hole and corner" investigation, or to have accepted the usual certificates, until we were fully acquitted as we had been publicly accused. But there is we regret to say, too much of a disposition in the colony to keep the public --- the party most deeply interested--- in the dark, with respect to matters on which they ought to be more fully informed. this however, must and will have an end. We have only to add in conclusion, that we are heartily glad to see that the subject is being taken up by the Governor."*
 
 Another statement from the paper followed, and gave additional facts.
 

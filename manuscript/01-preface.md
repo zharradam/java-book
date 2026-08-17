@@ -1,6 +1,5 @@
 # Preface to the Eighth Edition
 
-
 Being the Melancholy True Story of the Voyage of the EastIndiaman "Java" with Emigrants to the Colony of South Australia arriving in Holdfast Bay on February 6th 1840, with the Sad Loss of Life of many Children and Adults during the Voyage; of the continued Suffering of the Passengers; of the Concern of the Citizens of the Colony and the Disgust of the Governor Gawler and of the Subsequent Enquiry. The book also tells us of the Later History of the 'Java", sometimes Known as the 'Last of the EastIndiamen', its Last Years as a Coal Hulk in Gibraltar and of its Final Voyage to the Breakers in Genoa in July of 1939.
 
 On February 11th 1990 a "reunion" for descendants of passengers who arrived on the "Java" which berthed at Holdfast Bay,Glenelg, South Australia on February 6th,1840, was held in the gardens of Partridge House   at Glenelg.  This had been organised by Neil Thomas and the author the reunion exceeded expectations and attracted well with over 200 people attending.
