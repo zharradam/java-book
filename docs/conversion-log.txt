@@ -18,3 +18,12 @@ Known remaining artifact: a few literal asterisks from unbalanced
 emphasis markup in the source (e.g. the Sawle/Warrior paragraph in
 New opportunities, the Conigrave ticket text in Java leaves London);
 each needs a per-case decision on where the italics should span.
+
+--- Third cleanup pass (indent/quote formatting) ---
+De-indented 2 paragraphs in 06-java-leaves-london.md whose leading
+Word-indent spaces made Markdown render them as code blocks
+("The sailing of the JAVA from St. Katherine's Dock...", "What were
+the conditions like...").
+Italicised the "Our modern statesmen can legislate..." quotation to
+match the book's convention for displayed quotes (formatting only,
+wording untouched).
