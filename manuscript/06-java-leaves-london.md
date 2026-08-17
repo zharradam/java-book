@@ -10,7 +10,7 @@ Benjamin Conigrave purchased a passage for himself and his wife Matilda and two 
 
 On 16th September 1839 Benjamin Conigrave purchased a passage for himself, his wife Matilda and two children.
 
-The reverse of the card announcing the sailing date of the "JAVA", has the following information: *“**Mr. Conigrave has taken an Intermediate Cabin No. 25 (if -it is not engaged) for himself, wife and infant child 16 months, for 77 pounds and has this day paid out 25 pounds on account. Lachlan, Sons, 16/9/1839.' *
+The reverse of the card announcing the sailing date of the "JAVA", has the following information: *“Mr. Conigrave has taken an Intermediate Cabin No. 25 (if -it is not engaged) for himself, wife and infant child 16 months, for 77 pounds and has this day paid out 25 pounds on account. Lachlan, Sons, 16/9/1839.'*
 
 The sailing of the "JAVA" from St. Katherine’s Dock was not without controversy for an article appeared in the Weekly Dispatch" on November 3rd 1839 and later printed about the time the "JAVA" arrived in Adelaide, in which, as I have indicated in my preface, it was said that the carpenters who were engaged in fitting her out, declared that the planks would not retain a screw or nail. Whilst the article may not in truth be referring to the "JAVA", I have included reference to it as a guide to the problems facing the emigrants of the time.
 
@@ -18,7 +18,7 @@ The article referred to the fact that " in fitting up emigration ships, due rega
 
 These criticisms whilst being general in nature were probably a bit harsh in the case of the "JAVA" as she could hardly have been as rotten as she is alleged to have been, as she still managed to be afloat in Gibraltar in 1939!   However the next point of comment by the journalist from the "Weekly Dispatch" had much more significance for the passengers of the "JAVA".
 
-"The provisions doled out to the emigrants are too often of the most inferior quality; but if the ship is once at sea complaints are useless--it is Hobson's choice--that or none. A few weeks since there was a disturbance on board one of the emigrant ships bound to New Zealand, off Gravesend. The beef was so bad that the passengers declared that they could not eat it, and made their dinners off bread and butter" \[and this before they had left the shores of England!\], "the captain was appealed to and he said he could not remedy the evil; the deluded emigrants threatened an appeal to the Mayor and Police of Gravesend, on which the commander immediately got the ship under weigh and set sail."
+*"The provisions doled out to the emigrants are too often of the most inferior quality; but if the ship is once at sea complaints are useless--it is Hobson's choice--that or none. A few weeks since there was a disturbance on board one of the emigrant ships bound to New Zealand, off Gravesend. The beef was so bad that the passengers declared that they could not eat it, and made their dinners off bread and butter" \[and this before they had left the shores of England!\], "the captain was appealed to and he said he could not remedy the evil; the deluded emigrants threatened an appeal to the Mayor and Police of Gravesend, on which the commander immediately got the ship under weigh and set sail."*
 
 The very next criticism was also sadly true of many ships, although again not necessarily so with the "JAVA', for the unnamed journalist went on to say: "The emigrant ships are often overcrowded and proper ventilation is not secured below: the consequence of this is that on reaching certain latitudes fever breaks out, and the mortality, particularly among the children is dreadful." That article concluded with a plea to the Government, who the paper said, "were extremely culpable in allowing things to go on in their present state".
 
@@ -72,7 +72,7 @@ The weather changes were something to note,
 
 **November 6th**. Fine thermometer 2 degrees below summer heat.
 
-N**ovember 7th.** Coats, neck cloth and stockings off."
+**November 7th.** Coats, neck cloth and stockings off."
 
 The next day James has a detailed entry as compared to George, when the former
 
@@ -84,11 +84,11 @@ noted:
 
 William noted simply on this day:
 
-"Rain, stormy petrel showed an approaching storm."
+*"Rain, stormy petrel showed an approaching storm."*
 
 On the next day, William noted:
 
-"Vivid lightening (squalls) heavy sea, ship labouring a good deal, lost our breakfast 2 mornings, teapot and cups rolled off the table.**"**
+*"Vivid lightening (squalls) heavy sea, ship labouring a good deal, lost our breakfast 2 mornings, teapot and cups rolled off the table."*
 
 On this next day which was the 9th November, James' entry was also noting bad weather but with a good deal more colourful description:
 
@@ -98,7 +98,7 @@ On this next day which was the 9th November, James' entry was also noting bad we
 
 **On the 10th**, William noted that the weather was fine and that the ship passed Madeira.
 
-**On the 11t**h, his diary noted *"Passed the Canary Islands, caught the trade winds, child died with whooping cough---very warm."*
+**On the 11th**, his diary noted *"Passed the Canary Islands, caught the trade winds, child died with whooping cough---very warm."*
 
 This simple recording of a second child's death was sadly to be one of many over the next week and it is very interesting over this time to compare the entries of the two very distinctively different diaries.
 
@@ -106,7 +106,7 @@ James made another observation about the Cornish on the 12th of November:
 
 *"The Cornish people are as bad as ever --- they are continually quarrelling, are dissatisfied with everything and are constantly making the most frivolous complaint to our Captain and Doctor---we also find that our ship's company are no better than they should be--two have already been put on irons for insubordination, and I am afraid more will follow."*
 
-I will next quote from William's diary when he consolidated comments for the period 1**2th to 21st of November.**
+I will next quote from William's diary when he consolidated comments for the period **12th to 21st of November.**
 
 *"N.E. trades, nothing particular occurred except Dr. Ward's child died, (woman confined) --- twins died --- child died. Passed the island St. Antonia."*
 
@@ -120,7 +120,7 @@ If William thought that nothing in particular had occurred even though 4 childre
 
 The next entry in the diary of William Richards was the first record by him of an adult's death:
 
-"Mr. Bernard, gentn. passenger died 7a.m.. Committed to the deep 5p.m. The carpenter only bored holes in the foot of the coffin, which when thrown overboard whent off erect, never sank."
+*"Mr. Bernard, gentn. passenger died 7a.m.. Committed to the deep 5p.m. The carpenter only bored holes in the foot of the coffin, which when thrown overboard whent off erect, never sank."*
 
 His next entry was quite brief:
 
@@ -222,7 +222,7 @@ William, had recorded very different items in his diary on many days although he
 
 “**December 27th.** *Little Caroline ill with hooping cough (sic) very cold therm 60 degrees*
 
-**December 28th** S*trong gale and squally rounding the Cape, gaff cracked in two hail and showers.*
+**December 28th** *Strong gale and squally rounding the Cape, gaff cracked in two hail and showers.*
 
 *Today we are 39 o 22' South lat. 76 o 45' East long. We made the island of St Paul’s about 6 o'clock this evening --- it was distinctly seen from the masthead. It is fifteen days since we passed the Cape having run nearly 3,000 miles in that time.*
 
@@ -242,7 +242,7 @@ James was next to record
 
 **February 2nd.** We have been beating about with a head wind since the last date. 35 o 30'S. lat 125 o 133' East long
 
-**February 3rd**. T*his day we got the first sight of Western Australia ( ---- surely he meant South Australia) we passed several small islands and could just discern Cape Catastrophe, but were obliged to tack and run to the South owing to the head wind.'*
+**February 3rd**. *This day we got the first sight of Western Australia ( ---- surely he meant South Australia) we passed several small islands and could just discern Cape Catastrophe, but were obliged to tack and run to the South owing to the head wind.'*
 
 Also, on this day, William wrote in his diary
 

@@ -27,3 +27,16 @@ the conditions like...").
 Italicised the "Our modern statesmen can legislate..." quotation to
 match the book's convention for displayed quotes (formatting only,
 wording untouched).
+
+--- Fourth pass: systematic styling sweep (markers only) ---
+Fixed all 6 unbalanced-emphasis clusters (stray ** inside italic
+spans; space-broken closing *): Conigrave ticket (ch06), Agricultural
+laborers / TYWARDREATH / Visited-by-the-agent / candle / Sawle-Warrior
+(ch08). Fixed 5 bold-boundary slips on diary dates (N**ovember 7th,
+On the 11t**h, 1**2th, Dec 28 S*trong, Feb 3 T*his). Italicised 7
+standalone displayed quotes to match the book's convention (Trangmar
+Oct 28 entry, Rain/stormy petrel, Vivid lightening (+ removed junk
+**"**), Mr. Bernard death entry, Weekly Dispatch provisions quote,
+Charles/Penshurst entry, Holdfast Bay diary entry).
+Verified: word-diff vs HEAD PASS (zero word changes); rendered PDF
+contains 0 literal asterisks, 0 monospace blocks.

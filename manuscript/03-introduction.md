@@ -19,7 +19,7 @@ My research was initially based on the two diaries, one of which was written by 
 
 The most striking thing about the diaries is that Trangmar  did not mention any of the deaths at sea nor the sickness that many suffered, save of course the usual malaise that usually strikes those at sea. James, in fact would seem to have taken an instant dislike to the Cornish emigrants, for he wrote in his diary on the very day that the "JAVA" set sail:
 
-"October 28th... more disturbances amongst us. I begin to have a very bad opinion of our Plymouth Emigrants, the greater part of them are Cornish people, and many of them are miners, they are a very uncouth and dissatisfied lot of people."
+*"October 28th... more disturbances amongst us. I begin to have a very bad opinion of our Plymouth Emigrants, the greater part of them are Cornish people, and many of them are miners, they are a very uncouth and dissatisfied lot of people."*
 
 William Richards does not make any such comment about his fellow passengers although he did write, "the supposed ladies in the cuddy discovered to be bad characters." George was to however chronicle the very sad litany of deaths, of children in particular.
 

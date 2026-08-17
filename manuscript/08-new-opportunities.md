@@ -27,12 +27,12 @@ Isaac Latimer continued to promote emigration, see this from the West Briton new
 
 *Vessels leave London for South Australia, about the 1st and 15th of every month.*
 
-*Agricultural laborers, Shepherds, &c., may have an early passage if they make immediate **application.*
+*Agricultural laborers, Shepherds, &c., may have an early passage if they make immediate application.*
 *February 4, 1840.*
 
 http://freepages.genealogy.rootsweb.ancestry.com/~wbritonad/cornwall/1840/misc/feb.html
 
-TYWARDREATH - *On Tuesday evening, Mr. I. LATIMER, of Truro, delivered a lecture in the Market house, at Tywardreath, before an exceedingly large audience, on the subject of **emigration, especially in reference to South Australia, explaining fully the admirable principles upon which that colony has been established. The lecturer read many interesting and valuable letters which had been recently sent home. *
+TYWARDREATH - *On Tuesday evening, Mr. I. LATIMER, of Truro, delivered a lecture in the Market house, at Tywardreath, before an exceedingly large audience, on the subject of emigration, especially in reference to South Australia, explaining fully the admirable principles upon which that colony has been established. The lecturer read many interesting and valuable letters which had been recently sent home.*
 *The Rev. T. Pearce, Perpetual Curate of Tywardreath, occupied the chair, and at the close warmly expressed the interest he felt in the subject of the lecture and in the colony itself, as many of his parishioners had gone there. The Rev. Gentleman concluded by proposing the thanks of the meeting to the lecturer for the interesting and instructive matter that he had laid before them. The proposition was cordially seconded by Mr. W.E. Geach, and responded to by three hearty cheers from the meeting. There were a large number of ladies present.*
 
 http://freepages.genealogy.rootsweb.ancestry.com/~wbritonad/cornwall/1840/misc/mar.html
@@ -69,7 +69,7 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *Then your accommodation, when you reach the land of promise.*
 
-*Visited by the agent appointed, you are told when you are to land; early in the morning you have to get everything ready, and to take your family with you; you have not time to get breakfast, **or in the bustle of reaching the harbour you have no rations nor water served out, all hands being so engaged; you may take a little bread with you. It may happen, as it did*
+*Visited by the agent appointed, you are told when you are to land; early in the morning you have to get everything ready, and to take your family with you; you have not time to get breakfast, or in the bustle of reaching the harbour you have no rations nor water served out, all hands being so engaged; you may take a little bread with you. It may happen, as it did*
 
 *with me, that your luggage and family are not to be taken by the first draw that is going up to town, which is distant seven miles; the day is far spent, and towards evening, your luggage and family are placed on a bullock draw, and move onwards towards the*
 
@@ -83,7 +83,7 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *is the only shelter, and you are obliged to enter; you want something now for your family to make use of; your enquiry is for a little wood, but you are told by the man who looks after the square, that there is no wood provided for the emigrants, and if he should give it to one he must give to all, - you may have some tomorrow from the natives, for a little bread; you ask for a little water ? you are told that there is a well in the centre of the square, but the water is brackish and you cannot drink it, you can getsome from the Torrens, but you must go across the country for half or three-quarters of*
 
-*a mile and the person thinks it so dark you cannot find it.* *You at least want a little light, **but you cannot obtain a candle without going to the city (so called) which is distant about half-a-mile; a step of the road you are not acquainted with, so that you must sit*
+*a mile and the person thinks it so dark you cannot find it.* *You at least want a little light, but you cannot obtain a candle without going to the city (so called) which is distant about half-a-mile; a step of the road you are not acquainted with, so that you must sit*
 
 *on your box without fire, light, or meat, with a thousand hungry mice and fleas playing around and feeding on you during the night; whilst the cold, coming in from so many*
 
@@ -199,7 +199,7 @@ Latimer had to respond in kind!!
 
 *that immediately that ship reached the colony, the principal surgeon was cashiered without receiving any remuneration, that the captain was also dealt with in a proper manner by the resident commissioner, and that, on the other hand, every thing was done that could be done to compensate the emigrants for the sufferings they had experienced from the heartlessness of a grasping captain and a selfish surgeon. *
 
-*With respect to his own ship, the "Warrior," Mr. Sawle, in his first letter to Mr. Crocker, **of Truro, spoke favourable, as I believe, (for I cannot now obtain his letter); and his*
+*With respect to his own ship, the "Warrior," Mr. Sawle, in his first letter to Mr. Crocker, of Truro, spoke favourable, as I believe, (for I cannot now obtain his letter); and his*
 
 *son-in-law, Mr. S. Hall, who accompanied him, wrote several letters to his parents,*
 

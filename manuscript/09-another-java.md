@@ -18,7 +18,7 @@ A very sad diary was kept by a passenger, Henry Knight who had the misfortune to
 
 Henry's diary is sad to read:
 
-"Charles expressed to me that he was sorry he left Penshurst as there were plenty of nice things to eat. Here there is nothing for me to eat. Poor little fellow, he could take but little now, if he had it. Dear child he is getting very weak, trouble to speak. I was obliged to go to a private place in the ship to give vent to my feelings, seeing to that I was deceived by the Commissioners at the nourishment for children."
+*"Charles expressed to me that he was sorry he left Penshurst as there were plenty of nice things to eat. Here there is nothing for me to eat. Poor little fellow, he could take but little now, if he had it. Dear child he is getting very weak, trouble to speak. I was obliged to go to a private place in the ship to give vent to my feelings, seeing to that I was deceived by the Commissioners at the nourishment for children."*
 
 Another quote from the same diary is equally as emotional:
 
