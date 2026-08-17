@@ -1,9 +1,9 @@
 # The Java — an emigrant ship, 1839
 
-The book by Steven SURNAME (Ten Brat Press), maintained as plain-text
+The book by Stephen Michael Barnett (Ten Brat Press), maintained as plain-text
 Markdown and built automatically into EPUB and PDF.
 
-**Steven:** you only ever need [GUIDE-FOR-STEPHEN.md](GUIDE-FOR-STEPHEN.md).
+**Stephen:** you only ever need [GUIDE-FOR-STEPHEN.md](GUIDE-FOR-STEPHEN.md).
 
 ## How this repository works
 
