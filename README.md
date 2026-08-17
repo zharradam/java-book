@@ -53,5 +53,4 @@ verify the conversion changed nothing.
 - [ ] Replace placeholder chapters with the converted manuscript
 - [ ] Fill in real metadata in `build/metadata.yaml` (marked TODO)
 - [ ] Add `images/cover.jpg`
-- [ ] Fix OWNER/REPO links in `site/index.html`
 - [ ] Complete `PERMISSIONS.md`
