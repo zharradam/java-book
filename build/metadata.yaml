@@ -1,0 +1,35 @@
+---
+# ── Book metadata ─────────────────────────────────────────────
+# Everything the EPUB and PDF need to know about the book.
+# Edit the placeholder values marked TODO before the first release.
+
+title: "The Java"                       # TODO: exact title as Steven wants it
+subtitle: "An Emigrant Ship, 1839"      # TODO: confirm or remove
+author: "Steven SURNAME"                # TODO: Steven's full name
+publisher: "Ten Brat Press"
+rights: "© Steven SURNAME. All rights reserved."   # TODO
+lang: en-AU
+date: "2026"                            # year of this edition
+description: >
+  The story of the Java, an emigrant ship that carried settlers
+  from England to South Australia in 1839.   # TODO: Steven's blurb
+
+# Edition tracking — bump this each re-issue
+edition: "Ninth edition (first electronic edition)"
+
+# EPUB specifics
+epub-cover-image: images/cover.jpg      # supply this file, or delete the line
+css: build/epub.css
+
+# PDF (Typst) specifics
+papersize: a4
+margin-left: 2.5cm
+margin-right: 2.5cm
+margin-top: 2.5cm
+margin-bottom: 2.5cm
+fontsize: 11pt
+mainfont: "New Computer Modern"         # Typst built-in; swap for e.g. "Georgia" later
+toc: true
+toc-depth: 2
+numbersections: false
+---

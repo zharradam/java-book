@@ -1,0 +1,89 @@
+name: Build book
+
+# Runs on every change to the manuscript, images, or build config —
+# and can always be run by hand from the Actions tab ("Run workflow").
+on:
+  push:
+    branches: [main]
+    paths:
+      - "manuscript/**"
+      - "images/**"
+      - "build/**"
+      - "site/**"
+      - ".github/workflows/build.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # to update the "latest" release
+  pages: write      # to publish the download page
+  id-token: write   # required by deploy-pages
+
+env:
+  PANDOC_VERSION: "3.6.3"
+  TYPST_VERSION: "0.13.1"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pandoc
+        run: |
+          wget -q "https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/pandoc-${PANDOC_VERSION}-1-amd64.deb"
+          sudo dpkg -i "pandoc-${PANDOC_VERSION}-1-amd64.deb"
+
+      - name: Install Typst
+        run: |
+          wget -q "https://github.com/typst/typst/releases/download/v${TYPST_VERSION}/typst-x86_64-unknown-linux-musl.tar.xz"
+          tar -xf typst-x86_64-unknown-linux-musl.tar.xz
+          sudo mv typst-x86_64-unknown-linux-musl/typst /usr/local/bin/
+
+      - name: Build EPUB and PDF
+        run: bash build/build.sh
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: book
+          path: |
+            dist/*.epub
+            dist/*.pdf
+
+      # Keep a rolling "latest" release so download links never change:
+      # https://github.com/OWNER/REPO/releases/latest/download/the-java.epub
+      - name: Update latest release
+        if: github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Latest edition
+          body: "Automatically built from the most recent manuscript. See the commit history for what changed."
+          files: |
+            dist/*.epub
+            dist/*.pdf
+
+      - name: Prepare download page
+        if: github.ref == 'refs/heads/main'
+        run: |
+          mkdir -p _site
+          cp site/index.html _site/
+          cp images/cover.jpg _site/ 2>/dev/null || true
+
+      - name: Upload Pages artifact
+        if: github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  publish-page:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
