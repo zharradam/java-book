@@ -48,7 +48,7 @@ We presume that William Richards embarked with his family at this point.
 
 On October the 28th, James Trangmar had the following entry in his diary:
 
-" *Hurrah! This morning the Blue Peter is hoisted at the masthead which is the signal for sailing, the sailors call it the Salt Horse Flag. More disturbances amongst us. I begin to have a bad opinion of our Plymouth Emigrants, the greatest part of them are Cornish people, and many of them are miners, they are a very uncouth and dissatisfied lot of people. At 5 o'clock we are once more underway with a fine breeze. Passed the Edystone light and standing well out to sea."*
+"*Hurrah! This morning the Blue Peter is hoisted at the masthead which is the signal for sailing, the sailors call it the Salt Horse Flag. More disturbances amongst us. I begin to have a bad opinion of our Plymouth Emigrants, the greatest part of them are Cornish people, and many of them are miners, they are a very uncouth and dissatisfied lot of people. At 5 o'clock we are once more underway with a fine breeze. Passed the Edystone light and standing well out to sea."*
 
 According to William Richards, the "JAVA" passed the Scilly Isles, 40 miles West, on the 29th.
 
@@ -186,7 +186,7 @@ On **December 22nd,** James received an invitation to dine which again may give 
 
 The next day also, James was to make social arrangements:
 
-*" I am already engaged to dine with our Intermediates on New Year's Day, and they have made me promise to spend Christmas evening with them. We are nearing the Cape very fast, the weather is much colder. Another man in irons for insulting the third mate."*
+*"I am already engaged to dine with our Intermediates on New Year's Day, and they have made me promise to spend Christmas evening with them. We are nearing the Cape very fast, the weather is much colder. Another man in irons for insulting the third mate."*
 
 William on the same day, **December 23rd,** wrote the following in his diary
 
@@ -202,13 +202,13 @@ On the **25th,** William recorded simply "*Child died'*
 
 James wrote at length about Christmas Day
 
-" *We have had up to this day a continuation of fine breezes and are making fine progress to rounding  the Cape. The day (though much colder than it has been) is so different from the weather that we have been accustomed to at this time of year, that I hardly believe it to be Christmas Day. I spent the morning with Aunt and Uncle and the afternoon and evening with the Intermediates. An unpleasant scene occurred just as we were going to sit down to tea --one of the French passengers came and took a pie out of the Mess chest to take to his cabin.*
+"*We have had up to this day a continuation of fine breezes and are making fine progress to rounding  the Cape. The day (though much colder than it has been) is so different from the weather that we have been accustomed to at this time of year, that I hardly believe it to be Christmas Day. I spent the morning with Aunt and Uncle and the afternoon and evening with the Intermediates. An unpleasant scene occurred just as we were going to sit down to tea --one of the French passengers came and took a pie out of the Mess chest to take to his cabin.*
 
 *Mr. Walters, the president of the mess, seeing him asked him what he was going to do with it. He immediately threw the pie in his face and followed it up by collaring him and forcing him down the forms. I was the only one near him, so I plunged in, caught the Frenchman by the arms and swung him against the cabins. I stood before Mr. Walters till he had recovered his feet, but the Frenchman did not attempt to touch him. We afterwards spent a very pleasant evening and I enjoyed myself very much."*
 
 The next entries in James' diary take us to the New Year:
 
-" **December 26th** *today we are 38 o 13' south lat. 8 o 3' East long.*
+"**December 26th** *today we are 38 o 13' south lat. 8 o 3' East long.*
 
 **December 28th.** *we have been running from 101/2 to 11 knots all night, rather squally. Passed the Cape this evening*
 
@@ -218,7 +218,7 @@ The next entries in James' diary take us to the New Year:
 
 William, had recorded very different items in his diary on many days although he too recorded the drama of New Year's Eve:
 
-" **December 26th.** *Strong gale, going before the wind, had one roll after dinner, away went the pots, pans and kettles and everything that was loose.*
+"**December 26th.** *Strong gale, going before the wind, had one roll after dinner, away went the pots, pans and kettles and everything that was loose.*
 
 “**December 27th.** *Little Caroline ill with hooping cough (sic) very cold therm 60 degrees*
 
@@ -273,7 +273,7 @@ APPLY TO CHAS. BECK AND CO.
 
 William's diary continued:
 
-*" The Captain and Emigrants Doctor Martin took their trial before the Governor. The doctor is sent back again in the ship without his certification or money. He intended to settle here, but was not permitted. I did not appear against him, Doctor Ward, who was under Dr Martin was treated by him like a dog. The Governor has taken him and Mrs. Ward into his house to instruct his children. Great blame is attached to the Commissioners in London and Doctor Broomhead for sending so many children, 3 to each adult without a sufficient quantity of food.*
+*"The Captain and Emigrants Doctor Martin took their trial before the Governor. The doctor is sent back again in the ship without his certification or money. He intended to settle here, but was not permitted. I did not appear against him, Doctor Ward, who was under Dr Martin was treated by him like a dog. The Governor has taken him and Mrs. Ward into his house to instruct his children. Great blame is attached to the Commissioners in London and Doctor Broomhead for sending so many children, 3 to each adult without a sufficient quantity of food.*
 
 *6 vessels have arrived since and not a single death, with better treatment. The term here is 'that horried ship the JAVA' She was certainly the finest ship that could be selected for Emigrants on account of the gun deck having the portholes constantly open, but it appears good food is the principal thing."*
 
@@ -359,7 +359,7 @@ W.SMILLIE EMIGRATION AGENT
 
 The "JAVA" having arrived, the passengers began to tell their story to the Press and others. The "Adelaide Chronicle" of February 11th carried the following article
 
-*" We regret to hear that shameful misconduct and neglect are attributed to the Captain and Surgeon of the "JAVA", now lying in Holdfast Bay. His Excellency the Governor, has taken the matter in hand and we doubt not, authentic particulars will soon be had before the public."*
+*"We regret to hear that shameful misconduct and neglect are attributed to the Captain and Surgeon of the "JAVA", now lying in Holdfast Bay. His Excellency the Governor, has taken the matter in hand and we doubt not, authentic particulars will soon be had before the public."*
 
 This article received an immediate response in two newspapers at least when they published a letter in reply from Dr. J.Phin. Smith who wrote as below
 
@@ -395,7 +395,7 @@ As indicated earlier, after the "JAVA" had left London, that city's press had ca
 
 The "Southern Australian" also carried the extract from the "Weekly Dispatch" with similar editorial comment
 
-*" The "Dispatch" refers to a vessel which left St Catherine's Dock for South Australia in October last, the sides of which were so rotten and decayed, that the carpenters who were engaged in fitting her out, declared that the planks would scarcely retain a screw or nail. *
+*"The "Dispatch" refers to a vessel which left St Catherine's Dock for South Australia in October last, the sides of which were so rotten and decayed, that the carpenters who were engaged in fitting her out, declared that the planks would scarcely retain a screw or nail. *
 *The vessel alluded to was in all probability the "JAVA", against the treatment on board of which a variety of complaints were preferred, when she came into port. A sort of investigation was, we believe gone into, but none of the particulars were suffered to transpire. This we deeply regret inasmuch as the parties, whether truly or falsely accused, must continue to lie under the imputation of guilt, until they are publicly and honorably acquitted.*
 
 *Were the case our own--- as it was that of the officers on board the "JAVA' --- a case in which an unusual mortality of the children was alleged to have sprung from the stingy and illiberal supply of medical comforts --- no considerations on earth should have induced us to have remained satisfied with a "hole and corner" investigation, or to have accepted the usual certificates, until we were fully acquitted as we had been publicly accused. But there is we regret to say, too much of a disposition in the colony to keep the public --- the party most deeply interested--- in the dark, with respect to matters on which they ought to be more fully informed. this however, must and will have an end. We have only to add in conclusion, that we are heartily glad to see that the subject is being taken up by the Governor."*

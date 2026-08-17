@@ -1,6 +1,6 @@
 # Introduction
 
-"That horried (sic) ship, the "Java"
+*"That horried (sic) ship, the "Java"*
 
 The quote above, from the 'Richard's Diary', although misspelled  would appear to be an apt description of this vessel, but dramatic, is a quote from a diary, Telling of a melancholy voyage to South Australia in an emigrant ship in 1839 this book\]will show why a passenger would have cause to enter that comment in his diary. It is a true and sad tale.
 

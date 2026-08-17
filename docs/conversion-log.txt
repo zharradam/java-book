@@ -40,3 +40,9 @@ Oct 28 entry, Rain/stormy petrel, Vivid lightening (+ removed junk
 Charles/Penshurst entry, Holdfast Bay diary entry).
 Verified: word-diff vs HEAD PASS (zero word changes); rendered PDF
 contains 0 literal asterisks, 0 monospace blocks.
+
+--- Fifth pass (user rulings + quote spacing) ---
+Italicised the Introduction epigraph (user decision); Adair quotes in
+ch04 left roman (user decision). Removed the stray space after the
+opening quote mark on 10 displayed quotations (8 in ch06, 1 in ch07,
+1 in ch15). Word-diff vs HEAD: PASS.

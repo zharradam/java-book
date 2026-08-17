@@ -2,7 +2,7 @@
 
 Some clarification is perhaps needed over the anchorage point of the "Java". William Richards in hisdiary said that it was Holdfast Bay despite the fact that the poster advertising the sailing of the vesselssaid it was bound for Port Adelaide. Richards clearly indicates Holdfast Bay in his diary entry:
 
-*“ No sleep all night got up 3’oclockbeat the Regesthran, whent up the Gulph in fine style, anchored in Holdfast Bay opposite Glenelg . before 8:15am and the Regesthran 20 minutes after us along side, had a shower of rain juts after we anchored. We did not go ashore before Saturday afternoon”*
+*“No sleep all night got up 3’oclockbeat the Regesthran, whent up the Gulph in fine style, anchored in Holdfast Bay opposite Glenelg . before 8:15am and the Regesthran 20 minutes after us along side, had a shower of rain juts after we anchored. We did not go ashore before Saturday afternoon”*
 
 What might be a good guide is in an article which appeared in the "Adelaide Observer", 3rd April 1880, page 567.
 

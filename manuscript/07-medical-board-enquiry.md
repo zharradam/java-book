@@ -122,7 +122,7 @@ Kerr told us that the Commissioners agreed with Gawler that the chief culprit wa
 
 It is assumed that the owners of the ship were eventually paid for the use of their ship as, according to Kerr, correspondence explaining the matter was lost. It seems that Governor Gawler, by blaming Dr Martin , prejudiced any opportunity by the Colonization Commissioners , to refuse to pay the owners, because of the ill treatment of their passengers. The Commissioners said in their letter
 
-" *The Commissioners therefore, while they record the opinions above expressed, are precluded by Governor Gawler's decision from questioning the right of the owners of the "JAVA" or their representatives to the remaining moiety of the passage money for that vessel."*
+"*The Commissioners therefore, while they record the opinions above expressed, are precluded by Governor Gawler's decision from questioning the right of the owners of the "JAVA" or their representatives to the remaining moiety of the passage money for that vessel."*
 
 *The suffering of the passengers continued for many months. Almost immediately many of them sought relief from the Government, for in many cases the husband was unfit for work and his wife had children to look after, many of them still suffering from the effects of the voyage.*
 
