@@ -55,7 +55,11 @@ have been "fixed" in the prose (except the purely mechanical items in
    <at the time) ascribed greater social importance…" — presumably
    "(at the time)"?
 
-9. **Photos.** The site has no images; you mentioned having photos and
+9. **Cover photo credit.** As a placeholder cover we used the photo from
+   your site header ("Java Gibraltar Fildes"). Who should be credited,
+   and does its permission cover use as the cover of the EPUB/PDF?
+
+10. **Photos.** The site has no images; you mentioned having photos and
    other material. A list of what you have (and where each should sit in
    the text) is the next step — plus confirmation the old reproduction
    permissions cover a downloadable EPUB/PDF (see PERMISSIONS.md).
