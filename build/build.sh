@@ -28,9 +28,12 @@ pandoc "${CHAPTERS[@]}" "${COMMON_ARGS[@]}" "${EPUB_ARGS[@]}" \
   -o "$OUT/$SLUG.epub"
 echo "Wrote $OUT/$SLUG.epub"
 
-# PDF via Typst (fast, no LaTeX install needed)
+# PDF via Typst (fast, no LaTeX install needed).
+# The template gives a real title page, a Contents page, and starts
+# every chapter on a fresh page.
 pandoc "${CHAPTERS[@]}" "${COMMON_ARGS[@]}" \
   --pdf-engine=typst \
+  --template=build/template.typ \
   -o "$OUT/$SLUG.pdf"
 echo "Wrote $OUT/$SLUG.pdf"
 
