@@ -69,6 +69,14 @@ jobs:
           mkdir -p _site
           cp site/index.html _site/
           cp images/cover.jpg _site/ 2>/dev/null || true
+          # Inject live details: file sizes, edition, build date
+          epub_kb=$(( ($(stat -c%s dist/the-java.epub) + 512) / 1024 ))
+          pdf_kb=$(( ($(stat -c%s dist/the-java.pdf) + 512) / 1024 ))
+          edition=$(grep -oP '^edition:\s*"\K[^("]+' build/metadata.yaml | sed 's/ *$//')
+          built=$(date -u '+%-d %B %Y')
+          sed -i "s|<span id=\"epub-size\"></span>|<span id=\"epub-size\"> (${epub_kb} KB)</span>|" _site/index.html
+          sed -i "s|<span id=\"pdf-size\"></span>|<span id=\"pdf-size\"> (${pdf_kb} KB)</span>|" _site/index.html
+          sed -i "s|<!--EDITION-->|${edition} \&middot; last updated ${built}|" _site/index.html
 
       - name: Upload Pages artifact
         if: github.ref == 'refs/heads/main'
