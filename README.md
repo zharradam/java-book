@@ -3,7 +3,7 @@
 The book by Steven SURNAME (Ten Brat Press), maintained as plain-text
 Markdown and built automatically into EPUB and PDF.
 
-**Steven:** you only ever need [GUIDE-FOR-STEVEN.md](GUIDE-FOR-STEVEN.md).
+**Steven:** you only ever need [GUIDE-FOR-STEPHEN.md](GUIDE-FOR-STEPHEN.md).
 
 ## How this repository works
 
