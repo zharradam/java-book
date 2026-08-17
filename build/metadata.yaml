@@ -3,19 +3,23 @@
 # Everything the EPUB and PDF need to know about the book.
 # Edit the placeholder values marked TODO before the first release.
 
-title: "The Java"                       # TODO: exact title as Steven wants it
-subtitle: "An Emigrant Ship, 1839"      # TODO: confirm or remove
-author: "Steven SURNAME"                # TODO: Steven's full name
+title: "Java"
+subtitle: "The Sailing Ship 1813–1940"
+author: "Stephen Michael Barnett"
 publisher: "Ten Brat Press"
-rights: "© Steven SURNAME. All rights reserved."   # TODO
+rights: "© Stephen Michael Barnett. All rights reserved."
 lang: en-AU
 date: "2026"                            # year of this edition
 description: >
-  The story of the Java, an emigrant ship that carried settlers
-  from England to South Australia in 1839.   # TODO: Steven's blurb
+  The melancholy true story of the voyage of the East Indiaman "Java"
+  with emigrants to the colony of South Australia, arriving in Holdfast
+  Bay on February 6th 1840; of the loss of life during the voyage, the
+  subsequent enquiry, and the later history of the ship, sometimes known
+  as the "Last of the East Indiamen", to its final voyage to the
+  breakers in Genoa in July 1939.
 
 # Edition tracking — bump this each re-issue
-edition: "Ninth edition (first electronic edition)"
+edition: "Eighth edition, 2026 (first EPUB/PDF issue)"
 
 # EPUB specifics
 epub-cover-image: images/cover.jpg      # supply this file, or delete the line

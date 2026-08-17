@@ -1,0 +1,3 @@
+# Medical comforts?
+
+In a personal communication with the author, noted South Australian maritime author, Ronald Parsons made the point that the general run of medical comforts aboard any and every sailing ship of the era, were a few dozen bottles of porter, some arrowroot, some laudanum laudenam and possibly some strong laxative pills. Parsons said that "Richards did not know what to do to prepare himself and family for a long voyage. He was obviously unused to travel, had made no enquiries, and suffered accordingly. He should have taken some comforts against possible illness among his children; that was the normal thing to do by travellerstravelers in that day and age."

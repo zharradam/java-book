@@ -1,8 +1,15 @@
-# The Java {.unnumbered .unlisted}
+# Java {.unnumbered .unlisted}
 
-*An Emigrant Ship, 1839*
+*The Sailing Ship 1813–1940*
 
-TODO: replace with the real title page / frontispiece text — edition
-statement, dedication, and acknowledgements as Steven wants them.
+by
+
+**Stephen Michael Barnett**
+
+stephenmichaelbarnett@gmail.com
+
+Eighth edition, 2026
+
+Ten Brat Press
 
 ---
