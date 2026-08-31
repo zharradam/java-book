@@ -2,3 +2,6 @@ dist/
 _site/
 *.epub
 *.pdf
+
+# local working files
+*.diff
