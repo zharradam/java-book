@@ -44,7 +44,7 @@ And from the Register of Sick and Destitute Emigrants the following sad list is 
 
 of this register:
 
-Lightfoot, Candy, Harnagin,, Pleas ,McCanock,,E.Hailey, Philipia Bastian, Eliza Bastian, John Bastian and family, Samson Bastian Thomas Sleep and wife and child, Hawke, John Coad and wife, (space) Elizabeth Axford (husband died on voyage (not mentioned by William Richards), and five children,
+Lightfoot, Candy, Harnagin, Pleas, McCanock, E.Hailey, Philipia Bastian, Eliza Bastian, John Bastian and family, Samson Bastian Thomas Sleep and wife and child, Hawke, John Coad and wife, (space) Elizabeth Axford (husband died on voyage (not mentioned by William Richards), and five children,
 
 James Pearce and wife, Grace Gillard, Ann Coutts, William Francis, wife and four children, Elizabeth Trillegen Robert Dunstan and wife and five children, William Huxtable, wife and six children, Alice Polkinghorne and infant, Grace Polkinghorne, John Bennett, James Elvery, Ann Dennis, Austin, Coking, Thomas Major and wife and child, Langcake, Jammett, Thomas Chantie, Bennett Johns, Benjamin Gahan and wife and two children (third died on voyage), William Renwells , James Edwards, William Harris and wife, Joseph Stanton and wife.
 
