@@ -2,12 +2,12 @@
 
 *"That horried (sic) ship, the "Java"*
 
-The quote above, from the 'Richard's Diary', although misspelled  would appear to be an apt description of this vessel, but dramatic, is a quote from a diary, Telling of a melancholy voyage to South Australia in an emigrant ship in 1839 this book\]will show why a passenger would have cause to enter that comment in his diary. It is a true and sad tale.
+The quote above, from the 'Richard's Diary', although misspelled  would appear to be an apt description of this vessel, but dramatic, is a quote from a diary, Telling of a melancholy voyage to South Australia in an emigrant ship in 1839 this book will show why a passenger would have cause to enter that comment in his diary. It is a true and sad tale.
 
 After leaving Gravesend, London on the 12th October, 1839, , the Java commenced its onward journey to South Australia from Plymouth on 29th October 1839, arriving at Holdfast Bay on February 6th 1840.
-Approximately 500 passengers embarked however 30 men,women and children perished on the voyage with the greatest loss of life being among steerage class  passengers. This is particularly true of the children.
+Approximately 500 passengers embarked however 30 men, women and children perished on the voyage with the greatest loss of life being among steerage class  passengers, (particularly true of the children who perished.)
 
-This then is a true, sad tale of the emigrant ship, the "JAVA", which left Plymouth after leaving London, with approximately 500 passengers. It arrived at Holdfast Bay with 30 men, women and children having perished on the voyage. The greatest loss of life had been amongst the steerage passengers, particularly the children.However, the The deaths did not stop once the ship had arrived but by landfall we know that 26 children had died and that more died in ensuing days. In addition four adults had died including a Mr. Watson, a first-class passenger who had asked and paid for special care because of consumption and had been denied this.
+This then, is a true, sad tale of the emigrant ship, the "JAVA", which left Plymouth after leaving London. However, the deaths did not stop once the ship had arrived but by landfall we know that 26 children had died and that more died in ensuing days. In addition four adults had died including a Mr. Watson, a first-class passenger who had asked and paid for special care because of consumption and had been denied this.
 
 The ship had been described to the prospective emigrants as that "fine first - class teak-built ship, the "JAVA" and yet within days of its departure the London press had cause to allude to it in an article entitled "Rascally condition of Emigrant ships", as " a large ship which left St. Katherine’s Dock... with upwards of 300 emigrants on board for South Australia, the sides of which were so rotten and decayed that the carpenters who were engaged in fitting her out declared that the planks would not retain a screw or nail." The newspaper the "Weekly Dispatch" went on to say that "if this ship should happen to be lost, which God forbid, we trust that certain parties will be called upon to take their trial for murder."
 
@@ -61,7 +61,7 @@ India, the Far East and Australia. He also provided the date on which the Java w
 
 The "JAVA", whilst having the title of East Indiaman was perhaps better known as what has been called a "country ship". This was the name given to ships that traded between the ports of the East.
 
-In an essay, "Extraordinary ships in an exotic commerce", in "The East Indiamen", (in The Seafarers series), bythe editors of Time-Life Books, a very good description is given of the construction of the "country ships" which I cannot better for an insight into how the "JAVA" would have been constructed.
+In an essay, "Extraordinary ships in an exotic commerce", in "The East Indiamen", (in The Seafarers series), by the editors of Time-Life Books, a very good description is given of the construction of the "country ships" which I cannot better for an insight into how the "JAVA" would have been constructed.
 
 I quote:   *"Country ships were custom-built in Indian shipyards to resemble the mighty English Indiamen that eastern pirates had learned to fear, but they were in many ways superior to their European look-a-likes. Their hull was cut from Malabar teak, a strong, oily, almost knotless wood that often lasted a century without rotting. Each plank was rabbetted into its neighbour so tightly that calking was unnecessary. Instead an iron-hard resinous glue was laid between the planks, giving the finished hull the appearance of being cut from one solid piece of wood. Below the waterline, the hull was smeared with a remarkable compound of fish oil and lime that both repelled wood devouring teredo worms and prevented the accumulation of layers of mossy sea flora that clung to the copper plating used on British vessels.*
 

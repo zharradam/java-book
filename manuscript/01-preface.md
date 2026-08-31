@@ -1,16 +1,16 @@
-# Preface to the Eighth Edition
+# Preface to the Ninth Edition
 
 Being the Melancholy True Story of the Voyage of the EastIndiaman "Java" with Emigrants to the Colony of South Australia arriving in Holdfast Bay on February 6th 1840, with the Sad Loss of Life of many Children and Adults during the Voyage; of the continued Suffering of the Passengers; of the Concern of the Citizens of the Colony and the Disgust of the Governor Gawler and of the Subsequent Enquiry. The book also tells us of the Later History of the 'Java", sometimes Known as the 'Last of the EastIndiamen', its Last Years as a Coal Hulk in Gibraltar and of its Final Voyage to the Breakers in Genoa in July of 1939.
 
-On February 11th 1990 a "reunion" for descendants of passengers who arrived on the "Java" which berthed at Holdfast Bay,Glenelg, South Australia on February 6th,1840, was held in the gardens of Partridge House   at Glenelg.  This had been organised by Neil Thomas and the author the reunion exceeded expectations and attracted well with over 200 people attending.
+On February 11th 1990 a "reunion" for descendants of passengers who arrived on the "Java" which berthed at Holdfast Bay,Glenelg, South Australia on February 6th,1840, was held in the gardens of Partridge House   at Glenelg.  This had been organised by Neil Thomas and the author, the reunion exceeded expectations and attracted well over 200 people attending.
 
 The Reverend Arnold Hunt, also a descendant of a passenger, gave a thanksgiving prayer.
 
   In 1991 the author was contacted by Mrs. Glenda Richards, who, while  researching her husband's family history, had located my first edition at the Mortlock Library of South Australiana.
 
-Glenda,had come into possession of a bible which she wished to show me,The Richard's family Bible came into Glenda's hands in June 1991 and has provided much useful information for later editions of this work.
+Glenda, had come into possession of a bible which she wished to show me,The Richard's family Bible came into Glenda's hands in June 1991 and has provided much useful information for later editions of this work.
 
-Glenda initially believed it to have been written by her great, great,  great,grandfather  however on further investigation about George Richards diary,the likelihood is that it was indeed written by  William Richards. However, as the diary's authorship can not be proven with complete certainty, I will simply refer to it as the Richard's Diary.
+Glenda initially believed it to have been written by her great, great, great, grandfather, however, on further investigation about George Richards diary, the likelihood is that it was indeed written by  William Richards. Nevertheless, as the diary's authorship can not be proven with complete certainty, I will simply regard it as the Richards Diary.
 
   I had based my information for the authorship of the document from two sources, firstly that of the records of the Mortlock Library of South Australiana (MS D4718) and secondly that of the late archivist Colin Kerr in his chapter about the "Java" in his ("An Exelent Coliney, (sic) The Practical Idealists of 1836-1846) " (1968).
 

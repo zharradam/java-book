@@ -24,7 +24,7 @@ For example, one lecturer, Isaac Latimer, emphasised that 'applicants must be ab
 
 Finally, the emigration lectures were also significant because of their focus on the conduct of male labourers. This can be explained in two ways. First, the
 
-physical labour and trade skills of emigrant males were &lt;at the time) ascribed greater social importance than female labour, such as domestic service.
+physical labour and trade skills of emigrant males were (at the time) ascribed greater social importance than female labour, such as domestic service.
 
 Second, it was more common for working-class males, rather than females, to be regular drinkers in public houses.” Labour History. Number 70 • May 1996 pp 131-154
 

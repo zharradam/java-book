@@ -22,7 +22,7 @@ GIBBS, R.M. A History of South Australia, Adelaide Balara Books, 1969
 
 HUGHES, Hugh and Lyn Discharged in New Zealand -Soldiers of the Imperial Foot Regiments who took their discharge in New Zealand 1840-1870, New Zealand Society Of Genealogists, 1988
 
-KERR,Colin An Exelent Coliney The Practical Idealists of 1836-
+KERR,Colin An Exelent Coliney The Practical Idealists of 1836-1846,
 
 Adelaide, Rigby , 1968
 
@@ -52,9 +52,9 @@ KNIGHT, Henry \[Journal of a voyage to Port Jackson aboard "JAVA" \] retold in a
 
 MAYO, Dr. George Diary kept on board the "Asia", March 4th 1839 July l6th 1839 Mortlock Library of South Australiana, State Library of South Australia
 
-RICHARDS, William Journal of a voyage to South Australia on board the "JAVA" Monday October 28th, 1839 February 6th 1840 Ms D 4718 Mortlock Library of South Australiana, State Library of South Australia. \[called incorrectly the George Richards diary\]
+RICHARDS, William Journal of a voyage to South Australia on board the "JAVA" Monday October 28th, 1839 February 6th 1840 Ms D 4718 Mortlock Library of South Australiana, State Library of South Australia.
 
-TRANGMAR, James Log while on the "JAVA" outward bound, Gravesend October 12th 1839- Holdfast Bay February 1840 Typescript copy held by author, copy also in Mortlock Library of SouthAustraliana, State Library of South Australia.
+TRANGMAR, James Log while on the "JAVA" outward bound, Gravesend October 12th 1839- Holdfast Bay February 1840 Typescript copy held by author, copy also in Mortlock Library of South Australiana, State Library of South Australia.
 
 ## Newspapers
 

@@ -42,7 +42,7 @@
 
 *with their husbands.*
 
-*7. To single women a free passage will be granted, provided they go out under the protection of their parents, or near relatives, or under actual engagement as servants to ladies going as cabinpassengers on board the same vessel. The preference will be give to those accustomed to farm and dairy work, to seamstresses, strawplatters, and domestic servants.*
+*7. To single women a free passage will be granted, provided they go out under the protection of their parents, or near relatives, or under actual engagement as servants to ladies going as cabin passengers on board the same vessel. The preference will be give to those accustomed to farm and dairy work, to seamstresses, strawplatters, and domestic servants.*
 
 *8. The children of parents sent out by the Commissioners will receive a free passage, if they are under one, or fall 15 years of age at the time of embarkation. For all other children GBP 5*
 
@@ -162,7 +162,7 @@ This document whilst detailed, will give readers and appreciation of what was in
 
 *56. Any emigrant capitalist or any party who may be desirous of fitting out a vessel for the colony from any port of Great Britain or Ireland will be allowed to carry out, at the charge of the commissioners, any approved emigrants who may offer themselves in the neighbourhood of such ports, provided that the arrangements for securing the comforts and safety of the emigrants on their passage are approved of by the commissioners, and that the charge per head does not exceed that for emigrants leaving the port of London. The same allowance to be made for any crew of the vessel who are of the proper description of emigrants, provided that they go out as colonists to engage in the coasting trade or fisheries, and that satisfactory security can be given for their continuing such for at least three years; provided also that their families, if any, shall be resident in the colony.*
 
-*57. On the arrival of the emigrant labourers in the colony they will be at perfect liberty to work for anyone willing to employ them, unless hired in this country, and will make their own bargain for wages. This arrangement, while it leaves the emigrant free to act as he may think right, manifestly renders it impossible for the commissioners to give any exact information as to the amount of wages to be obtained; they can merely state that in all new colonies, particularly in the neighbouring settlements of New South Wales and Van Dieman’s Land, wages are much higher than in England’ and that they shall endeavour so to apportion the supply of labour to demand as to conduce in the higher degree to the advantage of both the capitalist and the labourer.*
+*57. On the arrival of the emigrant labourers in the colony they will be at perfect liberty to work for anyone willing to employ them, unless hired in this country, and will make their own bargain for wages. This arrangement, while it leaves the emigrant free to act as he may think right, manifestly renders it impossible for the commissioners to give any exact information as to the amount of wages to be obtained; they can merely state that in all new colonies, particularly in the neighbouring settlements of New South Wales and Van Diemen’s Land, wages are much higher than in England’ and that they shall endeavour so to apportion the supply of labour to demand as to conduce in the higher degree to the advantage of both the capitalist and the labourer.*
 
 *By order of the Board, (signed)*
 
@@ -174,7 +174,7 @@ made. Some 500 of these applicants were actually accepted which represented a mu
 
 number, as whole families were often included in a single application.
 
-It was in response to one such campaign organised by Latimer that many were encouraged to applyfor passage on the "JAVA".This item appeared in the Cornish newspaper, the West Briton in late 1839. Latimer in fact wrote for the newspaper as well as acting as an emigration agent
+It was in response to one such campaign organised by Latimer that many were encouraged to apply for passage on the "JAVA".This item appeared in the Cornish newspaper, the West Briton in late 1839. Latimer in fact wrote for the newspaper as well as acting as an emigration agent
 
 *“SOUTH AUSTRALIAN EMIGRATION - Mr. Latimer of Truro, has lately sent away above one hundred emigrants for South Australia, by the "Java" and "Orissa," all of whom, when they were last seen in Plymouth, were in high spirits, and expressed the greatest gratification at the liberal manner in which they were treated. Among those who have left is Mr. Burnard, of Truro, whose splendid portrait of Penhallow Peters, Esq., was exhibited at the Polytechnic Hall and obtained a prize of GBP*
 

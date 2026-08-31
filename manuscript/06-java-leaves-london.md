@@ -40,7 +40,7 @@ A later author, Don Charlwood in his " The Long Farewell- Settlers under Sail" (
 
 It was certainly the case that the "JAVA" steerage passengers suffered from overcrowding and a lack of decent food, but more of that later.
 
-Two passengers on the voyage have left us with very different diaries of the voyage. The first of these passengers was James Trangmar who appears to have had connections with the shipbuilding trade. He tells us in his diary that he boarded on October 12th 1839, the "JAVA" weighed anchor and was towed down the Thames by a steam tug, to Gravesend, then sailed to the Downs where the anchor was dropped for the night. On the next morning the ship got under weigh and five days later, on the 18th of October, arrived at Plymouth to take on the Cornish Emigrants. Consistency needed here  October 12th 1839,  18thof October
+Two passengers on the voyage have left us with very different diaries of the voyage. The first of these passengers was James Trangmar who appears to have had connections with the shipbuilding trade. He tells us in his diary that he boarded on October 12th 1839, the "JAVA" weighed anchor and was towed down the Thames by a steam tug, to Gravesend, then sailed to the Downs where the anchor was dropped for the night. On the next morning the ship got under weigh and five days later, on the 18th of October, arrived at Plymouth to take on the Cornish Emigrants.
 
 At this point, on the 4th day of the "JAVA" being in Plymouth, the Cornish emigrants came on board, Trangmar commenting, *"there has already been some terrible rows amongst them which looks rather bad for a beginning".*
 
@@ -156,7 +156,7 @@ The note reads as follows:
 
 It was William who was to next make an entry in his diary:
 
-"**November 26th.** *Fine and squally. This day, while at dinner a large ship bore on us. An alarm was given to get letters ready for England. She turned out to be a Dutchman homeward bound. Several vessels seen ahead. We are all covered with a rash which prevents fever (?). We are in the best part of the ship having free air from the cabin windows which are left open day and night. The Captain is very careful when the squalls come, to avoid them and recover his course again."would permit. 21 o 5' South lat. 32 o 41' West long. Isle of Trinidad bearing N.E. a quarter N. 139 miles.*
+"**November 26th.** *Fine and squally. This day, while at dinner a large ship bore on us. An alarm was given to get letters ready for England. She turned out to be a Dutchman homeward bound. Several vessels seen ahead. We are all covered with a rash which prevents fever (?). We are in the best part of the ship having free air from the cabin windows which are left open day and night. The Captain is very careful when the squalls come, to avoid them and recover his course again."*
 
 *December 9th. Passed the tropic of Capricorn this morning, steering S.S.E. with a fine wind all day.*
 
