@@ -4,7 +4,7 @@ Advertisements were to appear in the newspapers as passengers became established
 
 *"S.A. Register"*
 
-*Dr. J. Phin Smith, graduate of the University and MRCS, Edinburgh, takes this opportunity of intimating to the inhabitants of Adelaide that he has commenced the practise of his profession at Mrs.Bathgates, corner of Pulteney Street, and Rundle Street.*
+*Dr. J. Phin Smith, graduate of the University and MRCS, Edinburgh, takes this opportunity of intimating to the inhabitants of Adelaide that he has commenced the practise of his profession at Mrs. Bathgates, corner of Pulteney Street, and Rundle Street.*
 
 *Adelaide, March 1840*
 
@@ -65,7 +65,7 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *afflicted with typhus fever, through which we lost seven, and one fell overboard and was drowned; we expected to lose a great many more; three of my family were distressingly ill; we expected the death of my little boy every moment, but God has spared him. To describe to you my feelings amidst the groans and cries of the afflicted and the dying is impossible; I would make extracts from my journal to describe my feelings at the time, but I have not room.*
 
-*Then the funeral. this is shocking, the poor body sewn on in a sack, its form exposed, placed on a plank on the weather-gangway, with a few shot at the feet, and then to be interred in the turbulent fathomless ocean ? never shall I forget a funeral at sea.*
+*Then the funeral. this is shocking, the poor body sewn on in a sack, its form exposed, placed on a plank on the weather-gangway, with a few shot at the feet, and then to be interred in the turbulent fathomless ocean? never shall I forget a funeral at sea.*
 
 *Then your accommodation, when you reach the land of promise.*
 
@@ -81,7 +81,7 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *it would be of no use to you for the night; you are now exhausted with hunger and fatigue, your dear children crying with hunger and cold. You now enter into a place, out of which, perhaps, two or three or more of a family have been carried dead, probably some of the old dirty garments remain; your floor is nothing but the earth and dust; the smell from the burning of the oil and other causes is almost insufferable. Bad as it is, it*
 
-*is the only shelter, and you are obliged to enter; you want something now for your family to make use of; your enquiry is for a little wood, but you are told by the man who looks after the square, that there is no wood provided for the emigrants, and if he should give it to one he must give to all, - you may have some tomorrow from the natives, for a little bread; you ask for a little water ? you are told that there is a well in the centre of the square, but the water is brackish and you cannot drink it, you can getsome from the Torrens, but you must go across the country for half or three-quarters of*
+*is the only shelter, and you are obliged to enter; you want something now for your family to make use of; your enquiry is for a little wood, but you are told by the man who looks after the square, that there is no wood provided for the emigrants, and if he should give it to one he must give to all, - you may have some tomorrow from the natives, for a little bread; you ask for a little water? you are told that there is a well in the centre of the square, but the water is brackish and you cannot drink it, you can getsome from the Torrens, but you must go across the country for half or three-quarters of*
 
 *a mile and the person thinks it so dark you cannot find it.* *You at least want a little light, but you cannot obtain a candle without going to the city (so called) which is distant about half-a-mile; a step of the road you are not acquainted with, so that you must sit*
 
@@ -109,7 +109,7 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *there be? The colony produces nothing, every article of consumption is brought from some other colony, and you have nothing to offer in exchange but money, and that, as*
 
-*much as those bringing in their goods may demand; and there is no alternative, you must have them, that is their goods, or starve ? thus you perceive the colonist has not*
+*much as those bringing in their goods may demand; and there is no alternative, you must have them, that is their goods, or starve? thus you perceive the colonist has not*
 
 *the means of employing the labourer, and if he employs him, he has not the means of paying him his wages, the money being taken away as fast as it is brought in. I can*
 
@@ -142,7 +142,7 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *eagerly sought after, and readily employed; but the tables are turned, and there is scarcely an establishment in the colony but what are weekly discharging labourers or tradesmen, and the consequence of which is an attempt to lower the wages; and the*
 
-*wages will be lowered, so that a man and his family, after enduring the difficulties of the voyage, and parting with all that (..?..) fear on earth ? relatives and friends, will be no better off than at home.*
+*wages will be lowered, so that a man and his family, after enduring the difficulties of the voyage, and parting with all that (..?..) fear on earth? relatives and friends, will be no better off than at home.*
 
 *Though things are in such a state, yet ships are constantly coming out, bring our countrymen and country women to new scenes of sorrow and conflict, while at this time*
 
@@ -153,13 +153,13 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *Most happy should I be to give a very different account of the colony, and to be able to say to many of you, come out and better your condition; but this cannot be done at*
 
-*present. Should any improvement take place, I shall, if I live, be most happy to convey the pleasing intelligence. I might notice the situations and prospects of those who, with myself, have left Truro; but I will not do so, lest I should offend. I will leave every man to tell his own tale. I can tell you that I often wish, with them, that we were once more in our native land, - no difficulty at home should drive me ,no gilded toy should allure*
+*present. Should any improvement take place, I shall, if I live, be most happy to convey the pleasing intelligence. I might notice the situations and prospects of those who, with myself, have left Truro; but I will not do so, lest I should offend. I will leave every man to tell his own tale. I can tell you that I often wish, with them, that we were once more in our native land, - no difficulty at home should drive me, no gilded toy should allure*
 
 *me.*
 
 *There is one thing favourable to the colony, that is, the Governor is a very good gentleman; he is believed to be pious, as are also his family. The minister of the*
 
-*Episcopal Church appears to be desirous of doing good; his sermons are excellent. The church is very full, with a most respectable congregation. The morals of the colony arevery bad; there is a very great want of (torn) ; there is not the least dependence to be put on scarcely any one. This is generally acknowledged. The Sabbath is awfully desecrated , shooting, or any thing else which their fancies lead them to, is eagerly engaged in. I have much more to write, but at present I have not room; but which I shall soon communicate to some friend at home. I have now some work for about three weeks, began it three days past. I took it at contract, but the master, after I began if, was afraid that I should do too well, although it had been put up to public tender, and*
+*Episcopal Church appears to be desirous of doing good; his sermons are excellent. The church is very full, with a most respectable congregation. The morals of the colony arevery bad; there is a very great want of (torn); there is not the least dependence to be put on scarcely any one. This is generally acknowledged. The Sabbath is awfully desecrated, shooting, or any thing else which their fancies lead them to, is eagerly engaged in. I have much more to write, but at present I have not room; but which I shall soon communicate to some friend at home. I have now some work for about three weeks, began it three days past. I took it at contract, but the master, after I began if, was afraid that I should do too well, although it had been put up to public tender, and*
 
 *desired that I might do it as day work, to which I was obliged to consent.*
 
@@ -175,7 +175,7 @@ Latimer also needed to defend his work and the young colony in this lengthy exch
 
 *I know not whether there are any persons from Truro on board. This is the fourth letter*
 
-*I have written , one to my dear parents, one to Thomas Crocker, and one to Mr.*
+*I have written, one to my dear parents, one to Thomas Crocker, and one to Mr.*
 
 *Bath. Let my dear parents know of this.*
 

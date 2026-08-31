@@ -6,13 +6,13 @@ ANONYMOUS What is in a name (No citation found, copy held by this author ANONYMO
 
 BATESON, Charles, The Convict Ships 1787-1868, Sydney, A.H. & A.W.Reed, 1974
 
-BOWEN, Frank ' End of a famous ship. last survivor of East India Company's fleet. ( No citation given, stamped 22nd July 1939)
+BOWEN, Frank ' End of a famous ship. last survivor of East India Company's fleet. (No citation given, stamped 22nd July 1939)
 
 CHARLWOOD, Don, The Long Farewell \[ Settlers under sail\] Ringwood, Victoria Allen Lane/Penguin Books, 1981
 
 COATES, W. H., The Good Old Days of Shipping, Bombay, 1900
 
-COATES, W.H., The Old 'Country Trade' Of The East Indies, London Imray , Laurie, Norrie
+COATES, W.H., The Old 'Country Trade' Of The East Indies, London Imray, Laurie, Norrie
 
 &Wilson, 1911
 
@@ -22,9 +22,9 @@ GIBBS, R.M. A History of South Australia, Adelaide Balara Books, 1969
 
 HUGHES, Hugh and Lyn Discharged in New Zealand -Soldiers of the Imperial Foot Regiments who took their discharge in New Zealand 1840-1870, New Zealand Society Of Genealogists, 1988
 
-KERR,Colin An Exelent Coliney The Practical Idealists of 1836-1846,
+KERR, Colin An Exelent Coliney The Practical Idealists of 1836-1846,
 
-Adelaide, Rigby , 1968
+Adelaide, Rigby, 1968
 
 LUBBOCK, Basil The Colonial Clippers, Glasgow, James Brown & Son, 1924
 
@@ -48,7 +48,7 @@ WINCHESTER, Clarence ed. Shipping Wonders Of The World London, The Fleetway Hous
 
 ## Diaries
 
-KNIGHT, Henry \[Journal of a voyage to Port Jackson aboard "JAVA" \] retold in a letter of October 1853\] Held Private hands, transcript in Mitchell Library , N.S.W.
+KNIGHT, Henry \[Journal of a voyage to Port Jackson aboard "JAVA" \] retold in a letter of October 1853\] Held Private hands, transcript in Mitchell Library, N.S.W.
 
 MAYO, Dr. George Diary kept on board the "Asia", March 4th 1839 July l6th 1839 Mortlock Library of South Australiana, State Library of South Australia
 
@@ -68,7 +68,7 @@ SOUTHERN AUSTRALIAN February 12th 1840, March 30th 1840. THE TIMES (London) July
 
 Despatches to the Commissioners, 1838-1841 No. 20, March 3rd 1840 and No. 24, March 30th 1840,
 
-Resident Commissioner , George Gawler to the Secretary, Colonial Commissioners Public Records Office of South Australia
+Resident Commissioner, George Gawler to the Secretary, Colonial Commissioners Public Records Office of South Australia
 
 Despatches to the Resident Commissioner, 1840-1842 No. 69, November 4th, 1840 from Robert Torrens and others to Governor Gawler. Public Records Office of South Australia.
 

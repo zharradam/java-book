@@ -2,7 +2,7 @@
 
 A card announcing the sailing of the "JAVA" is still in the hands of descendants in Adelaide, of a family that purchased cabin accommodation the card reads as shown here:
 
-*For South Australia and under an engagement with Her Majesty's Colonization Commissioners To sail positively on 1/10/1839, (Calling at Plymouth to embark passengers on 16th October,) The fine first class teak-built ship Java, Burthen 1200 tons Alexander Duthie Commander Lying in the East India Dock. This ship's accommodations are unusually spacious and lofty and are so arranged as to ensure the comfort of the Cabin and Intermediate passengers. She will carry an experienced surgeon and assistant. For freight or passage apply to R.Scott Fairlie & Co, 37,Great Winchester Street; to*
+*For South Australia and under an engagement with Her Majesty's Colonization Commissioners To sail positively on 1/10/1839, (Calling at Plymouth to embark passengers on 16th October,) The fine first class teak-built ship Java, Burthen 1200 tons Alexander Duthie Commander Lying in the East India Dock. This ship's accommodations are unusually spacious and lofty and are so arranged as to ensure the comfort of the Cabin and Intermediate passengers. She will carry an experienced surgeon and assistant. For freight or passage apply to R.Scott Fairlie & Co, 37, Great Winchester Street; to*
 
 *John Pirie & Co., 3, Freeman's Court, Cornhill; to Ritherdon and Carr, 13, Bishopsgate Street within; or to Lachlan, Sons and MacLeod, 22 Great Alie Street, Goodman's Fields; or Lloyd's.*
 
@@ -242,7 +242,7 @@ James was next to record
 
 **February 2nd.** We have been beating about with a head wind since the last date. 35 o 30'S. lat 125 o 133' East long
 
-**February 3rd**. *This day we got the first sight of Western Australia ( ---- surely he meant South Australia) we passed several small islands and could just discern Cape Catastrophe, but were obliged to tack and run to the South owing to the head wind.'*
+**February 3rd**. *This day we got the first sight of Western Australia (---- surely he meant South Australia) we passed several small islands and could just discern Cape Catastrophe, but were obliged to tack and run to the South owing to the head wind.'*
 
 Also, on this day, William wrote in his diary
 
@@ -331,7 +331,7 @@ Dairy maids ... ... ... 3
 
 Laborers ... ... ... 37 16
 
-Miners.... ... ... ... 7 5
+Miners ... ... ... ... 7 5
 
 Masons ... ... ... 4
 

@@ -12,7 +12,7 @@ Miss Jane Cotter, Miss Ellen Cotter, Miss Charlotte Guy, Miss Mary Guy, Mrs Mary
 
 Intermediate
 
-Mr. Benjamin Conigrave, Mrs. Matilda Conigrave, (and two children), Mr.J Crews, Mr. A. Walters, Mr. Graham, O.E.Dorian, Alfred Dorian
+Mr. Benjamin Conigrave, Mrs. Matilda Conigrave, (and two children), Mr. J Crews, Mr. A. Walters, Mr. Graham, O.E.Dorian, Alfred Dorian
 
 Steerage
 
@@ -30,7 +30,7 @@ George and Cyrus as well as presumably his wife on board. James Trangmar and his
 
 Opie in S.A Records Prior to 1841 listed the following passengers not listed above:
 
-William Francis, Alice Nixon, Sarah Thomas, Charles Tonkin, James Tonkin, Mary J. Hocking, T.Wallace, Henry Veal, Peter Williams, Robert Dunstan, C. Edwards, Elizabeth Edwards, W.Edwards and W.Edwards jnr., John Moore, W.H.J Paine George Porter, Joseph Stanton, Bernard Greig, Mary Dutch, H.F.Francis, Mary Jane Jose, Jane Atkinson,R.L Low,.Mrs S.Downs, Thomas Hannigan, Mary McCarthy (nee Burnard), R. Burnard and E. Burnard, Mrs Eliza Barlow, John Coad and Thomas  Polkinghorne.
+William Francis, Alice Nixon, Sarah Thomas, Charles Tonkin, James Tonkin, Mary J. Hocking, T.Wallace, Henry Veal, Peter Williams, Robert Dunstan, C. Edwards, Elizabeth Edwards, W.Edwards and W.Edwards jnr., John Moore, W.H.J Paine George Porter, Joseph Stanton, Bernard Greig, Mary Dutch, H.F.Francis, Mary Jane Jose, Jane Atkinson, R.L Low, Mrs S.Downs, Thomas Hannigan, Mary McCarthy (nee Burnard), R. Burnard and E. Burnard, Mrs Eliza Barlow, John Coad and Thomas  Polkinghorne.
 
 From the records of the Pioneers Association of South Australia, the following names can also be added:
 
@@ -46,15 +46,15 @@ of this register:
 
 Lightfoot, Candy, Harnagin, Pleas, McCanock, E.Hailey, Philipia Bastian, Eliza Bastian, John Bastian and family, Samson Bastian Thomas Sleep and wife and child, Hawke, John Coad and wife, (space) Elizabeth Axford (husband died on voyage (not mentioned by William Richards), and five children,
 
-James Pearce and wife, Grace Gillard, Ann Coutts, William Francis, wife and four children, Elizabeth Trillegen Robert Dunstan and wife and five children, William Huxtable, wife and six children, Alice Polkinghorne and infant, Grace Polkinghorne, John Bennett, James Elvery, Ann Dennis, Austin, Coking, Thomas Major and wife and child, Langcake, Jammett, Thomas Chantie, Bennett Johns, Benjamin Gahan and wife and two children (third died on voyage), William Renwells , James Edwards, William Harris and wife, Joseph Stanton and wife.
+James Pearce and wife, Grace Gillard, Ann Coutts, William Francis, wife and four children, Elizabeth Trillegen Robert Dunstan and wife and five children, William Huxtable, wife and six children, Alice Polkinghorne and infant, Grace Polkinghorne, John Bennett, James Elvery, Ann Dennis, Austin, Coking, Thomas Major and wife and child, Langcake, Jammett, Thomas Chantie, Bennett Johns, Benjamin Gahan and wife and two children (third died on voyage), William Renwells, James Edwards, William Harris and wife, Joseph Stanton and wife.
 
 Following publication of a letter to the Editor of the Messenger Press during December/January
 
 1987/88, the following list of names were provided by descendants:
 
-William and Elizabeth Reynolds, James and Harriet Shakes (from Kent), Robert Dunstan with his wife Elizabeth and their children Robert, Elizabeth, Luke, Thomas and Mary who died on February13th 1840 ( a week after the "JAVA" arrived); William and Elizabeth Edwards, whose daughter
+William and Elizabeth Reynolds, James and Harriet Shakes (from Kent), Robert Dunstan with his wife Elizabeth and their children Robert, Elizabeth, Luke, Thomas and Mary who died on February13th 1840 (a week after the "JAVA" arrived); William and Elizabeth Edwards, whose daughter
 
-Caroline died at sea, and sons Henry and William. Also on board were Richard and Sarah Perkins, with two children Richard Anstice Perkins and Mary Ann Perkins. ( Mr. Perkins, according to the Perkins family history had been in the employ of the East India Company) , Mr. Simon Dalgleish.
+Caroline died at sea, and sons Henry and William. Also on board were Richard and Sarah Perkins, with two children Richard Anstice Perkins and Mary Ann Perkins. (Mr. Perkins, according to the Perkins family history had been in the employ of the East India Company), Mr. Simon Dalgleish.
 
 Other names to be given to the author include that of Nicholas and Susan Player, who came from Kenwyn, Truro in Cornwall with their children, Ellen, Elizabeth, Nicholas, John, and another male child. John Wills arrived with his wife Eliza and a daughter Eliza and a son John from Devonshire.
 

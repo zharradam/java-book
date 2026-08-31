@@ -45,13 +45,13 @@ World Ship Society, the late Rowan Hackman clearly places Java as being one of t
 
 India Company ships. He provides us with significant detail. In Part 2 Section1 Major Ships
 
-of the United Company 1708-1834 including the launch date of Tuesday , December 17th
+of the United Company 1708-1834 including the launch date of Tuesday, December 17th
 
 1811
 
-He stated she was launched by Anthony Blackmore ,Calcutta for Paxton & Co., London and
+He stated she was launched by Anthony Blackmore, Calcutta for Paxton & Co., London and
 
-Calcutta . Her first master was Captain Thomas Driver. From 1811 to 1825 she sailed in the
+Calcutta. Her first master was Captain Thomas Driver. From 1811 to 1825 she sailed in the
 
 Indian coastal trade and from 26/7/1825-15/3/1827 she sailed between Bengal and China.
 
@@ -77,7 +77,7 @@ Coates, again in his "The Good Old Days of Shipping" records what Fildes called 
 
 *"A girl of birth and position was so circumstanced that she was carried off by savage islanders, and a British naval party, landing to effect her rescue, found her taking refuge in a bush and bereft of her clothes. As the party approached she covered the upper part of her body with her hands. Her father, allegedly a Governor, showed his gratitude for her restoration to him by building and equipping the "JAVA", providing her with a figure-head of the nude bust of a woman with her hands crossed over her breast, and gave the vessel to the gallant naval officer, the rescuer of his daughter."*
 
-Fildes states that " in 1816 the "JAVA", was owned by Parton and Company, and was in the service of the East India Company,but following the extinction of John Company's commercial monopoly in 1834 she was owned by Mr. Joseph Somes, M.P. Somes was a ship owner of fame, in fact he was a member of the East India Company, he and is said to have to have been one of the leading British ship owners of the period, his fleet encompassing most trades from the East Indiaman to the South Sea whaler and Australian convict transport.
+Fildes states that " in 1816 the "JAVA", was owned by Parton and Company, and was in the service of the East India Company, but following the extinction of John Company's commercial monopoly in 1834 she was owned by Mr. Joseph Somes, M.P. Somes was a ship owner of fame, in fact he was a member of the East India Company, he and is said to have to have been one of the leading British ship owners of the period, his fleet encompassing most trades from the East Indiaman to the South Sea whaler and Australian convict transport.
 
 For several years the British Government chartered the "JAVA”, besides several other of Somes' ships, as a transport for troops and ordnance at the rate of seventeen shillings and eleven pence per month, per ton."
 

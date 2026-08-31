@@ -10,6 +10,6 @@ He became chairman of the municipality of Portland in 1860-61, and was the Mayor
 
 His family has a long history, originally coming from Normandy, settling both in Portslade, Sussex and another branch in York, England with a family crest- "A dexter arm embowed to armour holding in the hand, a sword."
 
-As early as the 16th century, the family were associated with shipbuilding, the family name then being known as Trankmore. A book, published in 1683, with the title "Mr. James Janiway's Legacy to his Friends ( Containing Twenty Seven Famous Instances of God's Providence in and About Sea dangers and Deliverances; with the names of several that were eyewitnesses to many of them"), mentions Captain John Trankmore who had been thrown overboard and somehow was rescued by another ship.
+As early as the 16th century, the family were associated with shipbuilding, the family name then being known as Trankmore. A book, published in 1683, with the title "Mr. James Janiway's Legacy to his Friends (Containing Twenty Seven Famous Instances of God's Providence in and About Sea dangers and Deliverances; with the names of several that were eyewitnesses to many of them"), mentions Captain John Trankmore who had been thrown overboard and somehow was rescued by another ship.
 
 These notes were supplied by Peter Trangmar, a descendant.

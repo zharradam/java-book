@@ -1,6 +1,6 @@
 # Medical Board Enquiry
 
-Governor Gawler, as William Richards and the newspapers indicated, was very disgusted at the treatment , or perhaps better said, lack of good treatment of the emigrants. He initiated an immediate Medical Board to enquire into the events that had occurred on board the "JAVA".
+Governor Gawler, as William Richards and the newspapers indicated, was very disgusted at the treatment, or perhaps better said, lack of good treatment of the emigrants. He initiated an immediate Medical Board to enquire into the events that had occurred on board the "JAVA".
 
 ## Proceedings of the Medical Board.
 
@@ -8,7 +8,7 @@ Governor Gawler, as William Richards and the newspapers indicated, was very disg
 
 Present
 
-J.P.Litchfield, Chairman J.G.Nash,Esq. J.Knott, Esq.
+J.P.Litchfield, Chairman J.G.Nash, Esq. J.Knott, Esq.
 
 The Board proceeded to examine into the cases of Jane Bassett, William Price, Mrs. Giles, Mr. Graham Poole, Mr. Landy, Mrs. Harris, Mr. McLeod, and adjourned its further proceedings until 11 o'clock a.m. on Wednesday 12th of February.
 
@@ -56,13 +56,13 @@ During the course of the enquiry, according to Colin Kerr, *" It was revealed th
 
 The arrogance of the Master of the ship, Captain Duthie is shown in the next quote from Kerr:
 
-*"... Captain Dutton* (Kerr had it wrong , it should be Duthie) *had eight sheep of his own, as well as a cow and calf on board (presumably the calf which was reared on milk that might have assisted the consumptive Mr. Watson) but so far from having these animals killed and given to the people suffering from lack of fresh provisions, and claiming fair compensation from the authorities, Captain Dutton was reported to have said it was no part of his duty as master of the ship to know the condition of the passengers on the lower deck."*
+*"... Captain Dutton* (Kerr had it wrong, it should be Duthie) *had eight sheep of his own, as well as a cow and calf on board (presumably the calf which was reared on milk that might have assisted the consumptive Mr. Watson) but so far from having these animals killed and given to the people suffering from lack of fresh provisions, and claiming fair compensation from the authorities, Captain Dutton was reported to have said it was no part of his duty as master of the ship to know the condition of the passengers on the lower deck."*
 
-What an outrageous state of affairs ! Both the ship's doctor and the Captain accepted no responsibility for the sad fate of their passengers. The person who was officially given the blame was the Surgeon Superintendent, that is the Colonization Commissioner's doctor on board the ship, Mr. Martin.
+What an outrageous state of affairs! Both the ship's doctor and the Captain accepted no responsibility for the sad fate of their passengers. The person who was officially given the blame was the Surgeon Superintendent, that is the Colonization Commissioner's doctor on board the ship, Mr. Martin.
 
-I will quote in full from the letter that George Gawler, the Governor, or as he signed himself the Resident Commissioner, wrote on 3rd March 1840, addressed to the Secretary, Colonial Commissioners ;
+I will quote in full from the letter that George Gawler, the Governor, or as he signed himself the Resident Commissioner, wrote on 3rd March 1840, addressed to the Secretary, Colonial Commissioners;
 
-I*n consequence of an application from Mr Beck, agent for the Ship "JAVA", I am induced to state for the information of the Commissioners that the particular remark at the bottom of the Immigration Certificates for that ship is not made under the impression that the claim of the owners to the whole or any part of the Charter-money has been forfeited.*
+*In consequence of an application from Mr Beck, agent for the Ship "JAVA", I am induced to state for the information of the Commissioners that the particular remark at the bottom of the Immigration Certificates for that ship is not made under the impression that the claim of the owners to the whole or any part of the Charter-money has been forfeited.*
 
 *It was inserted under the consideration that as great misconduct took place on board of the "JAVA" during her passage from England to South Australia, it was proper that the Commissioners be made acquainted with the fact in time to effect to the owners, if they should think proper to do so.*
 
@@ -70,7 +70,7 @@ I*n consequence of an application from Mr Beck, agent for the Ship "JAVA", I am 
 
 *All the proceedings of the investigation will be forwarded to England with as little delay as possible; they are only detained for the purpose of taking copies.*
 
-*I have , etc., George Gawler Resident Commissioner*
+*I have, etc., George Gawler Resident Commissioner*
 
 The above letter was sent on the "Katherine Stewart Forbes" on the 7th April.
 
@@ -94,7 +94,7 @@ Westminster
 
 Sir,
 
-I*n reference to your dispatches Nos 20 and 24 Immigration dated 3rd and 30th March 1840 regarding the sickness and mortality aboard the JAVA, we have the honour to transmit to you for your information the enclosed copy of a letter which we have addressed to the owners of the JAVA, embodying the observations which we have felt it right to make in this case.*
+*In reference to your dispatches Nos 20 and 24 Immigration dated 3rd and 30th March 1840 regarding the sickness and mortality aboard the JAVA, we have the honour to transmit to you for your information the enclosed copy of a letter which we have addressed to the owners of the JAVA, embodying the observations which we have felt it right to make in this case.*
 
 *We have the honour to be Sir,*
 
@@ -118,9 +118,9 @@ Kerr then quoted directly from the letter to the owners:
 
 *notwithstanding the liberality of the rations they were entitled to receive, suggests a doubt whether the people really had their due allowances."*
 
-Kerr told us that the Commissioners agreed with Gawler that the chief culprit was their own official, the Surgeon Superintendent Martin, but held that the owners must bear an equal share of blame for having selected ships' officers who abused their position. They were particularly scathing about Captain Duthie's contention that it was not his job to know how the lower deck passengers were getting on . The Commissioners they said "*...can in no way recognize the doctrine.", and threatened the strongest action against any master who might take such an attitude in the future.*
+Kerr told us that the Commissioners agreed with Gawler that the chief culprit was their own official, the Surgeon Superintendent Martin, but held that the owners must bear an equal share of blame for having selected ships' officers who abused their position. They were particularly scathing about Captain Duthie's contention that it was not his job to know how the lower deck passengers were getting on. The Commissioners they said "*...can in no way recognize the doctrine.", and threatened the strongest action against any master who might take such an attitude in the future.*
 
-It is assumed that the owners of the ship were eventually paid for the use of their ship as, according to Kerr, correspondence explaining the matter was lost. It seems that Governor Gawler, by blaming Dr Martin , prejudiced any opportunity by the Colonization Commissioners , to refuse to pay the owners, because of the ill treatment of their passengers. The Commissioners said in their letter
+It is assumed that the owners of the ship were eventually paid for the use of their ship as, according to Kerr, correspondence explaining the matter was lost. It seems that Governor Gawler, by blaming Dr Martin, prejudiced any opportunity by the Colonization Commissioners, to refuse to pay the owners, because of the ill treatment of their passengers. The Commissioners said in their letter
 
 "*The Commissioners therefore, while they record the opinions above expressed, are precluded by Governor Gawler's decision from questioning the right of the owners of the "JAVA" or their representatives to the remaining moiety of the passage money for that vessel."*
 
@@ -202,7 +202,7 @@ Thomas Williams 18/3/40 - 3/6/40 5
 
 Benjamin Gahan 28/3/40 - 18/4/40 3 Family supported during his illness, child died on the 23rd April \[he had already lost another on the voyage\], buried by this department.
 
-Bennett Johns 1 8/3/40 - 13/5/40 2 Relief approved to this person upon an application by Mr.Ward.
+Bennett Johns 1 8/3/40 - 13/5/40 2 Relief approved to this person upon an application by Mr. Ward.
 
 Thomas Chanter 31/3/40 - 7/4/4 1
 

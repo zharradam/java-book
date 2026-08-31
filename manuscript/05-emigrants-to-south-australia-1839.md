@@ -102,7 +102,7 @@ This document whilst detailed, will give readers and appreciation of what was in
 
 *39. They must be honest, sober, industrious, and of general good character.*
 
-*40. They must be able-bodied, of sane mind,and not less than 15 nor more than 30 years of age.*
+*40. They must be able-bodied, of sane mind, and not less than 15 nor more than 30 years of age.*
 
 *Superior artisans, excellent agricultural labourers, or other very desirable emigrants will however occasionally be accepted, though their age may be somewhat more advanced.*
 
@@ -174,7 +174,7 @@ made. Some 500 of these applicants were actually accepted which represented a mu
 
 number, as whole families were often included in a single application.
 
-It was in response to one such campaign organised by Latimer that many were encouraged to apply for passage on the "JAVA".This item appeared in the Cornish newspaper, the West Briton in late 1839. Latimer in fact wrote for the newspaper as well as acting as an emigration agent
+It was in response to one such campaign organised by Latimer that many were encouraged to apply for passage on the "JAVA". This item appeared in the Cornish newspaper, the West Briton in late 1839. Latimer in fact wrote for the newspaper as well as acting as an emigration agent
 
 *“SOUTH AUSTRALIAN EMIGRATION - Mr. Latimer of Truro, has lately sent away above one hundred emigrants for South Australia, by the "Java" and "Orissa," all of whom, when they were last seen in Plymouth, were in high spirits, and expressed the greatest gratification at the liberal manner in which they were treated. Among those who have left is Mr. Burnard, of Truro, whose splendid portrait of Penhallow Peters, Esq., was exhibited at the Polytechnic Hall and obtained a prize of GBP*
 

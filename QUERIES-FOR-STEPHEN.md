@@ -60,6 +60,17 @@ as "…with approximately 500 passengers. It arrived at Holdfast Bay with 30
 men, women and children having perished…". Both have been left exactly as
 you wrote them. Merge them, or leave as is?
 
+**G. Two tables in *"Java" leaves London* need your reading.** The
+Emigration Office return of 26th February 1840 — the "Adults Male Female
+Total" breakdown and the "CLASSIFIED LIST" of trades — are currently
+running text rather than tables, because the column meanings aren't
+recoverable from the text alone. The trades list is headed "Male Female
+M. S." but each row carries only two figures ("Blacksmiths … 4 1"), so we
+cannot tell whether those are male/female or married/single. Same for the
+age bands ("5 14 years and under 15 5 5"). If you can tell us what the
+columns are — or send a photograph of the original page — both will be set
+as proper tables like the Masters and Owners list.
+
 **D. Photographs.** For each image, we need: where it belongs in the text,
 the caption in your words, the credit line, and who holds the rights (see
 PERMISSIONS.md).

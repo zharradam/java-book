@@ -6,7 +6,7 @@ In researching this book, the author discovered that another vessel, the barque 
 
 Ronald Gibbs, a South Australian historian, mentioned in his "A History of South Australia " that, in a voyage lasting from October 4th 1852- January 19th 1853, a large ship, the "Shackamaxon", carrying 696 emigrants, had arrived with 65 people (57 children, 8 adults) having perished.
 
-## Another "JAVA" !
+## Another "JAVA"!
 
 The author had brought to his attention the sad coincidence of another emigrant ship with the name "JAVA" that had a very similar loss of lives on a voyage to Port Jackson in 1853. I believe that this ship was in fact a German registered vessel which was smaller than the English "JAVA", being 968 tons against the 1175 tons of the English ship. This ship, which sailed from Hamburg and a had a German captain, then, after picking up Government passengers from Gravesend on the 21st November 1852 with over 500 passengers, had lost 32 young children and two adults by the time it had reached the Cape Province on the 25th February 1853.
 
