@@ -32,8 +32,8 @@
 
 *O God, make us grateful for all that has come to us from our ancestors.*
 
-*We thank you for their faith in you which was a source of courage and comfort in. days of distress.*
+*We thank you for their faith in you which was a source of courage and comfort in days of distress.*
 
 *Grant that this faith may also be a reality to us so that we too may find the strength that we need through our trust in you.*
 
-*Through ,Jesus Christ, Our Lord. Amen.*
+*Through Jesus Christ, Our Lord. Amen.*

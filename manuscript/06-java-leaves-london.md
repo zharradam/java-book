@@ -156,7 +156,7 @@ The note reads as follows:
 
 It was William who was to next make an entry in his diary:
 
-"**November 26th.** *Fine and squally. This day, while at dinner a large ship bore on us. An alarm was given to get letters ready for England. She turned out to be a Dutchman homeward bound. Several vessels seen ahead. We are all covered with a rash which prevents fever (?). We are in the best part of the ship having free air from the cabin windows which are left open day and night. The Captain is very careful when the squalls come, to avoid them and recover his course again."*
+"**November 26th.** *Fine and squally. This day, while at dinner a large ship bore on us. An alarm was given to get letters ready for England. She turned out to be a Dutchman homeward bound. Several vessels seen ahead. We are all covered with a rash which prevents fever (?). We are in the best part of the ship having free air from the cabin windows which are left open day and night. The Captain is very careful when the squalls come, to avoid them and recover his course again. 21 o 5' South lat. 32 o 41' West long. Isle of Trinidad bearing N.E. a quarter N. 139 miles."*
 
 *December 9th. Passed the tropic of Capricorn this morning, steering S.S.E. with a fine wind all day.*
 
