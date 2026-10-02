@@ -20,9 +20,7 @@ The Board met and proceeded to examine Captain Duthie and Mr. Martin and adjourn
 
 The Board met and proceeded to examine Mr. Ward, assistant surgeon of the JAVA.
 
-A copy of the complaint made by the Immigrant passengers to His Excellency the Governor was requested. Motion was ordered to be given at the next day of meeting that the Board would be sending
-
-to him any additional testimony that could be tendered. The Board adjourned for Captain Duthie's statement which is promised by Saturday or Monday next. Adjourned at 3 of clock.
+A copy of the complaint made by the Immigrant passengers to His Excellency the Governor was requested. Motion was ordered to be given at the next day of meeting that the Board would be sending to him any additional testimony that could be tendered. The Board adjourned for Captain Duthie's statement which is promised by Saturday or Monday next. Adjourned at 3 of clock.
 
 15th February.
 
@@ -56,7 +54,7 @@ During the course of the enquiry, according to Colin Kerr, *" It was revealed th
 
 The arrogance of the Master of the ship, Captain Duthie is shown in the next quote from Kerr:
 
-*"... Captain Dutton* (Kerr had it wrong, it should be Duthie) *had eight sheep of his own, as well as a cow and calf on board (presumably the calf which was reared on milk that might have assisted the consumptive Mr. Watson) but so far from having these animals killed and given to the people suffering from lack of fresh provisions, and claiming fair compensation from the authorities, Captain Dutton was reported to have said it was no part of his duty as master of the ship to know the condition of the passengers on the lower deck."*
+> *"... Captain Dutton* (Kerr had it wrong, it should be Duthie) *had eight sheep of his own, as well as a cow and calf on board (presumably the calf which was reared on milk that might have assisted the consumptive Mr. Watson) but so far from having these animals killed and given to the people suffering from lack of fresh provisions, and claiming fair compensation from the authorities, Captain Dutton was reported to have said it was no part of his duty as master of the ship to know the condition of the passengers on the lower deck."*
 
 What an outrageous state of affairs! Both the ship's doctor and the Captain accepted no responsibility for the sad fate of their passengers. The person who was officially given the blame was the Surgeon Superintendent, that is the Colonization Commissioner's doctor on board the ship, Mr. Martin.
 
@@ -114,9 +112,7 @@ Colin Kerr referred to this correspondence and it is perhaps best to use his wor
 
 Kerr then quoted directly from the letter to the owners:
 
-"*The appearance of want under which the people are said to have reached the Colony,*
-
-*notwithstanding the liberality of the rations they were entitled to receive, suggests a doubt whether the people really had their due allowances."*
+"*The appearance of want under which the people are said to have reached the Colony, notwithstanding the liberality of the rations they were entitled to receive, suggests a doubt whether the people really had their due allowances."*
 
 Kerr told us that the Commissioners agreed with Gawler that the chief culprit was their own official, the Surgeon Superintendent Martin, but held that the owners must bear an equal share of blame for having selected ships' officers who abused their position. They were particularly scathing about Captain Duthie's contention that it was not his job to know how the lower deck passengers were getting on. The Commissioners they said "*...can in no way recognize the doctrine.", and threatened the strongest action against any master who might take such an attitude in the future.*
 
@@ -130,94 +126,51 @@ I have included as many passengers' names as possible in Appendix B.
 
 In a document at the Mortlock Library, one can read the names of the passengers from the "JAVA" who made application for relief. The document, "Return of sick and destitute Emigrants who have received relief from the Emigration Department" \[for the half years to June 30th, December 31st\], gave details of name, by what vessel arrived, date of arrival, cause of relief, what period relief given, and numbers involved and remarks. To show the numbers involved only the name, period, numbers and remarks will be given below:
 
-Name           Period of Relief         Numbers           Remarks
-
-Elizabeth Trileggen 10/2/40 - 11/3/40 1
-
-Candy 10/2/40 - 3/3/40 1
-
-Harnagin 10/2/40 - 24/3/40 1
-
-William Harris 10/2/40 - 10/3/40 2 Wife supported during husbands illness. HUSBAND'S
-
-Price 14/2/40 - 28/2/40 1
-
-Joseph Stanton 15/2/40 - 11/6/40 1 Wife supported during husbands illness. HUSBAND'S
-
-McCanock 15/2/40 - 22/2/40 1
-
-Thomas Sleep 17/2/40 - 24/2/40 1 Died from a severe attack of typhus on the 13th April and was buried by this department, also a child on the 16th May. Wife appointed nurse to the male ward in the hospital. She is allowed rations and one pound per week. She has one child living. At the time of his death he was attended by a private medical practitioner.
-
-Huxtable 18/2/40 - 16/5/40 1
-
-Pease 18/2/40 - 29/2/40 1
-
-Lightfoot 18/2/40 - 11/6/40 1
-
-Philipia Bastian 19/2/40 - 14/3/40 1
-
-Hawke 19/2/40 - 26/2/40 1
-
-John Coad 19/2/40 - 24/3/40 1 Died on 24th March and buried by this department. wife receiving support, she has had a child since her husbands death. HUSBAND'S
-
-Eliza Bastian 19/2/40 - 26/2/40 1
-
-Elizabeth Axford 19/2/40 - 30/6/40 5 Landed a widow in the Colony. she lost her husband on the voyage out, and one child on the 18th June, since her arrival in the Colony. Herself and four children entirely supported by the department. Being a respectable women she is occasionally employed in nursing and washing to enable her to procure clothing for her family.
-
-James Pearce 20/2/40 - 5/3/40 2 Wife supported during husbands illness. HUSBAND'S
-
-Grace Gillard 20/2/40 - 7/3/40 1
-
-Ann Coutts 22/2/40 - 1/3/40 1
-
-William Francis 22/2/40 - 17/2/40 6 Wife supported during husbands illness. HUSBAND'S
-
-Higgins 24/2/40 - 3/3/40 1
-
-Ann Dennis 24/2/40 - 2/4/40 1
-
-Austin 24/2/40 - 3/3/40 1
-
-Dunstan 24/2/40 - 3/3/40 1
-
-Alice Polkinghorne 25/2/40 - 3/3/40 1
-
-Grace Polkinghorne 25/2/40 - 3/3/40 1
-
-Cocking 26/2/40 - 4/3/40 1
-
-Major 26/2/40 - 11/3/40 1
-
-Langcake 27/2/40 - 5/3/40 1
-
-Jammett 2/2/40 - 7/4/40 1
-
-Bassett 29/2/40 - 7/3/40 1
-
-Edwards 29/2/40 - 7/3/40 1
-
-William Renwells 3/3/40 - 10/3/40 1
-
-Thomas Williams 18/3/40 - 3/6/40 5
-
-Benjamin Gahan 28/3/40 - 18/4/40 3 Family supported during his illness, child died on the 23rd April \[he had already lost another on the voyage\], buried by this department.
-
-Bennett Johns 1 8/3/40 - 13/5/40 2 Relief approved to this person upon an application by Mr. Ward.
-
-Thomas Chanter 31/3/40 - 7/4/4 1
-
-James Edwards 16/4/40 - 30/4/40 2 Wife supported during husbands HUSBAND'Sillness.
-
-Elizabeth Sleep 30/4/40 - 14/5/40 1 Widow of Thomas Sleep, nurse of the male ward in the hospital.
-
-E.Hailey 6/4/40 - 13/5/40 1
-
-Thomas Major 7/5/40 - 14/5/40 3 Family supported
-
-Sampson Bastian 28/5/40 - 18/6/40 1 Received relief after application from Dr Ward.
-
-Robert Dunstan 27/5/40-11/6/40 7 Wife and 5 children received relief upon an application from the Private Secretary
-
-Lightfoot 4/5/40 - 11/7/40 1 Received relief upon an application from the Private Secretary
+| Name | Period of Relief | Numbers | Remarks |
+|:----------------------|:----------------------|:-------:|:-----------------------------------------------|
+| Elizabeth Trileggen | 10/2/40 - 11/3/40 | 1 |  |
+| Candy | 10/2/40 - 3/3/40 | 1 |  |
+| Harnagin | 10/2/40 - 24/3/40 | 1 |  |
+| William Harris | 10/2/40 - 10/3/40 | 2 | Wife supported during husbands illness. |
+| Price | 14/2/40 - 28/2/40 | 1 |  |
+| Joseph Stanton | 15/2/40 - 11/6/40 | 1 | Wife supported during husbands illness. |
+| McCanock | 15/2/40 - 22/2/40 | 1 |  |
+| Thomas Sleep | 17/2/40 - 24/2/40 | 1 | Died from a severe attack of typhus on the 13th April and was buried by this department, also a child on the 16th May. Wife appointed nurse to the male ward in the hospital. She is allowed rations and one pound per week. She has one child living. At the time of his death he was attended by a private medical practitioner. |
+| Huxtable | 18/2/40 - 16/5/40 | 1 |  |
+| Pease | 18/2/40 - 29/2/40 | 1 |  |
+| Lightfoot | 18/2/40 - 11/6/40 | 1 |  |
+| Philipia Bastian | 19/2/40 - 14/3/40 | 1 |  |
+| Hawke | 19/2/40 - 26/2/40 | 1 |  |
+| John Coad | 19/2/40 - 24/3/40 | 1 | Died on 24th March and buried by this department. wife receiving support, she has had a child since her husbands death. |
+| Eliza Bastian | 19/2/40 - 26/2/40 | 1 |  |
+| Elizabeth Axford | 19/2/40 - 30/6/40 | 5 | Landed a widow in the Colony. she lost her husband on the voyage out, and one child on the 18th June, since her arrival in the Colony. Herself and four children entirely supported by the department. Being a respectable women she is occasionally employed in nursing and washing to enable her to procure clothing for her family. |
+| James Pearce | 20/2/40 - 5/3/40 | 2 | Wife supported during husbands illness. |
+| Grace Gillard | 20/2/40 - 7/3/40 | 1 |  |
+| Ann Coutts | 22/2/40 - 1/3/40 | 1 |  |
+| William Francis | 22/2/40 - 17/2/40 | 6 | Wife supported during husbands illness. |
+| Higgins | 24/2/40 - 3/3/40 | 1 |  |
+| Ann Dennis | 24/2/40 - 2/4/40 | 1 |  |
+| Austin | 24/2/40 - 3/3/40 | 1 |  |
+| Dunstan | 24/2/40 - 3/3/40 | 1 |  |
+| Alice Polkinghorne | 25/2/40 - 3/3/40 | 1 |  |
+| Grace Polkinghorne | 25/2/40 - 3/3/40 | 1 |  |
+| Cocking | 26/2/40 - 4/3/40 | 1 |  |
+| Major | 26/2/40 - 11/3/40 | 1 |  |
+| Langcake | 27/2/40 - 5/3/40 | 1 |  |
+| Jammett | 2/2/40 - 7/4/40 | 1 |  |
+| Bassett | 29/2/40 - 7/3/40 | 1 |  |
+| Edwards | 29/2/40 - 7/3/40 | 1 |  |
+| William Renwells | 3/3/40 - 10/3/40 | 1 |  |
+| Thomas Williams | 18/3/40 - 3/6/40 | 5 |  |
+| Benjamin Gahan | 28/3/40 - 18/4/40 | 3 | Family supported during his illness, child died on the 23rd April \[he had already lost another on the voyage\], buried by this department. |
+| Bennett Johns | 18/3/40 - 13/5/40 | 2 | Relief approved to this person upon an application by Mr. Ward. |
+| Thomas Chanter | 31/3/40 - 7/4/40 | 1 |  |
+| James Edwards | 16/4/40 - 30/4/40 | 2 | Wife supported during husbands illness. |
+| Elizabeth Sleep | 30/4/40 - 14/5/40 | 1 | Widow of Thomas Sleep, nurse of the male ward in the hospital. |
+| E.Hailey | 6/4/40 - 13/5/40 | 1 |  |
+| Thomas Major | 7/5/40 - 14/5/40 | 3 | Family supported |
+| Sampson Bastian | 28/5/40 - 18/6/40 | 1 | Received relief after application from Dr Ward. |
+| Robert Dunstan | 27/5/40 - 11/6/40 | 7 | Wife and 5 children received relief upon an application from the Private Secretary |
+| Lightfoot | 4/5/40 - 11/7/40 | 1 | Received relief upon an application from the Private Secretary |
 
 (The date of arrival for some reason was incorrectly shown in these records as 28th January, but the ship, according to William Richards, was still 360 miles out on this date, arriving officially on February 6th., the manifest showing it reported on the 11th.

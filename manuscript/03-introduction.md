@@ -17,6 +17,8 @@ This story then, is an attempt to present the reader with the story of the voyag
 
 My research was initially based on the two diaries, one of which was written by William Richards, (possibly a cabin passenger, that is an emigrant who paid for a passage for himself and his family instead of registering for a free passage) and the other by James Trangmar, a gentleman who we are lead to believe was associated with the owners of the ship.
 
+![William Richards, born 19 March 1796, from a portrait of 1819. *Courtesy of Glenda Richards.*](images/portrait-william-richards-1819.jpg){width=40%}
+
 The most striking thing about the diaries is that Trangmar  did not mention any of the deaths at sea nor the sickness that many suffered, save of course the usual malaise that usually strikes those at sea. James, in fact would seem to have taken an instant dislike to the Cornish emigrants, for he wrote in his diary on the very day that the "JAVA" set sail:
 
 *"October 28th... more disturbances amongst us. I begin to have a very bad opinion of our Plymouth Emigrants, the greater part of them are Cornish people, and many of them are miners, they are a very uncouth and dissatisfied lot of people."*
@@ -31,6 +33,8 @@ The "JAVA" was built in the Calcutta Dockyards in 1811 and was launched from the
 
 David MacGregor, in "Merchant Sailing Ships 1775-1815", said that she "was licenced to trade to India... and must have been one of the largest merchantmen afloat that was not chartered by the East India Co."
 
+![The hulk of the Java at Gibraltar in 1918, when she was 107 years old. *From David MacGregor, Merchant Sailing Ships 1775–1815, Fig. 231.*](images/hulk-gibraltar-1918-macgregor.jpg){width=100%}
+
 There does seem to be conflicting information concerning this relationship with the East India Company. Clarence Winchester in "Shipping Wonders of the World" published in 1938 said of the "JAVA" that "she was one of the beautifully made teak ships ... launched in 1811, during the Napoleonic wars.
 
 At that time the Navigation Acts treated India as a foreign country, and ships built there could not be given British Registry, or trade with the mother country without special permission. But the French privateers were taking such a toll of British shipping that the authorities were grateful for anything that would float.
@@ -39,31 +43,17 @@ In 1813 the JAVA was admitted to British registry in the service of the East Ind
 
 This is clearly in conflict with McGregor; somewhere between the two authors must be the true situation- I believe that it was in fact an East Indiaman.
 
-In his definitive work “Ships of the East India Company” published posthumously by the
+In his definitive work “Ships of the East India Company” published posthumously by the World Ship Society, the late Rowan Hackman clearly places Java as being one of the East India Company ships. He provides us with significant detail. In Part 2 Section1 Major Ships of the United Company 1708-1834 including the launch date of Tuesday, December 17th 1811 He stated she was launched by Anthony Blackmore, Calcutta for Paxton & Co., London and Calcutta. Her first master was Captain Thomas Driver. From 1811 to 1825 she sailed in the Indian coastal trade and from 26/7/1825-15/3/1827 she sailed between Bengal and China.
 
-World Ship Society, the late Rowan Hackman clearly places Java as being one of the East
-
-India Company ships. He provides us with significant detail. In Part 2 Section1 Major Ships
-
-of the United Company 1708-1834 including the launch date of Tuesday, December 17th
-
-1811
-
-He stated she was launched by Anthony Blackmore, Calcutta for Paxton & Co., London and
-
-Calcutta. Her first master was Captain Thomas Driver. From 1811 to 1825 she sailed in the
-
-Indian coastal trade and from 26/7/1825-15/3/1827 she sailed between Bengal and China.
-
-She then left the East India Company and from 1827 to 1866 traded between London and
-
-India, the Far East and Australia. He also provided the date on which the Java was sunk by Italian limpet mines this was Friday, September 20th 1940. He states also that she was the only East Indiaman employed by the Company to have survived until the Second World War.
+She then left the East India Company and from 1827 to 1866 traded between London and India, the Far East and Australia. He also provided the date on which the Java was sunk by Italian limpet mines this was Friday, September 20th 1940. He states also that she was the only East Indiaman employed by the Company to have survived until the Second World War.
 
 The "JAVA", whilst having the title of East Indiaman was perhaps better known as what has been called a "country ship". This was the name given to ships that traded between the ports of the East.
 
 In an essay, "Extraordinary ships in an exotic commerce", in "The East Indiamen", (in The Seafarers series), by the editors of Time-Life Books, a very good description is given of the construction of the "country ships" which I cannot better for an insight into how the "JAVA" would have been constructed.
 
-I quote:   *"Country ships were custom-built in Indian shipyards to resemble the mighty English Indiamen that eastern pirates had learned to fear, but they were in many ways superior to their European look-a-likes. Their hull was cut from Malabar teak, a strong, oily, almost knotless wood that often lasted a century without rotting. Each plank was rabbetted into its neighbour so tightly that calking was unnecessary. Instead an iron-hard resinous glue was laid between the planks, giving the finished hull the appearance of being cut from one solid piece of wood. Below the waterline, the hull was smeared with a remarkable compound of fish oil and lime that both repelled wood devouring teredo worms and prevented the accumulation of layers of mossy sea flora that clung to the copper plating used on British vessels.*
+I quote:
+
+*"Country ships were custom-built in Indian shipyards to resemble the mighty English Indiamen that eastern pirates had learned to fear, but they were in many ways superior to their European look-a-likes. Their hull was cut from Malabar teak, a strong, oily, almost knotless wood that often lasted a century without rotting. Each plank was rabbetted into its neighbour so tightly that calking was unnecessary. Instead an iron-hard resinous glue was laid between the planks, giving the finished hull the appearance of being cut from one solid piece of wood. Below the waterline, the hull was smeared with a remarkable compound of fish oil and lime that both repelled wood devouring teredo worms and prevented the accumulation of layers of mossy sea flora that clung to the copper plating used on British vessels.*
 
 *The country ships were rigged with rot-resistant rope turned from the fibers of coconut shells, and they carried sails cut from Bombay canvas - a coarse, golden hued material akin to dungaree. Many of the lighter booms and spars were made of bamboo. These colorful touches blended with banks of hand carved gilded molding to make the country traders as beautiful as theywere seaworthy. One Englishman, witnessing a flotilla of country ships setting off on a voyage ... was moved to exclaim,*
 

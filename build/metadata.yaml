@@ -32,7 +32,8 @@ margin-right: 2.5cm
 margin-top: 2.5cm
 margin-bottom: 2.5cm
 fontsize: 11pt
-mainfont: "New Computer Modern"         # Typst built-in; swap for e.g. "Georgia" later
+mainfont: "Libertinus Serif"           # bundled with Typst, so the GitHub build has it
+extracts_upright: true                   # quoted extracts: indented and upright (build/extracts.lua)
 toc: true
 toc-depth: 2
 numbersections: false

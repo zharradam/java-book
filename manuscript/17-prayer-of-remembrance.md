@@ -6,21 +6,15 @@
 
 *We remember today and give thanks to you for our forebears through whom the gift of life came to us.*
 
-*For those who journeyed across the seas*
-
-*to the uttermost parts of the earth and settled in this our land*
+*For those who journeyed across the seas to the uttermost parts of the earth and settled in this our land*
 
 *(Response) We remember and give thanks, O God*
 
-*For their courage in adversity, their persistence in the face of sickness and*
-
-*death, their determination in the presence of discouragement*
+*For their courage in adversity, their persistence in the face of sickness and death, their determination in the presence of discouragement*
 
 *(Response) We remember and give thanks, O God*
 
-*For the work to which they set their hand in a new country, the hard toil they were prepared to undertake*
-
-*and their contribution to the society of which we are now members*
+*For the work to which they set their hand in a new country, the hard toil they were prepared to undertake and their contribution to the society of which we are now members*
 
 *(Response) We remember and give thanks, O God*
 

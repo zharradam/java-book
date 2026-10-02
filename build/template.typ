@@ -32,18 +32,41 @@
 
 #set par(justify: true, leading: 0.7em)
 
-#set table(inset: 6pt, stroke: (x, y) => if y == 0 { (bottom: 0.7pt) } else { none })
+// The rule under a header row comes from the header itself (Pandoc emits
+// table.hline() only when a table has one), so headerless lists get none.
+#set table(inset: 6pt, stroke: none)
+#set table.hline(stroke: 0.7pt)
+// tables sit at the left margin (images stay centred)
+#show figure.where(kind: table): set align(left)
+#show table: set text(size: 9pt, hyphenate: false)
+#show table: set par(justify: false)
+// long tables must flow across pages rather than overflow the figure
+#show figure.where(kind: table): set block(breakable: true)
 
 #show figure.where(kind: image): set figure.caption(position: bottom)
-#show figure.caption: it => [#emph[#it.body]]
+// Captions: smaller than the body and set apart, so they cannot be read on
+// into the paragraph that follows.
+#show figure.caption: it => text(size: 9pt)[#emph[#it.body]]
+#set figure(gap: 0.9em)
+#show figure.where(kind: image): set block(above: 1.8em, below: 2em)
+// Pictures may sit at the top or bottom of a page so that a picture too tall
+// for the space left does not leave the rest of the page empty.
+#show figure.where(kind: image): set figure(placement: auto)
+#set place(clearance: 2em)
+// Quoted extracts (diaries, letters, newspapers) are set in from both margins.
+#show quote.where(block: true): it => pad(left: 2.2em, right: 2.2em, it.body)
 
 // ── Chapter headings: every level-1 heading starts a fresh page ──
+// The heading takes the top of the page itself, so that a picture placed
+// early in a chapter cannot float up above that chapter's title.
 #show heading.where(level: 1): it => {
   pagebreak(weak: true)
-  v(6em)
-  set text(size: 20pt, weight: "bold")
-  block(it.body)
-  v(2.5em)
+  place(top, float: true, clearance: 0pt, block(width: 100%, {
+    v(6em)
+    set text(size: 20pt, weight: "bold")
+    block(it.body)
+    v(2.5em)
+  }))
 }
 
 #show heading.where(level: 2): it => {

@@ -2,15 +2,17 @@
 
 A card announcing the sailing of the "JAVA" is still in the hands of descendants in Adelaide, of a family that purchased cabin accommodation the card reads as shown here:
 
-*For South Australia and under an engagement with Her Majesty's Colonization Commissioners To sail positively on 1/10/1839, (Calling at Plymouth to embark passengers on 16th October,) The fine first class teak-built ship Java, Burthen 1200 tons Alexander Duthie Commander Lying in the East India Dock. This ship's accommodations are unusually spacious and lofty and are so arranged as to ensure the comfort of the Cabin and Intermediate passengers. She will carry an experienced surgeon and assistant. For freight or passage apply to R.Scott Fairlie & Co, 37, Great Winchester Street; to*
+![The card announcing the sailing of the Java, Alexander Duthie commander, 1839. *Courtesy of Leila Conigrave.*](images/sailing-card-java-1839.jpg){width=85%}
 
-*John Pirie & Co., 3, Freeman's Court, Cornhill; to Ritherdon and Carr, 13, Bishopsgate Street within; or to Lachlan, Sons and MacLeod, 22 Great Alie Street, Goodman's Fields; or Lloyd's.*
+*For South Australia and under an engagement with Her Majesty's Colonization Commissioners To sail positively on 1/10/1839, (Calling at Plymouth to embark passengers on 16th October,) The fine first class teak-built ship Java, Burthen 1200 tons Alexander Duthie Commander Lying in the East India Dock. This ship's accommodations are unusually spacious and lofty and are so arranged as to ensure the comfort of the Cabin and Intermediate passengers. She will carry an experienced surgeon and assistant. For freight or passage apply to R.Scott Fairlie & Co, 37, Great Winchester Street; to John Pirie & Co., 3, Freeman's Court, Cornhill; to Ritherdon and Carr, 13, Bishopsgate Street within; or to Lachlan, Sons and MacLeod, 22 Great Alie Street, Goodman's Fields; or Lloyd's.*
 
 Benjamin Conigrave purchased a passage for himself and his wife Matilda and two children, on 16th September 1839.
 
 On 16th September 1839 Benjamin Conigrave purchased a passage for himself, his wife Matilda and two children.
 
-The reverse of the card announcing the sailing date of the "JAVA", has the following information: *“Mr. Conigrave has taken an Intermediate Cabin No. 25 (if -it is not engaged) for himself, wife and infant child 16 months, for 77 pounds and has this day paid out 25 pounds on account. Lachlan, Sons, 16/9/1839.'*
+The reverse of the card announcing the sailing date of the "JAVA", has the following information:
+
+*“Mr. Conigrave has taken an Intermediate Cabin No. 25 (if -it is not engaged) for himself, wife and infant child 16 months, for 77 pounds and has this day paid out 25 pounds on account. Lachlan, Sons, 16/9/1839.'*
 
 The sailing of the "JAVA" from St. Katherine’s Dock was not without controversy for an article appeared in the Weekly Dispatch" on November 3rd 1839 and later printed about the time the "JAVA" arrived in Adelaide, in which, as I have indicated in my preface, it was said that the carpenters who were engaged in fitting her out, declared that the planks would not retain a screw or nail. Whilst the article may not in truth be referring to the "JAVA", I have included reference to it as a guide to the problems facing the emigrants of the time.
 
@@ -32,9 +34,9 @@ What were the conditions like for those unfortunate enough to be travelling in s
 
 *The few beds that they had were in a dreadful state, for the straw, once wet with sea water, soon rotted, besides which they used the between decks for all sorts of filthy purposes. Whenever vessels put back from distress, all these miseries and sufferings were exhibited in the most aggravated form.*
 
-*In one case it appeared that, the vessel having experienced rough weather, the people were unable to go on deck and cook their provisions: the strongest maintained the upper hand over the weakest: and it was even said that there were women who died of starvation. At that time the passengers were expected to cook for themselves and from their being unable to do this the greatest suffering arose. It was naturally at the commencement of the voyage that this system produced its worst effects, for the first days were those in which the people suffered most from sea-sickness and under the prostration of body thereby induced were wholly incapacitated from cooking. Thus though provisions might be*
+*In one case it appeared that, the vessel having experienced rough weather, the people were unable to go on deck and cook their provisions: the strongest maintained the upper hand over the weakest: and it was even said that there were women who died of starvation. At that time the passengers were expected to cook for themselves and from their being unable to do this the greatest suffering arose. It was naturally at the commencement of the voyage that this system produced its worst effects, for the first days were those in which the people suffered most from sea-sickness and under the prostration of body thereby induced were wholly incapacitated from cooking. Thus though provisions might be abundant enough, the passengers would be half starved."*
 
-*abundant enough, the passengers would be half starved."*
+![Between decks on an emigrant ship. *Courtesy of Don Charlwood.*](images/engraving-between-decks.jpg){width=100%}
 
 A later author, Don Charlwood in his " The Long Farewell- Settlers under Sail" (Melbourne, Allen Lane, 1981, p I), told us "*Of those who set of, it is ironic that those condemned to transportation as convicts had best prospect of coming safely through. Fearful though their treatment often was - especially in the earliest years - losses among them through illness at sea averaged less than four per  voyage. On an emigrant ship a surgeon would not have considered it untoward had losses run to five times this number"*
 
@@ -74,9 +76,7 @@ The weather changes were something to note,
 
 **November 7th.** Coats, neck cloth and stockings off."
 
-The next day James has a detailed entry as compared to George, when the former
-
-noted:
+The next day James has a detailed entry as compared to George, when the former noted:
 
 *In the afternoon, a heavy squall struck us from the N.W. while off the Western Islands; the effect of the wind upon the sea was wonderful, the waves seeming to rise in size as if by magic. *
 
@@ -92,9 +92,7 @@ On the next day, William noted:
 
 On this next day which was the 9th November, James' entry was also noting bad weather but with a good deal more colourful description:
 
-"*Still bad weather. It blew almost a gale in the night and today we are under closed reefed topsails. A laughable scene occurred on deck this morning --- a man whose wife had been sick during the night, came on deck to empty the tin chamber into which she had cast up her accompts, and instead of going to leeward with it, he brought it to one of the ports to windward --- the wind being very stiff at the time it blew the whole of the contents back into his face making him spit and splutter all over the place --- every time the man makes his appearance on deck, he has shown the wry faces he made at his breakfast. I saw some beautiful little fishes floating by the side of the ship, called Portuguese man*
-
-*of war, they appear to resemble the nautilus fish very much."*
+"*Still bad weather. It blew almost a gale in the night and today we are under closed reefed topsails. A laughable scene occurred on deck this morning --- a man whose wife had been sick during the night, came on deck to empty the tin chamber into which she had cast up her accompts, and instead of going to leeward with it, he brought it to one of the ports to windward --- the wind being very stiff at the time it blew the whole of the contents back into his face making him spit and splutter all over the place --- every time the man makes his appearance on deck, he has shown the wry faces he made at his breakfast. I saw some beautiful little fishes floating by the side of the ship, called Portuguese man of war, they appear to resemble the nautilus fish very much."*
 
 **On the 10th**, William noted that the weather was fine and that the ship passed Madeira.
 
@@ -112,11 +110,7 @@ I will next quote from William's diary when he consolidated comments for the per
 
 If William thought that nothing in particular had occurred even though 4 children had died, then James was of a similar mind when he noted in his diary on his next day of record, **November 18th:**
 
-*"Nothing of interest has occurred, till this morning, since the last date. We have had very fine weather, but the trade winds are very light, sometimes failing us altogether. I am*
-
-*generally on deck of a morning between 5 and 6, and this morning I saw the most beautiful*
-
-*sight you can conceive, that of seeing the sun rise with a clear sky in the tropicks (sic), the mornings have been very thick and cloudy ever since we left England, this being the first clear morning we have had, but that was not the only sight --- on our ob. bow we saw high land considered to be 90 miles ahead, it proved to be the Island of San Antonio, one of the Cape de Verd Islands, by 5 in the afternoon we were abreast of it, 18 miles from shore, having run at the rate of 8 to 9 knots an hour all day."*
+*"Nothing of interest has occurred, till this morning, since the last date. We have had very fine weather, but the trade winds are very light, sometimes failing us altogether. I am generally on deck of a morning between 5 and 6, and this morning I saw the most beautiful sight you can conceive, that of seeing the sun rise with a clear sky in the tropicks (sic), the mornings have been very thick and cloudy ever since we left England, this being the first clear morning we have had, but that was not the only sight --- on our ob. bow we saw high land considered to be 90 miles ahead, it proved to be the Island of San Antonio, one of the Cape de Verd Islands, by 5 in the afternoon we were abreast of it, 18 miles from shore, having run at the rate of 8 to 9 knots an hour all day."*
 
 The next entry in the diary of William Richards was the first record by him of an adult's death:
 
@@ -144,7 +138,9 @@ The diary entry for William Richards is so very different for the same day - eve
 
 William's diary for the **25th November** was as follows:
 
-*"Caught the S. E. trades. Child died. Mr. Watson, Gentn passenger died leaving a wife and 3 children bound to Bathurst having purchased Land there prior to leaving England. When the coffin was thrown overboard, owing to the 5, 181b shot which ran to the foot, the lid flew open and the coffin, with the Body went off erect under water but did not sink."* \[It was this entry, of course, which led Colin Kerr in his "An Exelent Coliney", to name his chapter "The Floating Coffin".\] William continued with
+*"Caught the S. E. trades. Child died. Mr. Watson, Gentn passenger died leaving a wife and 3 children bound to Bathurst having purchased Land there prior to leaving England. When the coffin was thrown overboard, owing to the 5, 181b shot which ran to the foot, the lid flew open and the coffin, with the Body went off erect under water but did not sink."*
+
+\[It was this entry, of course, which led Colin Kerr in his "An Exelent Coliney", to name his chapter "The Floating Coffin".\] William continued with
 
 *"Ship in sight going west, the first we have seen since the 10th."*
 
@@ -152,7 +148,9 @@ At some stage he added in the left hand margin of his diary, a sad note about Mr
 
 The note reads as follows:
 
-*"Mr. Watson was in the habit of spiting blood and nothing but a Milk Diet prevented it. Previous to his leaving England he paid £250 for his passage with a written agreement signed by the owners and Captn. that he should be supplied with a quart of Milk a day. This he had for a week or two, when it was cut off, that the calf might be reared --- he soon flaged."* (Authors note, spelling as original)
+*"Mr. Watson was in the habit of spiting blood and nothing but a Milk Diet prevented it. Previous to his leaving England he paid £250 for his passage with a written agreement signed by the owners and Captn. that he should be supplied with a quart of Milk a day. This he had for a week or two, when it was cut off, that the calf might be reared --- he soon flaged."*
+
+(Authors note, spelling as original)
 
 It was William who was to next make an entry in his diary:
 
@@ -162,11 +160,11 @@ It was William who was to next make an entry in his diary:
 
 *24 of FS. lat. 30 o 2' West long.*
 
-**December 10th.** *About 5'o'clock this morning saw the spout of a Sperm whale several*
+**December 10th.** *About 5'o'clock this morning saw the spout of a Sperm whale several times.*
 
-*times.*
+**December 11th.** *Today at 12 we are at 30 o 7' South lat. 27 o 45 'West long."*
 
-**December 11th.** *Today at 12 we are at 30 o 7' South lat. 27 o 45 'West long."* William made similar observations about whales in the same period:
+William made similar observations about whales in the same period:
 
 **13th** *In the latitude of The Cape but far west. Lost the trades but got a fine wind to work up the longitude.*
 
@@ -178,7 +176,7 @@ It was William who was to next make an entry in his diary:
 
 **20th**. *S.W. Several albatross killed.*
 
-**21st**. E. *Ahead, great complaints about the provisions, beef thrown overboard, pork stinking. Dr Martin very haughty. The supposed ladies in the cuddy discovered to be bad characters'.*
+**21st**. *E. Ahead, great complaints about the provisions, beef thrown overboard, pork stinking. Dr Martin very haughty. The supposed ladies in the cuddy discovered to be bad characters'.*
 
 On **December 22nd,** James received an invitation to dine which again may give an indication of his status on board:
 
@@ -190,15 +188,15 @@ The next day also, James was to make social arrangements:
 
 William on the same day, **December 23rd,** wrote the following in his diary
 
-"Christmas Eve(sic) *A double allowance of grog, 1/21b of flour, l oz. of raisins, 1/2 oz of suet to each."*
+> "*Christmas Eve*(sic) *A double allowance of grog, 1/21b of flour, l oz. of raisins, 1/2 oz of suet to each."*
 
 The next day, **24th of December**, William recorded
 
-*"24th Xmas Day. Puddings, drunkards discovered, too many on board breaking out in*
-
-*boils."*
+*"24th Xmas Day. Puddings, drunkards discovered, too many on board breaking out in boils."*
 
 On the **25th,** William recorded simply "*Child died'*
+
+![An emigrant family below decks. *Courtesy of Don Charlwood.*](images/engraving-emigrant-family.jpg){width=100%}
 
 James wrote at length about Christmas Day
 
@@ -212,7 +210,7 @@ The next entries in James' diary take us to the New Year:
 
 **December 28th.** *we have been running from 101/2 to 11 knots all night, rather squally. Passed the Cape this evening*
 
-**December 31** st. *I have been very unwell for several days but am now much better. 38 o 45' South lat.*
+**December 31st.** *I have been very unwell for several days but am now much better. 38 o 45' South lat.*
 
 *27o 18'East long. One of the men got very drunk this evening, went up on deck and insulted the officer of the watch --- he ordered him to go aft but the man refused to go. In the meantime the ship carpenter went and told the Captain to arm himself for the ship, was in a state of mutiny. The Captain, who from all accounts, was tipsy at the time came on deck and began lashing away at the man with his sword. The man then became very mutinous, and there is no doubt but that it would have ended badly if the Chief Mate had not intervened between the Captain and the man. Officers afterwards secured the drunk man, but not without some hazard, for he drew his knife upon them and stabbed the second mate in the leg. The others dispersed but were in a state of mutiny all night, refusing to work or do anything."*
 
@@ -246,7 +244,9 @@ James was next to record
 
 Also, on this day, William wrote in his diary
 
-"*Wind changed on our furlough to the S. W. fine breeze."* and on the next
+"*Wind changed on our furlough to the S. W. fine breeze."*
+
+and on the next
 
 **" 4th** *This morning 8.a.m. Saw land, all hands rejoiced, headland entrance to St Vincent’s Gulf, tacked three points tacked every 4 hours."*
 
@@ -289,71 +289,43 @@ February 26th 1840
 
 1 Hereby certify that the following free emigrants, sent out by the Colonization Commissioners for South Australia, on board the JAVA, Alex Duthie, Master, have been duly landed in the Province:
 
-Adults Male Female Total
+|  | Adults | Male | Female | Total |
+|---:|:---|---:|---:|---:|
+| 180 | Married | 90 | 90 | 180 |
+| 75 | Single | 36 | 39 | 75 |
+|  | Children: |  |  |  |
+| 5 | 14 years and under 15 | 5 | 5 |  |
+| 41 | 7 years and under 14 | 18 | 23 |  |
+| 80 | 1 years and under 7 | 41 | 39 |  |
+| 32 | Under 1 yr. not counted | 23 | 9 |  |
+| 37 |  |  |  |  |
+| 413 | Adults 307 |  |  |  |
 
-180 Married ... ... ... 90 90 180
-
-75 Single 36 39 75 Children:
-
-5 14 years and under 15 5 5
-
-41 7 years and under 14 18 23
-
-80 1 years and under 7 41 39
-
-32 Under 1 yr. not counted 23 9
-
-37
-
-413 Adults 307
-
-CLASSIFIED LIST Male Female M. S.
-
-Blacksmiths ... 4 1
-
-Bakers ... ... ... 2
-
-Butchers ... ... ... 1 1
-
-Carpenters ... ... ... 11 6
-
-Cabinet makers ... ... 2
-
-Curriers ... ... ... ... 2
-
-Coopers ... ... ... ... 1
-
-Domestic servants ... ... 24
-
-Dressmakers ... ... ... 5
-
-Dairy maids ... ... ... 3
-
-Laborers ... ... ... 37 16
-
-Miners ... ... ... ... 7 5
-
-Masons ... ... ... 4
-
-Midwives ... ... ... 2
-
-Milliners ... ... ... 2
-
-Ship carpenters ... ... 2
-
-Shoemakers ... ... ... 5
-
-Shepherds ... ... ... 3 4
-
-Sawyer ... ... ... 1
-
-Painter ... ... ... ... 1
-
-Pump borer ... ... ... 1
-
-Tailors ... ... ... ... 3
-
-90 35 36
+| CLASSIFIED LIST Male Female M. S. |  |  |  |
+|:---|---:|---:|---:|
+| Blacksmiths | 4 | 1 |  |
+| Bakers | 2 |  |  |
+| Butchers | 1 | 1 |  |
+| Carpenters | 11 | 6 |  |
+| Cabinet makers | 2 |  |  |
+| Curriers | 2 |  |  |
+| Coopers | 1 |  |  |
+| Domestic servants | 24 |  |  |
+| Dressmakers | 5 |  |  |
+| Dairy maids | 3 |  |  |
+| Laborers | 37 | 16 |  |
+| Miners | 7 | 5 |  |
+| Masons | 4 |  |  |
+| Midwives | 2 |  |  |
+| Milliners | 2 |  |  |
+| Ship carpenters | 2 |  |  |
+| Shoemakers | 5 |  |  |
+| Shepherds | 3 | 4 |  |
+| Sawyer | 1 |  |  |
+| Painter | 1 |  |  |
+| Pump borer | 1 |  |  |
+| Tailors | 3 |  |  |
+|  | 90 | 35 | 36 |
 
 W.SMILLIE EMIGRATION AGENT
 
@@ -367,9 +339,7 @@ This article received an immediate response in two newspapers at least when they
 
 *Sir,*
 
-*I have just observed in the "Adelaide Chronicle " of yesterday, the statement that shameful*
-
-*misconduct had been attributed to the surgeon of the ship "JAVA'. The paragraph referring to me, I must request you to give publicity to a complete disavowal on my part, of having had anything to do with the unpleasant proceedings that have taken place on board that vessel. As I have had nothing what ever to do with the Emigrants, I cannot consequently be affected by any complaints which they may have made. I have the honor to remain, Sir*
+*I have just observed in the "Adelaide Chronicle " of yesterday, the statement that shameful misconduct had been attributed to the surgeon of the ship "JAVA'. The paragraph referring to me, I must request you to give publicity to a complete disavowal on my part, of having had anything to do with the unpleasant proceedings that have taken place on board that vessel. As I have had nothing what ever to do with the Emigrants, I cannot consequently be affected by any complaints which they may have made. I have the honor to remain, Sir*
 
 *Your most obedient servant, J.Phin. Smith M.D. Surgeon to the ship "JAVA"*
 
@@ -379,15 +349,13 @@ The editors of the "Southern Australian" published the doctor's letter with the 
 
 Likewise the Adelaide Chronicle on the 23 February clarified the doctors status when it ran the following article,
 
-"The "JAVA"--Mr. Smith surgeon of the JAVA, has addressed a note to the Editor of the Southern Australian, complaining of a statement published in the Chronicle of the 11th inst., *"referring to him as surgeon of the "JAVA". As we had not the pleasure of Mr. Smith's acquaintance, and were ignorant even of his name till it appeared in print, our allusion could not be personal to him; and as, at the time we wrote, we were not aware that there were two surgeons on board the JAVA, it is equally plain we referred to the doctor in charge of the emigrants. If Mr. Smith had done us the honour to point out to ourselves the mistake, we should have been most happy to have acknowledged it immediately."*
+*"The "JAVA"--Mr. Smith surgeon of the JAVA, has addressed a note to the Editor of the Southern Australian, complaining of a statement published in the Chronicle of the 11th inst., "referring to him as surgeon of the "JAVA". As we had not the pleasure of Mr. Smith's acquaintance, and were ignorant even of his name till it appeared in print, our allusion could not be personal to him; and as, at the time we wrote, we were not aware that there were two surgeons on board the JAVA, it is equally plain we referred to the doctor in charge of the emigrants. If Mr. Smith had done us the honour to point out to ourselves the mistake, we should have been most happy to have acknowledged it immediately."*
 
 *How strange it seems from this author's modern perspective that a doctor who traveled on a ship on which there was so much suffering and death can say that he had nothing to with the emigrants and be allowed to rest his case!*
 
 As indicated earlier, after the "JAVA" had left London, that city's press had carried an article in the"Weekly Dispatch" on November 3rd. 1839, which was then reprinted by the "South Australian Register" on March 30th1840 in full with two supplementary paragraphs. The article, "Rascally Conditions of Emigrant Ships" was followed with this paragraph;
 
-*"The ship alluded to in the above extract was probably the "JAVA". which arrived here safe after a short passage and has since sailed for Batavia. It is a remarkable fact that all the emigrant ships bound to this Province, from its establishment to the present time have arrived safe and landed their passengers (now about 12,000), without casualty of any serious kind whatever. In the case of the "JAVA", numerous complaints were made and certainly a very large proportion of children on board died during the passage. An official investigation into the matter took place, but it has not been thought proper to publish either the evidence or the result. We can, therefore, only guess that the latter has been favourable to the master of the ship, and that there were no just causes of complaint on the part of the emigrants, from the circumstance that the usual certificates were granted and no ulterior*
-
-*proceedings took place. We regret much that the investigation in this affair has been kept secret, or that it should be considered in any quarter that the public --- the party most interested, has not the foremost right to be acquainted with the facts, or the matter, involving life or death, can be satisfactorily, if secretly adjusted.*
+*"The ship alluded to in the above extract was probably the "JAVA". which arrived here safe after a short passage and has since sailed for Batavia. It is a remarkable fact that all the emigrant ships bound to this Province, from its establishment to the present time have arrived safe and landed their passengers (now about 12,000), without casualty of any serious kind whatever. In the case of the "JAVA", numerous complaints were made and certainly a very large proportion of children on board died during the passage. An official investigation into the matter took place, but it has not been thought proper to publish either the evidence or the result. We can, therefore, only guess that the latter has been favourable to the master of the ship, and that there were no just causes of complaint on the part of the emigrants, from the circumstance that the usual certificates were granted and no ulterior proceedings took place. We regret much that the investigation in this affair has been kept secret, or that it should be considered in any quarter that the public --- the party most interested, has not the foremost right to be acquainted with the facts, or the matter, involving life or death, can be satisfactorily, if secretly adjusted.*
 
 *For instance, no one is ignorant of the report that the cause of the mortality in question was to be traced to the stingy and illiberal screwing of the Captain by the Colonization Commissioners with regard to the supply of medical comforts and fresh provisions; nay, that the Captain proved that to be the fact. Now surely if this is to be an unjust statement, it is of a character sufficiently grave to merit contradiction; while if it is to be founded in truth, the interests alike of the colony and of humanity require that the affair be exposed, and some public means be taken to prevent the continuance of so reprehensible a system.*
 

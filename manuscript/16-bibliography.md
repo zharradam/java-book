@@ -12,9 +12,7 @@ CHARLWOOD, Don, The Long Farewell \[ Settlers under sail\] Ringwood, Victoria Al
 
 COATES, W. H., The Good Old Days of Shipping, Bombay, 1900
 
-COATES, W.H., The Old 'Country Trade' Of The East Indies, London Imray, Laurie, Norrie
-
-&Wilson, 1911
+COATES, W.H., The Old 'Country Trade' Of The East Indies, London Imray, Laurie, Norrie &Wilson, 1911
 
 FILDES, H. An old East Indiaman (no citation found, copy held by this author)
 
@@ -22,13 +20,9 @@ GIBBS, R.M. A History of South Australia, Adelaide Balara Books, 1969
 
 HUGHES, Hugh and Lyn Discharged in New Zealand -Soldiers of the Imperial Foot Regiments who took their discharge in New Zealand 1840-1870, New Zealand Society Of Genealogists, 1988
 
-KERR, Colin An Exelent Coliney The Practical Idealists of 1836-1846,
-
-Adelaide, Rigby, 1968
+KERR, Colin An Exelent Coliney The Practical Idealists of 1836-1846, Adelaide, Rigby, 1968
 
 LUBBOCK, Basil The Colonial Clippers, Glasgow, James Brown & Son, 1924
-
-1846,
 
 LUBBOCK, Basil The Blackwall Frigates, Glasgow, Brown, Son & Ferguson 1922
 

@@ -46,3 +46,32 @@ Italicised the Introduction epigraph (user decision); Adair quotes in
 ch04 left roman (user decision). Removed the stray space after the
 opening quote mark on 10 displayed quotations (8 in ch06, 1 in ch07,
 1 in ch15). Word-diff vs HEAD: PASS.
+
+--- Relief return: best-guess repairs (29 Sep 2026, to be confirmed by Stephen) ---
+stray HUSBAND'S removed
+   was: | William Harris | 10/2/40 - 10/3/40 | 2 | Wife supported during husbands illness. HUSBAND'S |
+   now: | William Harris | 10/2/40 - 10/3/40 | 2 | Wife supported during husbands illness. |
+stray HUSBAND'S removed
+   was: | Joseph Stanton | 15/2/40 - 11/6/40 | 1 | Wife supported during husbands illness. HUSBAND'S |
+   now: | Joseph Stanton | 15/2/40 - 11/6/40 | 1 | Wife supported during husbands illness. |
+stray HUSBAND'S removed
+   was: | John Coad | 19/2/40 - 24/3/40 | 1 | Died on 24th March and buried by this department. wife receiving support, she has had a child since her husbands death. HUSBAND'S |
+   now: | John Coad | 19/2/40 - 24/3/40 | 1 | Died on 24th March and buried by this department. wife receiving support, she has had a child since her husbands death. |
+stray HUSBAND'S removed
+   was: | James Pearce | 20/2/40 - 5/3/40 | 2 | Wife supported during husbands illness. HUSBAND'S |
+   now: | James Pearce | 20/2/40 - 5/3/40 | 2 | Wife supported during husbands illness. |
+stray HUSBAND'S removed
+   was: | William Francis | 22/2/40 - 17/2/40 | 6 | Wife supported during husbands illness. HUSBAND'S |
+   now: | William Francis | 22/2/40 - 17/2/40 | 6 | Wife supported during husbands illness. |
+stray HUSBAND'S removed
+   was: | James Edwards | 16/4/40 - 30/4/40 | 2 | Wife supported during husbands HUSBAND'Sillness. |
+   now: | James Edwards | 16/4/40 - 30/4/40 | 2 | Wife supported during husbands illness. |
+space inside the date closed up
+   was: | Bennett Johns | 1 8/3/40 - 13/5/40 | 2 | Relief approved to this person upon an application by Mr. Ward. |
+   now: | Bennett Johns | 18/3/40 - 13/5/40 | 2 | Relief approved to this person upon an application by Mr. Ward. |
+year completed: every date in the return is 1840
+   was: | Thomas Chanter | 31/3/40 - 7/4/4 | 1 |  |
+   now: | Thomas Chanter | 31/3/40 - 7/4/40 | 1 |  |
+spacing made consistent
+   was: | Robert Dunstan | 27/5/40-11/6/40 | 7 | Wife and 5 children received relief upon an application from the Private Secretary |
+   now: | Robert Dunstan | 27/5/40 - 11/6/40 | 7 | Wife and 5 children received relief upon an application from the Private Secretary |

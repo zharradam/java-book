@@ -74,14 +74,60 @@ years and under 15 5 5"). Tell us what the columns are — or send a
 photograph of the original page — and both will be set as proper tables
 like the Masters and Owners list.
 
-**C. Photographs.** For each image we need four things: where it belongs in
-the text, the caption in your words, the credit line, and who holds the
-rights (see PERMISSIONS.md).
+**C. Photographs — credits received 29 September, with thanks.** Glenda
+Richards, the State Library of South Australia, Leila Conigrave, Don
+Charlwood, Peter Staveley and the Barnett family collection are all now in
+the captions. Four small things remain:
+
+- ✅ **The photograph of the tug alongside the Java** — now credited to the
+  Maritime Museum, Genoa (2 October).
+- **The Genoa newspaper cutting (added 2 October)** sits after the tug
+  photograph, with an English translation of its caption. Which newspaper
+  was it, and is 1939 right? Please also check the translation.
+- **James Trangmar's portrait (p. 64)** is credited "from a copy supplied by
+  Norma Trangmar", going by the Preface. Correct?
+- **The two Latimer posters (pp. 11 and 16)** are credited to the South
+  Australian Maritime Museum, from the stamp on the reproductions. Correct?
+- **The two 1872 group photographs (p. 67)** carry the citation printed on
+  the page they came from: Mortlock Library of South Australiana, B7865,
+  photographer T. Duryea. Correct?
 
 **D. Cover.** The book currently has a typographic cover with no
 photograph. Options: leave it as it is, ask the National Library of New
 Zealand for permission to use the Gibraltar photograph, or use one of your
 own images.
+
+**E. The relief return (pp. 39–41).** Now set as a table. Four repairs were
+made on a best guess — please confirm or correct:
+
+- The word **HUSBAND'S** stood at the end of five remarks, and in the middle
+  of a sixth ("during husbands HUSBAND'Sillness"). It has been removed
+  throughout; "husbands illness" is left as it was.
+- **Bennett Johns** — "1 8/3/40" now reads 18/3/40.
+- **Thomas Chanter** — "7/4/4" now reads 7/4/40, every other date in the
+  return being 1840.
+- **Robert Dunstan** — "27/5/40-11/6/40" spaced like the rest.
+
+Two could not be settled and are left exactly as printed:
+
+- **William Francis** — relief runs "22/2/40 - 17/2/40", ending before it
+  begins. 27/2/40, or 17/3/40?
+- **Jammett** — relief begins "2/2/40", four days before the ship arrived.
+  It sits between entries dated 27/2 and 29/2, so 27/2/40 or 28/2/40 seem
+  likely — unless it is as the original has it, since you note the return
+  itself gives the arrival as 28th January.
+
+**F. The age breakdown (p. 32).** One row reads "5 — 14 years and under 15 —
+5 — 5". Five boys and five girls cannot total five, and five is the figure
+that makes the grand total come to 413. Which of the three is wrong? The two
+loose figures at the foot, "37" and "413 Adults 307", are also unexplained —
+is 307 the count in statute adults?
+
+**G. The passenger list (Appendix B).** Entries 3517–3561 follow the page
+you scanned exactly. For the 117 entries after 3561, which figures belong
+under Male, Female and Child had to be worked out from the run-together
+text. Nothing in the book says so, so please check those rows against your
+original — or scan the remaining pages and they will be made exact.
 
 ## Changes made on Michael's side — no words altered
 

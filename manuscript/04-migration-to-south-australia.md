@@ -18,13 +18,13 @@ However, this approach to recruiting emigrants was essentially pragmatic. The pu
 
 What was more, emigration agents used the pub lectures to remind prospective emigrants of the need for sobriety.
 
+![Isaac Latimer's notice of a free lecture on emigration at the King's Head Inn, Chacewater, August 1839. *Reproduction courtesy of the South Australian Maritime Museum; original held by the Royal Institution of Cornwall, Truro.*](images/poster-latimer-lecture-chacewater-1839.jpg){width=62%}
+
 For example, one lecturer, Isaac Latimer, emphasised that 'applicants must be able to obtain a good character as honest, sober, industrious men. They must be real labourers going out to work in the Colony, of sound mind and body'."
 
 "As mentioned previously, publicans were deemed to be unsuitable character referees - as purveyors of alcohol to potential emigrants they were thought to be in no position to judge the sobriety and honesty of such people. The irony is that publicans were probably in a very good position to make such assessments."
 
-Finally, the emigration lectures were also significant because of their focus on the conduct of male labourers. This can be explained in two ways. First, the
-
-physical labour and trade skills of emigrant males were (at the time) ascribed greater social importance than female labour, such as domestic service.
+Finally, the emigration lectures were also significant because of their focus on the conduct of male labourers. This can be explained in two ways. First, the physical labour and trade skills of emigrant males were (at the time) ascribed greater social importance than female labour, such as domestic service.
 
 Second, it was more common for working-class males, rather than females, to be regular drinkers in public houses.” Labour History. Number 70 • May 1996 pp 131-154
 

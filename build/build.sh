@@ -16,6 +16,8 @@ COMMON_ARGS=(
   --metadata-file=build/metadata.yaml
   --resource-path=.:manuscript
   --toc
+  --wrap=none
+  --lua-filter=build/extracts.lua
 )
 
 # EPUB — include the cover only if the file exists

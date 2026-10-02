@@ -2,6 +2,8 @@
 
 James Trangmar is described in Burkes Colonial Gentry as "Trangmar of Burswood". We learn that he was born at Brighton, in Sussex, on the 10th March 1820; and that his first marriage was at Longford, Tasmania to Mary Ann Coulston, on the 17th July, 1849. The children of this marriage were James William, Henry Watson, George Charles, and Ann. Mary Ann died on the 6th. July 1861.
 
+![James Trangmar in the uniform of the Portland Western Artillery. *From a copy supplied by Norma Trangmar (see Preface).*](images/portrait-james-trangmar.jpg){width=45%}
+
 He then married Catherine McKery and they had one son, Ernest Albert. His rural interests included land at Burswood, Portland; Bochara, River Wannon, Violet Creek, on Violet Creek, Hamilton and Morgiana also at Wannon and also Cape Nelson, Trewalla.
 
 He set up a general merchants business with George. G Crouch (his brother-law) in Portland, Victoria in 1846, but was in England from 1848-1849. In 1850 he was elected to the Portland Shire Council. In 1853 he dissolved the partnership with Crouch. He handed over his merchandising concerns to Charles Marshall in 1862, and took up pastoral pursuits. He was appointed Captain with the Portland Detachment of the western Artillery on the first day of June 1871 and was promoted to Major in 1879 and retired as Colonel in 1883. He was Justice of the Peace for the Western Bailiwick, and Returning Officer for Portland.

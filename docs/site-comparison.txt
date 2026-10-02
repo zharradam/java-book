@@ -1,0 +1,191 @@
+Comparison of the live site (tenbratpress.org, fetched 29 September 2026, unchanged since August)
+with the finished PDF. Words are compared ignoring case and punctuation.
+SITE ONLY = on the site but not in the book.  PDF ONLY = in the book but not on the site.
+
+site: 29190 words    pdf: 29488 words
+spacing/hyphenation-only differences (ignored): 25
+words differing only in capitalisation: 117
+word differences: 55
+
+[1] after "..."
+     SITE ONLY: Java by Stephen Michael Barnett Stephen Michael Barnett stephenmichaelbarnett gmail com   (11 words)
+[2] after "...gmail com PREFACE TO THE"
+     SITE ONLY: EIGHTH   (1 words)
+     PDF ONLY : Ninth   (1 words)
+[3] after "...exceeded expectations and attracted well"
+     SITE ONLY: with   (1 words)
+[4] after "...indeed written by William Richards"
+     SITE ONLY: However   (1 words)
+     PDF ONLY : Nevertheless   (1 words)
+[5] after "...complete certainty I will simply"
+     SITE ONLY: refer to   (2 words)
+     PDF ONLY : regard   (1 words)
+[6] after "...the colony from wheat grown"
+     PDF ONLY : William Frederick Richards born 18 January 1824 in police uniform he served 1852 1858 Courtesy of Glenda Richards   (18 words)
+[7] after "...two children on the voyage"
+     PDF ONLY : Thanks also to Michael Cherry for preparing the 2026 electronic editions   (11 words)
+[8] after "...being among steerage class passengers"
+     SITE ONLY: This is   (2 words)
+[9] after "...particularly true of the children"
+     PDF ONLY : who perished   (2 words)
+[10] after "...left Plymouth after leaving London"
+     SITE ONLY: with approximately 500 passengers It arrived at Holdfast Bay with 30 men women and children having perished on the voyage The greatest loss of life had been amongst the steerage passengers particularly the children   (34 words)
+[11] after "...passengers particularly the children However"
+     SITE ONLY: the   (1 words)
+[12] after "...the owners of the ship"
+     PDF ONLY : William Richards born 19 March 1796 from a portrait of 1819 Courtesy of Glenda Richards   (15 words)
+[13] after "...1811 during the Napoleonic wars"
+     PDF ONLY : The hulk of the Java at Gibraltar in 1918 when she was 107 years old From David MacGregor Merchant Sailing Ships 1775 1815 Fig 231   (25 words)
+[14] after "...position to make such assessments"
+     PDF ONLY : Isaac Latimer s notice of a free lecture on emigration at the King s Head Inn Chacewater August 1839 Reproduction courtesy of the South Australian Maritime Museum original held by the Royal Institution of Cornwall Truro   (36 words)
+[15] after "...unmarried will not be rejected"
+     PDF ONLY : Latimer s poster announcing a meeting at Bodmin on 15 October to see applicants for a free passage to South Australia Repro duction courtesy of the South Australian Maritime Museum   (30 words)
+[16] after "...New South Wales and Van"
+     SITE ONLY: Dieman   (1 words)
+     PDF ONLY : Diemen   (1 words)
+[17] after "...cornwall 1839 misc oct html"
+     PDF ONLY : Poster offering free emigration to Port Adelaide by the Java of 1200 tons naming Mr I Latimer of Truro as agent State Library of South Australia D 6029 L   (29 words)
+[18] after "...oct html JAVA leaves London"
+     PDF ONLY : The card announcing the sailing of the Java Alexander Duthie commander 1839 Courtesy of Leila Conigrave   (16 words)
+[19] after "...take on the Cornish Emigrants"
+     SITE ONLY: Consistency needed here October 12th 1839 18thof October   (8 words)
+     PDF ONLY : Between decks on an emigrant ship Courtesy of Don Charlwood   (10 words)
+[20] after "...and recover his course again"
+     SITE ONLY: would permit   (2 words)
+[21] after "...24th of December William recorded"
+     PDF ONLY : An emigrant family below decks Courtesy of Don Charlwood   (9 words)
+[22] after "...75 Single 36 39 75"
+     PDF ONLY : Adults Male Female Total   (4 words)
+[23] after "...Wife supported during husbands illness"
+     SITE ONLY: HUSBAND S   (2 words)
+[24] after "...2 40 11 6 40"
+     SITE ONLY: 1   (1 words)
+[25] after "...Wife supported during husbands illness"
+     SITE ONLY: HUSBAND S   (2 words)
+     PDF ONLY : Name Period of Relief Numbers Remarks   (6 words)
+[26] after "...child since her husbands death"
+     SITE ONLY: HUSBAND S   (2 words)
+[27] after "...Wife supported during husbands illness"
+     SITE ONLY: HUSBAND S   (2 words)
+[28] after "...Wife supported during husbands illness"
+     SITE ONLY: HUSBAND S   (2 words)
+[29] after "...3 40 3 6 40"
+     SITE ONLY: 5   (1 words)
+     PDF ONLY : Name Period of Relief Numbers Remarks   (6 words)
+[30] after "...31 3 40 7 4"
+     SITE ONLY: 4   (1 words)
+     PDF ONLY : 40   (1 words)
+[31] after "...2 Wife supported during husbands"
+     SITE ONLY: HUSBAND Sillness   (2 words)
+     PDF ONLY : illness   (1 words)
+[32] after "...as if hiding her nakedness"
+     PDF ONLY : The Java s name still legible on her stern Gibraltar Photograph courtesy of Peter Staveley R N The coal hulk from the starboard bow Photograph courtesy of Peter Staveley R N   (31 words)
+[33] after "...article with the title The"
+     PDF ONLY : Java at Gibraltar from the port side Photograph courtesy of Peter Staveley R N The   (15 words)
+[34] after "...greater recognition in maritime history"
+     PDF ONLY : A tug alongside the Java Photograph source to be confirmed   (10 words)
+[35] after "...86 able and ordinary seamen"
+     SITE ONLY: Medical comforts In a personal communication with the author noted South Australian maritime author Ronald Parsons made the point that the general run of medical comforts aboard any and every sailing ship of the era were a few dozen bottles of porter some arro ...   (111 words)
+[36] after "...promoted to Major in 1879"
+     PDF ONLY : James Trangmar in the uniform of the Portland Western Artillery From a copy supplied by Norma Trangmar see Preface   (19 words)
+[37] after "...names can also be added"
+     PDF ONLY : Thomasina Crowle a passenger on the Java an early photograph Barnett family collection Java passengers photographed by T Duryea in 1872 Thomas Wallis John Moore R Perkins T Plummer George Porter William Mitchell From South Australian Pioneers 1840 Mortlock Lib ...   (44 words)
+[38] after "...be aware of this register"
+     PDF ONLY : Java passengers photographed by T Duryea in 1872 W Edwards S Bastian W Crabb J Chivell Same source   (18 words)
+[39] after "...and matched with embarkation numbers"
+     SITE ONLY: EMBARKATION   (1 words)
+     PDF ONLY : The Male Female and Child columns give the number of applicants in each class Emb No   (16 words)
+[40] after "...numbers EMBARKATION NAME OF APPLICANT"
+     SITE ONLY: NUMBER   (1 words)
+[41] after "...OF APPLICANT NUMBER SHIP SOURCE"
+     SITE ONLY: NO OF   (2 words)
+[42] after "...SHIP SOURCE NO OF MALE"
+     SITE ONLY: APPLICANTS   (1 words)
+[43] after "...9 39 3530 ELIZA COLE"
+     SITE ONLY: 1   (1 words)
+[44] after "...1 5677 2 8 39"
+     PDF ONLY : Emb No Name of applicant Ship Source Male Female Child App No Date   (13 words)
+[45] after "...8 39 3567 JOSEPH GATLEY"
+     SITE ONLY: 1 1 3   (3 words)
+[46] after "...3 6029 13 9 39"
+     PDF ONLY : Emb No Name of applicant Ship Source Male Female Child App No Date   (13 words)
+[47] after "...9 39 3603 ANNE MUNDY"
+     SITE ONLY: 1   (1 words)
+[48] after "...1 6064 15 9 39"
+     PDF ONLY : Emb No Name of applicant Ship Source Male Female Child App No Date   (13 words)
+[49] after "...3638 MARY RUNDLE JAVA BISA"
+     SITE ONLY: 1   (1 words)
+[50] after "...1 5661 31 7 39"
+     PDF ONLY : Emb No Name of applicant Ship Source Male Female Child App No Date   (13 words)
+[51] after "...1 5758 12 8 39"
+     PDF ONLY : Emb No Name of applicant Ship Source Male Female Child App No Date   (13 words)
+[52] after "...1 5350 1 7 39"
+     PDF ONLY : Note for review for entries 3517 3561 the placing of figures in the Male Female and Child columns follows the original page for the 117 entries after 3561 it has been reconstructed from the run together text and should be checked against the original list   (45 words)
+[53] after "...The Practical Idealists of 1836"
+     PDF ONLY : 1846   (1 words)
+[54] after "...Glasgow James Brown Son 1924"
+     SITE ONLY: 1846   (1 words)
+[55] after "...State Library of South Australia"
+     SITE ONLY: called incorrectly the George Richards diary   (6 words)
+
+--- capitalisation changes, grouped ---
+   LONDON -> London  x17
+   SOMES -> Somes  x8
+   JAVA -> Java  x5
+   INDIA -> India  x5
+   CO -> Co  x5
+   DRIVER -> Driver  x4
+   OF -> of  x3
+   SMITH -> Smith  x3
+   TO -> to  x2
+   THE -> the  x2
+   LIST -> List  x2
+   PAXTON -> Paxton  x2
+   CALCUTTA -> Calcutta  x2
+   SCOTT -> Scott  x2
+   MAURITIUS -> Mauritius  x2
+   PARKER -> Parker  x2
+   SYDNEY -> Sydney  x2
+   PREFACE -> Preface
+   EDITION -> Edition
+   ONLINE -> Online
+   ACKNOWLEDGEMENTS -> Acknowledgements
+   INTRODUCTION -> Introduction
+   The -> the
+   EMIGRANTS -> Emigrants
+   SOUTH -> South
+   AUSTRALIA -> Australia
+   CREW -> Crew
+   VOYAGE -> Voyage
+   PASSENGER -> Passenger
+   NAME -> Name
+   APPLICANT -> applicant
+   SHIP -> Ship
+   SOURCE -> Source
+   MALE -> Male
+   FEMALE -> Female
+   CHILD -> Child
+   APP -> App
+   NO -> No
+   DATE -> Date
+   HOLDFAST -> Holdfast
+   BAY -> Bay
+   OR -> or
+   PORT -> Port
+   MISERY -> Misery
+   BIBLIOGRAPHY -> Bibliography
+   MASTERS -> Masters
+   AND -> and
+   OWNERS -> Owners
+   YEAR -> Year
+   MASTER -> Master
+   OWNER -> Owner
+   DESTINATION -> Destination
+   DENNISON -> Dennison
+   HODGE -> Hodge
+   FAIRLIE -> Fairlie
+   HARE -> Hare
+   DUTHIE -> Duthie
+   PEARSON -> Pearson
+   LOCKE -> Locke
+   MEDITERRANEAN -> Mediterranean

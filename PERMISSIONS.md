@@ -24,15 +24,30 @@ an assumption for us.
 
 ## Register
 
-| Image file | Source / rights holder | Permission covers | Status |
-|---|---|---|---|
-| *(none — cover is typographic)* | — | — | — |
-| | Peter Staveley photographs, 1939 | TODO | TODO |
-| | Time-Life material ("The East Indiamen") | TODO | TODO |
-| | Colin Kerr estate ("An Exelent Coliney") | TODO | TODO |
-| | David MacGregor photograph | TODO | TODO |
-| | Conigrave ticket facsimile (Leila Conigrave) | TODO | TODO |
-| | Dr J.M. Tregenza, Royal Institution of Cornwall posters | TODO | TODO |
-| | Latrobe Collection, State Library of Victoria | TODO | TODO |
+"Confirmed" below means Stephen supplied the credit line himself (email of
+29 September 2026). A credit is not the same thing as a permission: where
+an earlier edition's permission may not extend to a freely downloadable
+EPUB/PDF, that is noted.
 
-Complete a row for every image before it goes into the book.
+| Image file(s) | Source / rights holder | Credit line in the book | Status |
+|---|---|---|---|
+| `portrait-william-richards-1819.jpg`, `portrait-william-frederick-richards.jpg` | Glenda Richards | Courtesy of Glenda Richards | Confirmed |
+| `poster-free-emigration-java.jpg` | State Library of South Australia, D 6029(L) | State Library of South Australia, D 6029(L) | Confirmed |
+| `sailing-card-java-1839.jpg` | Leila Conigrave | Courtesy of Leila Conigrave | Confirmed |
+| `engraving-between-decks.jpg`, `engraving-emigrant-family.jpg` | Don Charlwood | Courtesy of Don Charlwood | Confirmed |
+| `hulk-stern-java-london.jpg`, `hulk-starboard-bow-sepia.jpg`, `hulk-port-broadside.jpg` | Peter Staveley, R.N. | Photograph courtesy of Peter Staveley, R.N. | Confirmed |
+| `portrait-thomasina-crowle.jpg` | Barnett family collection | Barnett family collection | Confirmed |
+| `hulk-with-tug.jpg` | Maritime Museum, Genoa | Photograph courtesy of the Maritime Museum, Genoa | Confirmed by Stephen 2 Oct 2026 |
+| `genoa-giava-newspaper-1939.jpg` | Italian newspaper cutting, 1939; supplied by Stephen 2 Oct 2026 | Newspaper and date to be confirmed | **Open.** Newspaper title and date unknown; 1939 inferred from the ship's arrival at Genoa |
+| `hulk-gibraltar-1918-macgregor.jpg` | David MacGregor, *Merchant Sailing Ships 1775–1815*, Fig. 231 | From David MacGregor, Merchant Sailing Ships 1775–1815, Fig. 231 | Permission credited in earlier editions; not re-confirmed for the electronic edition |
+| `poster-latimer-lecture-chacewater-1839.jpg`, `poster-latimer-bodmin-1839.jpg` | South Australian Maritime Museum; originals Royal Institution of Cornwall (photographed by Dr J.M. Tregenza, 1975) | Reproduction courtesy of the South Australian Maritime Museum | From the stamp on the reproductions; not yet confirmed by Stephen |
+| `portrait-james-trangmar.jpg` | Norma Trangmar | From a copy supplied by Norma Trangmar (see Preface) | Inferred from the Preface; not yet confirmed by Stephen |
+| `passengers-1872-wallis-group.jpg`, `passengers-1872-edwards-group.jpg` | Mortlock Library of South Australiana, B7865; photographer T. Duryea, 1872 | From "South Australian Pioneers 1840", Mortlock Library of South Australiana, B7865 | Citation taken from the source page; not yet confirmed by Stephen |
+
+**Not used:** the Gibraltar broadside photograph (National Library of New
+Zealand) — no permission; see *Cover* above. Stephen holds a print of it
+(scan 0016), which does not change the position.
+
+Mentioned in the Acknowledgements but with no image in the book at present:
+Time-Life (*The East Indiamen*), the Colin Kerr estate, the Conigrave ticket
+facsimile, and the Latrobe Collection, State Library of Victoria.

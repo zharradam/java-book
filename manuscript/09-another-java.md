@@ -1,6 +1,4 @@
-# Another "Java"!
-
-## Other ships had great loss of children's lives.
+# Other ships had great loss of children's lives
 
 In researching this book, the author discovered that another vessel, the barque "Asia", a much smaller ship than "JAVA", at 525 tons, had, in a voyage that lasted from March 4th, 1839 to 16th July 1839, a very similar loss of children. There were 139 adult emigrants on board with 97 children as well as about 12 Cabin passengers. Twenty three children died at sea. Food and medical supplies were in short supply as well as there being an epidemic of measles on board. The ship's surgeon, Dr George Mayo, kept a diary and it does seem he was kept busy with measles, pneumonia, typhus, dropsy, scarlet fever. His diary is available in the Mortlock Library and portions of it are quoted in "My Mother Said", by Betty Reddin.
 

@@ -1,4 +1,4 @@
-# Preface to the Ninth Edition
+# Preface to the Ninth Edition 2026 Online
 
 Being the Melancholy True Story of the Voyage of the EastIndiaman "Java" with Emigrants to the Colony of South Australia arriving in Holdfast Bay on February 6th 1840, with the Sad Loss of Life of many Children and Adults during the Voyage; of the continued Suffering of the Passengers; of the Concern of the Citizens of the Colony and the Disgust of the Governor Gawler and of the Subsequent Enquiry. The book also tells us of the Later History of the 'Java", sometimes Known as the 'Last of the EastIndiamen', its Last Years as a Coal Hulk in Gibraltar and of its Final Voyage to the Breakers in Genoa in July of 1939.
 
@@ -43,6 +43,8 @@ It is therefore  obvious from the dates that George at 9 was far too young to be
 I can only then agree with Glenda Richards that the probable author was William Richards senior. William Richards senior died in South Australia on the 17/6/1866 and his wife Esther died on 7/2/1876.
 
 William Frederick Richards moved to Angaston where he had the occupation of tailor, joined the Police force on the first of January 1852 (a time of great movement out of the Police Force because of the rush to Victoria for gold), and he resigned in July 1858 and married on 8/8/1858. He spent the rest of his life in Gawler as a baker to 1892. A clipping held by the family indicates that William Frederick Richards was associated with another infamous South Australian ship-the Admella. He acted as organiser of the benefit evening held on September 13th, 1859 for victims of the shipwreck.
+
+![William Frederick Richards, born 18 January 1824, in police uniform; he served 1852–1858. *Courtesy of Glenda Richards.*](images/portrait-william-frederick-richards.jpg){width=38%}
 
 He died on the 24/9/1893.
 
