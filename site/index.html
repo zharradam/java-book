@@ -85,7 +85,14 @@
 
   <footer>
     Published by Ten Brat Press &middot;
-    <a href="http://www.tenbratpress.org/">tenbratpress.org</a>
+    <a id="contact" href="#">stephenmichaelbarnett [at] gmail.com</a>
+    <script>
+      (function () {
+        var u = 'stephenmichaelbarnett', d = 'gmail.com', a = document.getElementById('contact');
+        a.href = 'mailto:' + u + '@' + d + '?subject=The%20Java';
+        a.textContent = u + '@' + d;
+      })();
+    </script>
   </footer>
 </body>
 </html>
