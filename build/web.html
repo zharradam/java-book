@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="$lang$">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+$if(top)$
+<title>$pagetitle$ · The Java, emigrant ship to South Australia 1839–40</title>
+<meta name="description" content="$pagetitle$, from “Java: The Sailing Ship 1813–1940” by Stephen Michael Barnett: the East Indiaman Java and her emigrants to South Australia, 1839–40. Free to read online.">
+$else$
+<title>Read online · Java: The Sailing Ship 1813–1940 by Stephen Michael Barnett</title>
+<meta name="description" content="Read “Java: The Sailing Ship 1813–1940” online, chapter by chapter: the 1839–40 voyage of the East Indiaman Java with emigrants to South Australia, the passenger list, crew list and the ship’s later history.">
+$endif$
+<meta name="author" content="Stephen Michael Barnett">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%93%3C/text%3E%3C/svg%3E">
+<style>
+  body { font-family: Georgia, "Times New Roman", serif; background: #f7f4ee; color: #2b2620;
+         max-width: 42rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; line-height: 1.65; }
+  a { color: #37506b; }
+  nav.site { font-family: system-ui, sans-serif; font-size: 0.9rem; display: flex; flex-wrap: wrap;
+             gap: 0.4rem 1rem; justify-content: space-between; border-bottom: 1px solid #d8cfbf;
+             padding-bottom: 0.6rem; margin-bottom: 2rem; }
+  h1 { font-size: 1.9rem; line-height: 1.25; }
+  blockquote { margin: 1.2rem 0 1.2rem 1.5rem; padding-left: 1rem; border-left: 3px solid #d8cfbf; }
+  figure { margin: 2rem 0; text-align: center; }
+  img { max-width: 100%; height: auto; }
+  figcaption { font-size: 0.9rem; color: #6b5f4e; }
+  table { border-collapse: collapse; font-size: 0.85rem; display: block; overflow-x: auto; margin: 1.5rem 0; }
+  th, td { border-bottom: 1px solid #e3dccf; padding: 0.25rem 0.5rem; text-align: left; vertical-align: top; }
+  footer { margin-top: 3rem; font-size: 0.85rem; color: #8a7d68; text-align: center; }
+</style>
+</head>
+<body>
+<nav class="site">
+  <a href="/">The Java: home &amp; downloads</a>
+  <a href="index.html">Contents</a>
+$if(previous.url)$
+  <a href="$previous.url$" rel="prev">← $previous.title$</a>
+$endif$
+$if(next.url)$
+  <a href="$next.url$" rel="next">$next.title$ →</a>
+$endif$
+</nav>
+$if(top)$
+$else$
+<h1>Java: The Sailing Ship 1813–1940</h1>
+<p>by Stephen Michael Barnett · $edition$. The whole book, free to read online, chapter by chapter.
+Prefer a file? <a href="/">Download the EPUB, PDF or audiobook</a>.</p>
+<nav role="doc-toc">
+$table-of-contents$
+</nav>
+$endif$
+<main>
+$body$
+</main>
+$if(next.url)$
+<p><a href="$next.url$" rel="next">Next: $next.title$ →</a></p>
+$endif$
+<footer>© Stephen Michael Barnett · Ten Brat Press · <a href="/">theshipjava.uk</a></footer>
+</body>
+</html>

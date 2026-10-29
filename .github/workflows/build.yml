@@ -49,6 +49,7 @@ jobs:
           path: |
             dist/*.epub
             dist/*.pdf
+            dist/the-java-narration.txt
 
       # Keep a rolling "latest" release so download links never change:
       # https://github.com/OWNER/REPO/releases/latest/download/the-java.epub
@@ -67,8 +68,22 @@ jobs:
         if: github.ref == 'refs/heads/main'
         run: |
           mkdir -p _site
-          cp site/index.html _site/
+          cp site/index.html site/robots.txt _site/
           cp images/cover.jpg _site/ 2>/dev/null || true
+          cp -r dist/read _site/read && rm -f _site/read/sitemap.json
+          # Sitemap for search engines: the home page and every read-online page
+          today=$(date -u +%F)
+          {
+            echo '<?xml version="1.0" encoding="UTF-8"?>'
+            echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+            echo "<url><loc>https://theshipjava.uk/</loc><lastmod>$today</lastmod></url>"
+            echo "<url><loc>https://theshipjava.uk/read/</loc><lastmod>$today</lastmod></url>"
+            for f in _site/read/*.html; do
+              [ "$(basename "$f")" = index.html ] && continue
+              echo "<url><loc>https://theshipjava.uk/read/$(basename "$f")</loc><lastmod>$today</lastmod></url>"
+            done
+            echo '</urlset>'
+          } > _site/sitemap.xml
           # Inject live details: file sizes, edition, build date
           epub_kb=$(( ($(stat -c%s dist/the-java.epub) + 512) / 1024 ))
           pdf_kb=$(( ($(stat -c%s dist/the-java.pdf) + 512) / 1024 ))

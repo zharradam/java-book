@@ -39,6 +39,29 @@ pandoc "${CHAPTERS[@]}" "${COMMON_ARGS[@]}" \
   -o "$OUT/$SLUG.pdf"
 echo "Wrote $OUT/$SLUG.pdf"
 
+# Narration script for the audiobook (VoiceStudio → Audiobook → import).
+# Leaves out the lists and reference sections; no metadata file, so extracts
+# keep their italics and narration.lua can give them a voice of their own.
+NARRATED=()
+for f in "${CHAPTERS[@]}"; do
+  case "$f" in
+    */11-crew-list-*|*/14-appendix-b-passenger-list*|*/16-bibliography*|*/18-java-masters-and-owners*) ;;
+    *) NARRATED+=("$f") ;;
+  esac
+done
+pandoc "${NARRATED[@]}" --wrap=none \
+  --lua-filter=build/extracts.lua --lua-filter=build/narration.lua \
+  -t plain -o "$OUT/$SLUG-narration.txt"
+echo "Wrote $OUT/$SLUG-narration.txt"
+
+# Read-online web pages, one per chapter, published at theshipjava.uk/read/
+# so search engines can find the text (and every passenger's name).
+rm -rf "$OUT/read"
+pandoc "${CHAPTERS[@]}" "${COMMON_ARGS[@]}" \
+  -t chunkedhtml --split-level=1 --chunk-template='%i.html' \
+  --template=build/web.html -o "$OUT/read"
+echo "Wrote $OUT/read/"
+
 # Sanity check: extract plain text back out of the EPUB so it can be
 # diffed against the source. AI never touches the prose; this proves it.
 pandoc "$OUT/$SLUG.epub" -t plain -o "$OUT/$SLUG-extracted.txt"
