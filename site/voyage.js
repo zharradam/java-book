@@ -2,13 +2,13 @@
 // (and 03-introduction.md); positions marked approx are estimates for drawing only.
 window.JAVA_VOYAGE = [
   { date: "12 October 1839", short: "12 Oct", place: "London", lon: 0.1, lat: 51.5,
-    who: "The book", text: "He tells us in his diary that he boarded on October 12th 1839, the “JAVA” weighed anchor and was towed down the Thames by a steam tug, to Gravesend, then sailed to the Downs where the anchor was dropped for the night." },
+    who: "The book", note: "James Trangmar’s diary, as told in the book", text: "He tells us in his diary that he boarded on October 12th 1839, the “JAVA” weighed anchor and was towed down the Thames by a steam tug, to Gravesend, then sailed to the Downs where the anchor was dropped for the night." },
   { date: "18 October 1839", short: "18 Oct", place: "Plymouth", lon: -4.14, lat: 50.37,
     who: "James Trangmar", text: "there has already been some terrible rows amongst them which looks rather bad for a beginning" },
   { date: "28 October 1839", short: "28 Oct", place: "Plymouth Sound", lon: -4.2, lat: 50.33,
     who: "James Trangmar", text: "Hurrah! This morning the Blue Peter is hoisted at the masthead which is the signal for sailing, the sailors call it the Salt Horse Flag. … At 5 o'clock we are once more underway with a fine breeze. Passed the Edystone light and standing well out to sea." },
   { date: "29 October 1839", short: "29 Oct", place: "Off the Scilly Isles", lon: -7.2, lat: 49.8,
-    who: "The book", text: "According to William Richards, the “JAVA” passed the Scilly Isles, 40 miles West, on the 29th." },
+    who: "The book", note: "William Richards’ diary, as told in the book", text: "According to William Richards, the “JAVA” passed the Scilly Isles, 40 miles West, on the 29th." },
   { date: "4 November 1839", short: "4 Nov", place: "At sea", lon: -12.5, lat: 39, approx: true,
     who: "William Richards", text: "Fine weather, heavy sea, little wind (child died), an owl lighted in the rigging, starlings, larks and bluebirds caught." },
   { date: "11 November 1839", short: "11 Nov", place: "Canary Islands", lon: -16.5, lat: 28.3,

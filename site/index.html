@@ -59,14 +59,15 @@
   .hero { position: relative; min-height: 100svh; display: grid; grid-template-columns: auto minmax(20rem, 30rem); gap: clamp(2rem, 4vw, 4rem);
           align-items: center; justify-content: center; padding: clamp(2rem, 5vw, 4rem) clamp(1.2rem, 4vw, 3rem); overflow: hidden;
           }
-  .photo { position: absolute; inset: 0; background: #34495a url(read/images/hulk-port-broadside.jpg) center 45% / cover; filter: grayscale(1) sepia(.25) contrast(1.05) brightness(.95); }
+  .photo { position: absolute; inset: 0; background: #34495a url(read/images/hulk-port-broadside.jpg) center 45% / cover; filter: grayscale(1) contrast(1.05); }
+  .tint { position: absolute; inset: 0; background: #b9cdd6; mix-blend-mode: multiply; }
   .frost { position: absolute; inset: 0; -webkit-backdrop-filter: blur(8px) saturate(.7); backdrop-filter: blur(8px) saturate(.7);
           background: linear-gradient(rgba(138,163,177,.45) 1px, transparent 1px) -1px -1px / 120px 120px, linear-gradient(90deg, rgba(138,163,177,.45) 1px, transparent 1px) -1px -1px / 120px 120px, rgba(223,233,236,.93);
           -webkit-mask-image: radial-gradient(ellipse 52% 56% at 52% 50%, #000 50%, rgba(0,0,0,.55) 72%, transparent 96%); mask-image: radial-gradient(ellipse 52% 56% at 52% 50%, #000 50%, rgba(0,0,0,.55) 72%, transparent 96%); }
   .photo-credit { position: absolute; right: 1.6rem; bottom: 1.3rem; z-index: 2; margin: 0; font: 500 .8rem "Barlow Semi Condensed", sans-serif; color: #f2f5f6; background: rgba(29,51,70,.75); padding: .2rem .5rem; }
   .neat { position: absolute; inset: clamp(.4rem, 1.2vw, .9rem); border: 1px solid var(--ink); pointer-events: none; z-index: 1; }
   .neat::after { content: ""; position: absolute; inset: 5px; border: 3px double var(--ink-2); }
-  .hero > :not(.neat):not(.photo):not(.frost):not(.photo-credit) { position: relative; z-index: 2; }
+  .hero > :not(.neat):not(.photo):not(.tint):not(.frost):not(.photo-credit) { position: relative; z-index: 2; }
 
   /* The book */
   .stage { width: calc(var(--w) * 2); height: var(--h); perspective: 2200px; }
@@ -130,10 +131,10 @@
   .land { fill: var(--land); stroke: var(--ink-2); stroke-width: .8; }
   .grat { stroke: var(--rule); stroke-width: .5; fill: none; }
   .route-ghost { fill: none; stroke: var(--track); stroke-width: 1.4; stroke-dasharray: 2 4; opacity: .55; }
-  .route { fill: none; stroke: var(--track); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .route { fill: none; stroke: var(--track); stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; }
   .stn { fill: var(--sea); stroke: var(--track); stroke-width: 2; }
   .stn.past, .stn.on { fill: var(--track); }
-  .place-label { font: italic 20px "IM Fell English", serif; fill: var(--ink); paint-order: stroke; stroke: var(--sea); stroke-width: 4px; }
+  .place-label { font: italic 32px "IM Fell English", serif; fill: var(--ink); paint-order: stroke; stroke: var(--sea); stroke-width: 7px; }
 
   /* The offer: title and actions */
   /* Cast copper-gold lettering: a metal gradient clipped to the type, extruded with stacked drop-shadows,
@@ -144,7 +145,7 @@
   .offer h1 { font: 400 clamp(3.6rem, 7.5vw, 6rem)/.95 "IM Fell English SC", serif; letter-spacing: .12em; margin: 0; padding-bottom: .05em; }
   .offer .sub { font-style: italic; font-size: clamp(1.15rem, 1.8vw, 1.4rem); margin: .5rem 0 0; color: var(--ink-2); }
   .offer .by { font: 1.45rem "IM Fell English SC", serif; letter-spacing: .1em; margin: .9rem 0 1.4rem; display: inline-block; }
-  .offer .by.gilt { filter: drop-shadow(0 1px 0 #6e3d15) drop-shadow(0 1px 0 #4b280d) drop-shadow(0 3px 5px rgba(29,51,70,.3)); }
+  .offer .by.gilt { filter: drop-shadow(0 1px 0 #5c3211) drop-shadow(0 2px 4px rgba(29,51,70,.25)); }
   .offer .lede { margin: 0 0 1.8rem; }
   .read { display: flex; align-items: center; justify-content: space-between; gap: 1rem; text-decoration: none; background: var(--ink); color: var(--sea);
           padding: 1.15rem 1.4rem; font: 700 1.35rem/1.1 "Barlow Semi Condensed", sans-serif; letter-spacing: .02em; transition: background .2s; }
@@ -152,6 +153,7 @@
   .read:hover { background: var(--track); }
   .dl { display: grid; grid-template-columns: repeat(3, 1fr); gap: .6rem; margin: .7rem 0 1.4rem; }
   .dl a { text-decoration: none; border: 1.5px solid var(--ink); padding: .8rem .7rem; font: 700 1.1rem/1.15 "Barlow Semi Condensed", sans-serif; color: var(--ink); background: rgba(246,241,228,.6); transition: background .2s, color .2s; }
+  .dl a small span { display: block; white-space: nowrap; }
   .dl a small { display: block; font-weight: 500; font-size: .85rem; color: var(--ink-2); }
   .dl a:hover { background: var(--ink); color: var(--sea); } .dl a:hover small { color: var(--sea); }
   .open-btn { font: 600 1.05rem "Barlow Semi Condensed", sans-serif; background: none; border: 0; padding: 0; color: var(--ink); cursor: pointer; display: inline-flex; gap: .45rem; align-items: center; text-decoration: underline; text-decoration-color: var(--track); text-underline-offset: .25em; }
@@ -174,7 +176,15 @@
 
   @media (max-width: 1100px) { .hero { grid-template-columns: 1fr; justify-items: center; } .offer { max-width: 34rem; } }
   @media (max-width: 760px) {
-    :root { --h: min(78vw * 1.6, 480px); --w: calc(var(--h) * .625); }
+    :root { --h: min(40svh, 340px); --w: calc(var(--h) * .625); }
+    .hero.open { --h: min(78vw * 1.6, 480px); }
+    .hero { padding-inline: 2.6rem; padding-top: 2.6rem; gap: 1.5rem; }
+    .dl { grid-template-columns: 1fr; gap: .45rem; }
+    .dl a { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; padding: .75rem .9rem; }
+    .dl a small { text-align: right; } .dl a small span { display: inline; }
+    .offer { display: flex; flex-direction: column; }
+    .offer .lede { order: 5; margin: 1.4rem 0 0; }
+    .offer .by { margin-bottom: 1rem; }
     .frost { -webkit-mask-image: linear-gradient(180deg, rgba(0,0,0,.35) 0, #000 22%); mask-image: linear-gradient(180deg, rgba(0,0,0,.35) 0, #000 22%); }
     .photo-credit { position: static; justify-self: center; order: 9; }
     .stage { width: var(--w); }
@@ -189,7 +199,7 @@
 </head>
 <body>
 <section class="hero" id="hero">
-  <div class="photo" aria-hidden="true"></div><div class="frost" aria-hidden="true"></div>
+  <div class="photo" aria-hidden="true"></div><div class="tint" aria-hidden="true"></div><div class="frost" aria-hidden="true"></div>
   <div class="neat" aria-hidden="true"></div>
   <p class="photo-credit">The <i>Java</i> at Gibraltar · photograph courtesy of Peter Staveley, R.N.</p>
   <div class="stage">
@@ -213,7 +223,7 @@
     <p class="sub">The Sailing Ship 1813–1940</p>
     <p class="by gilt">Stephen Michael Barnett</p>
     <p class="lede">The true story of the East Indiaman <em>Java</em> and her emigrants to South Australia, arriving at Holdfast Bay on 6 February 1840: the children lost at sea, the enquiry that followed, and the ship’s long life until 1939. Free to read.</p>
-    <a class="read" href="read/"><span>Read the book online<small>Every chapter, with pictures</small></span><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    <a class="read" href="read/"><span>Read the book online<small>Free · every chapter, with pictures</small></span><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
     <div class="dl">
       <a data-l="pdf">Download PDF<small>Print or computer<span id="pdf-size"></span></small></a>
       <a data-l="epub">Download EPUB<small>E-readers, phones<span id="epub-size"></span></small></a>
@@ -256,7 +266,7 @@
   // Draw a chart into an svg; returns an updater for the current station
   function chart(svg, labels) {
     // Portrait endpaper: crop to the Atlantic-Indian Ocean band the voyage crosses
-    svg.setAttribute('viewBox', '30 30 800 480'); svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
+    svg.setAttribute('viewBox', '0 40 900 470'); svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
     function el(n, a, p) { var e = document.createElementNS(NS, n); for (var k in a) e.setAttribute(k, a[k]); (p || svg).appendChild(e); return e; }
     var g = el('g', { class: 'grat' });
     for (var x = 0; x <= 875; x += 100) el('line', { x1: x, y1: 0, x2: x, y2: 550 }, g);
@@ -265,24 +275,24 @@
     var pts = V.map(P), all = 'M' + pts.map(function (p) { return p.join(' '); }).join('L');
     el('path', { d: all, class: 'route-ghost' });
     var route = el('path', { d: 'M' + pts[0].join(' '), class: 'route' });
-    var dots = pts.map(function (p) { return el('circle', { cx: p[0], cy: p[1], r: 5, class: 'stn' }); });
-    if (labels) [['London', 0, 10, -8], ['Holdfast Bay', 10, -110, 26], ['Cape of Good Hope', 7, -40, 28]].forEach(function (l) {
-      el('text', { x: pts[l[1]][0] + l[2], y: pts[l[1]][1] + l[3], class: 'place-label' }).textContent = l[0]; });
+    var dots = pts.map(function (p) { return el('circle', { cx: p[0], cy: p[1], r: 7, class: 'stn' }); });
+    if (labels) [['London', 0, 16, -12, 'start'], ['Holdfast Bay', 10, -18, 40, 'end'], ['Cape of Good Hope', 7, 0, 46, 'middle']].forEach(function (l) {
+      el('text', { x: pts[l[1]][0] + l[2], y: pts[l[1]][1] + l[3], class: 'place-label', 'text-anchor': l[4] }).textContent = l[0]; });
     return function (i) {
       route.setAttribute('d', 'M' + pts.slice(0, i + 1).map(function (p) { return p.join(' '); }).join('L'));
-      dots.forEach(function (d, j) { d.classList.toggle('past', j < i); d.classList.toggle('on', j === i); d.setAttribute('r', j === i ? 8 : 5); });
+      dots.forEach(function (d, j) { d.classList.toggle('past', j < i); d.classList.toggle('on', j === i); d.setAttribute('r', j === i ? 13 : 7); });
     };
   }
   var big = chart(document.getElementById('chart'), true), mini;
   function html(i) {
-    var s = V[i], q = s.who !== 'The book';
+    var s = V[i], q = s.who !== 'The book', t = s.text.replace(/---/g, '—');
     return '<div class="run"><button class="close-btn" data-close>Close the book</button><span>' + s.short + (s.date.match(/\d{4}/) ? ' ' + s.date.match(/\d{4}/)[0] : '') + '</span></div>' +
       '<svg class="mini" aria-hidden="true"></svg>' +
       '<div class="when">' + s.date + '</div><p class="where">' + s.place + (s.approx ? ' (position approximate)' : '') + '</p>' +
-      (q ? '<q>' + s.text + '</q><div class="who">— ' + s.who + '’s diary</div>' : '<p style="margin:0">' + s.text + '</p>') +
-      '<div class="foot"><button class="turn" data-d="-1"' + (i === 0 ? ' disabled' : '') + ' aria-label="Previous page">‹ Earlier</button>' +
+      (q ? '<q>' + t + '</q><div class="who">— ' + s.who + '’s diary</div>' : '<p style="margin:0">' + t + '</p>' + (s.note ? '<div class="who">— ' + s.note + '</div>' : '')) +
+      '<div class="foot"><button class="turn" data-d="-1"' + (i === 0 ? ' disabled' : '') + ' aria-label="Previous page"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Earlier</button>' +
       '<span class="no">' + (i + 1) + ' of ' + V.length + '</span>' +
-      '<button class="turn" data-d="1"' + (i === V.length - 1 ? ' disabled' : '') + ' aria-label="Next page">Later ›</button></div>';
+      '<button class="turn" data-d="1"' + (i === V.length - 1 ? ' disabled' : '') + ' aria-label="Next page">Later<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button></div>';
   }
   function render(i) {
     page.innerHTML = html(i);

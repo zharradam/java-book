@@ -85,12 +85,12 @@ jobs:
             echo '</urlset>'
           } > _site/sitemap.xml
           # Inject live details: file sizes, edition, build date
-          epub_kb=$(( ($(stat -c%s dist/the-java.epub) + 512) / 1024 ))
-          pdf_kb=$(( ($(stat -c%s dist/the-java.pdf) + 512) / 1024 ))
+          epub_mb=$(awk -v b=$(stat -c%s dist/the-java.epub) 'BEGIN{printf "%.1f", b/1048576}')
+          pdf_mb=$(awk -v b=$(stat -c%s dist/the-java.pdf) 'BEGIN{printf "%.1f", b/1048576}')
           edition=$(grep -oP '^edition:\s*"\K[^("]+' build/metadata.yaml | sed 's/ *$//')
           built=$(date -u '+%-d %B %Y')
-          sed -i "s|<span id=\"epub-size\"></span>|<span id=\"epub-size\"> (${epub_kb} KB)</span>|" _site/index.html
-          sed -i "s|<span id=\"pdf-size\"></span>|<span id=\"pdf-size\"> (${pdf_kb} KB)</span>|" _site/index.html
+          sed -i "s|<span id=\"epub-size\"></span>|<span id=\"epub-size\"> · ${epub_mb} MB</span>|" _site/index.html
+          sed -i "s|<span id=\"pdf-size\"></span>|<span id=\"pdf-size\"> · ${pdf_mb} MB</span>|" _site/index.html
           sed -i "s|<!--EDITION-->|${edition} \&middot; last updated ${built}|" _site/index.html
 
       - name: Upload Pages artifact
