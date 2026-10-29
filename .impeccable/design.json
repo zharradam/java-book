@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-29T08:53:44+00:00",
+  "title": "Design System: The Java",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "primary",
+        "displayName": "Engraved Navy Ink",
+        "canonical": "#1d3346",
+        "tonalRamp": [
+          "#010c18",
+          "#132738",
+          "#304456",
+          "#536372",
+          "#778490",
+          "#9ea6ae",
+          "#c5cace",
+          "#ebeff3"
+        ]
+      },
+      "track": {
+        "role": "secondary",
+        "displayName": "Track Red",
+        "canonical": "#b23a26",
+        "tonalRamp": [
+          "#200000",
+          "#490a02",
+          "#761f10",
+          "#a63522",
+          "#c75f4c",
+          "#e08b7a",
+          "#f8b7a9",
+          "#ffe3da"
+        ]
+      },
+      "gilt": {
+        "role": "tertiary",
+        "displayName": "Copper Gilt",
+        "canonical": "#9a5b22",
+        "tonalRamp": [
+          "#170600",
+          "#3a1c01",
+          "#61360c",
+          "#8b511c",
+          "#ad7445",
+          "#c99a75",
+          "#e6c1a6",
+          "#ffe9d7"
+        ],
+        "gradient": "linear-gradient(105deg, #7a4318 0%, #c98a45 18%, #f7e2a6 30%, #d7a04f 42%, #8f5220 58%, #e9bd70 74%, #f9e7b4 82%, #9a5b22 100%)"
+      },
+      "sea": {
+        "role": "neutral",
+        "displayName": "Chart Sea",
+        "canonical": "#dfe9ec",
+        "tonalRamp": [
+          "#0a0b0c",
+          "#242526",
+          "#414242",
+          "#5f6262",
+          "#7f8384",
+          "#a0a6a8",
+          "#c2cbcd",
+          "#e7f0f3"
+        ]
+      },
+      "sea-2": {
+        "role": "neutral",
+        "displayName": "Deep Chart Sea",
+        "canonical": "#d3e1e6",
+        "tonalRamp": [
+          "#0a0b0c",
+          "#242526",
+          "#404243",
+          "#5e6263",
+          "#7d8486",
+          "#9da7aa",
+          "#bfccd0",
+          "#e4f1f6"
+        ]
+      },
+      "endpaper": {
+        "role": "neutral",
+        "displayName": "Endpaper",
+        "canonical": "#e9f0f2",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#242525",
+          "#414242",
+          "#606162",
+          "#808384",
+          "#a2a6a7",
+          "#c5cacc",
+          "#e9f0f2"
+        ]
+      },
+      "land": {
+        "role": "neutral",
+        "displayName": "Parchment Land",
+        "canonical": "#efe6cf",
+        "tonalRamp": [
+          "#0c0b09",
+          "#262522",
+          "#43423f",
+          "#63615b",
+          "#868278",
+          "#aaa596",
+          "#d0c9b6",
+          "#f7eed8"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Page Paper",
+        "canonical": "#f6f1e4",
+        "tonalRamp": [
+          "#0c0b0a",
+          "#252524",
+          "#424240",
+          "#62615e",
+          "#84827d",
+          "#a8a59d",
+          "#cdc9bf",
+          "#f3eee1"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Faded Ink",
+        "canonical": "#3f5a6e",
+        "tonalRamp": [
+          "#030c14",
+          "#162733",
+          "#2e4556",
+          "#4b6578",
+          "#708596",
+          "#97a8b4",
+          "#bfcbd4",
+          "#e9eff4"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Graticule Grey",
+        "canonical": "#8aa3b1",
+        "tonalRamp": [
+          "#090c0d",
+          "#202629",
+          "#39444a",
+          "#55646c",
+          "#718691",
+          "#91a9b7",
+          "#b8cdd8",
+          "#e1f1fa"
+        ]
+      },
+      "cloth": {
+        "role": "neutral",
+        "displayName": "Bookcloth Navy",
+        "canonical": "#22384c",
+        "tonalRamp": [
+          "#020c18",
+          "#142738",
+          "#304457",
+          "#526374",
+          "#778491",
+          "#9da6af",
+          "#c5cacf",
+          "#ebeff3"
+        ]
+      },
+      "photo-tint": {
+        "role": "neutral",
+        "displayName": "Sea-grey Tint",
+        "canonical": "#b9cdd6",
+        "tonalRamp": [
+          "#0a0b0c",
+          "#232526",
+          "#3e4345",
+          "#5b6366",
+          "#79848a",
+          "#98a8af",
+          "#b9cdd6",
+          "#e1f2f9"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The title \"Java\" only, gilt."
+      },
+      "byline": {
+        "displayName": "Byline",
+        "purpose": "Author name under the title, gilt."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings below the hero."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Diary-page and legend dates."
+      },
+      "subtitle": {
+        "displayName": "Subtitle",
+        "purpose": "Italic subtitle under the title."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Running text."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Captions, place names, running heads, meta."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Download tiles and controls."
+      },
+      "label-strong": {
+        "displayName": "Label Strong",
+        "purpose": "The primary button."
+      },
+      "label-small": {
+        "displayName": "Label Small",
+        "purpose": "Tile detail lines and the photo credit."
+      }
+    },
+    "shadows": [
+      {
+        "name": "book-cast",
+        "value": "0 40px 80px rgba(16,30,42,.45), 0 12px 24px rgba(16,30,42,.35)",
+        "purpose": "Under the book's back board only."
+      },
+      {
+        "name": "gutter",
+        "value": "inset 18px 0 24px -18px rgba(0,0,0,.25)",
+        "purpose": "Inner edge of a page; mirrored on the endpaper."
+      },
+      {
+        "name": "gilt-bevel",
+        "value": "drop-shadow(0 1px 0 #6e3d15) drop-shadow(0 1px 0 #5c3211) drop-shadow(0 1px 0 #4b280d) drop-shadow(0 6px 10px rgba(29,51,70,.35))",
+        "purpose": "filter on the gilt title."
+      },
+      {
+        "name": "gilt-bevel-small",
+        "value": "drop-shadow(0 1px 0 #5c3211) drop-shadow(0 2px 4px rgba(29,51,70,.25))",
+        "purpose": "filter on the gilt byline."
+      }
+    ],
+    "motion": [
+      {
+        "name": "cover-open",
+        "value": "transform 1.1s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Front board opening and closing."
+      },
+      {
+        "name": "leaf-turn",
+        "value": "0.9s cubic-bezier(.33,.08,.2,1)",
+        "purpose": "Page leaf turning."
+      },
+      {
+        "name": "book-tilt",
+        "value": "per-frame ease, k = 0.085",
+        "purpose": "Book pose following the mouse; off under reduced motion."
+      },
+      {
+        "name": "hover-fill",
+        "value": "background .2s, color .2s",
+        "purpose": "Button and tile hover."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "stack",
+        "value": "1100px"
+      },
+      {
+        "name": "narrow",
+        "value": "760px"
+      }
+    ],
+    "photograph": {
+      "source": "read/images/hulk-port-broadside.jpg",
+      "credit": "The Java at Gibraltar · photograph courtesy of Peter Staveley, R.N.",
+      "filter": "grayscale(1) contrast(1.05)",
+      "tint": "#b9cdd6 multiply",
+      "frost": "backdrop-filter: blur(8px) saturate(.7); rgba(223,233,236,.93) with 120px graticule; mask radial-gradient(ellipse 52% 56% at 52% 50%, #000 50%, rgba(0,0,0,.55) 72%, transparent 96%); narrow: linear-gradient(180deg, rgba(0,0,0,.35) 0, #000 22%)"
+    }
+  },
+  "components": [
+    {
+      "name": "Read Online Button",
+      "kind": "button",
+      "refersTo": "button-read",
+      "description": "The single dominant action in a view.",
+      "html": "<a class=\"ds-read\" href=\"#\"><span>Read the book online<small>Free · every chapter, with pictures</small></span><svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a>",
+      "css": ":host{--sea:#dfe9ec;--paper:#f6f1e4;--ink:#1d3346;--ink-2:#3f5a6e;--track:#b23a26;--rule:#8aa3b1} .ds-read{display:flex;align-items:center;justify-content:space-between;gap:1rem;text-decoration:none;background:var(--ink);color:var(--sea);padding:1.15rem 1.4rem;font:700 1.35rem/1.1 'Barlow Semi Condensed',system-ui,sans-serif;letter-spacing:.02em;transition:background .2s;max-width:30rem}.ds-read small{display:block;font-weight:500;font-size:.95rem;opacity:.8}.ds-read:hover{background:var(--track)}.ds-read:focus-visible{outline:3px solid var(--track);outline-offset:3px}"
+    },
+    {
+      "name": "Download Tiles",
+      "kind": "button",
+      "refersTo": "download-tile",
+      "description": "Equal-weight outlined secondary actions under the primary button.",
+      "html": "<div class=\"ds-dl\"><a href=\"#\">Download PDF<small>Print or computer</small></a><a href=\"#\">Download EPUB<small>E-readers, phones</small></a><a href=\"#\">Audiobook<small>Trial · 2 h 17 min</small></a></div>",
+      "css": ":host{--sea:#dfe9ec;--paper:#f6f1e4;--ink:#1d3346;--ink-2:#3f5a6e;--track:#b23a26;--rule:#8aa3b1} .ds-dl{display:grid;grid-template-columns:repeat(3,1fr);gap:.6rem;max-width:30rem}.ds-dl a{text-decoration:none;border:1.5px solid var(--ink);padding:.8rem .7rem;font:700 1.1rem/1.15 'Barlow Semi Condensed',system-ui,sans-serif;color:var(--ink);background:rgba(246,241,228,.6);transition:background .2s,color .2s}.ds-dl a small{display:block;font-weight:500;font-size:.85rem;color:var(--ink-2)}.ds-dl a:hover{background:var(--ink);color:var(--sea)}.ds-dl a:hover small{color:var(--sea)}.ds-dl a:focus-visible{outline:3px solid var(--track);outline-offset:3px}"
+    },
+    {
+      "name": "Surname Finder",
+      "kind": "input",
+      "refersTo": "finder-input",
+      "description": "Paper field butted to a red search button.",
+      "html": "<form class=\"ds-finder\" onsubmit=\"return false\"><input placeholder=\"Surname, e.g. Tonkin\" aria-label=\"Surname\"><button>Search the list</button></form>",
+      "css": ":host{--sea:#dfe9ec;--paper:#f6f1e4;--ink:#1d3346;--ink-2:#3f5a6e;--track:#b23a26;--rule:#8aa3b1} .ds-finder{display:flex;gap:.5rem}.ds-finder input{font:1.15rem 'IM Fell English',Georgia,serif;padding:.85rem 1rem;border:1.5px solid var(--ink);background:var(--paper);color:var(--ink);width:15rem;border-radius:0}.ds-finder button{font:700 1.05rem 'Barlow Semi Condensed',system-ui,sans-serif;background:var(--track);color:#fff;border:0;padding:0 1.2rem;cursor:pointer}.ds-finder :focus-visible{outline:3px solid var(--track);outline-offset:3px}"
+    },
+    {
+      "name": "Text Action",
+      "kind": "button",
+      "refersTo": "open-link",
+      "description": "Unboxed control with a red underline and inline line icon.",
+      "html": "<button class=\"ds-open\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M2 5h7a3 3 0 0 1 3 3v12a2 2 0 0 0-2-2H2zM22 5h-7a3 3 0 0 0-3 3v12a2 2 0 0 1 2-2h8z\"/></svg>Open the book and follow the voyage</button>",
+      "css": ":host{--sea:#dfe9ec;--paper:#f6f1e4;--ink:#1d3346;--ink-2:#3f5a6e;--track:#b23a26;--rule:#8aa3b1} .ds-open{font:600 1.05rem 'Barlow Semi Condensed',system-ui,sans-serif;background:none;border:0;padding:0;color:var(--ink);cursor:pointer;display:inline-flex;gap:.45rem;align-items:center;text-decoration:underline;text-decoration-color:var(--track);text-underline-offset:.25em}.ds-open:hover{color:var(--track)}.ds-open:focus-visible{outline:3px solid var(--track);outline-offset:3px}"
+    },
+    {
+      "name": "Gilt Title",
+      "kind": "custom",
+      "refersTo": "display",
+      "description": "Cast copper-gold lettering for the book's title and author only; static.",
+      "html": "<div class=\"ds-sheet\"><h1 class=\"ds-gilt\">Java</h1><p class=\"ds-sub\">The Sailing Ship 1813–1940</p><p class=\"ds-by ds-gilt\">Stephen Michael Barnett</p></div>",
+      "css": ":host{--sea:#dfe9ec;--paper:#f6f1e4;--ink:#1d3346;--ink-2:#3f5a6e;--track:#b23a26;--rule:#8aa3b1} .ds-sheet{background:var(--sea);padding:2rem}.ds-gilt{color:#9a5b22;background:linear-gradient(105deg,#7a4318 0%,#c98a45 18%,#f7e2a6 30%,#d7a04f 42%,#8f5220 58%,#e9bd70 74%,#f9e7b4 82%,#9a5b22 100%);background-size:260% 100%;background-position:38% 0;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;filter:drop-shadow(0 1px 0 #6e3d15) drop-shadow(0 1px 0 #5c3211) drop-shadow(0 1px 0 #4b280d) drop-shadow(0 6px 10px rgba(29,51,70,.35))}h1.ds-gilt{font:400 5rem/.95 'IM Fell English SC',serif;letter-spacing:.12em;margin:0}.ds-sub{font:italic 1.3rem 'IM Fell English',serif;color:var(--ink-2);margin:.5rem 0 0}.ds-by{font:1.45rem 'IM Fell English SC',serif;letter-spacing:.1em;margin:.9rem 0 0;display:inline-block;filter:drop-shadow(0 1px 0 #5c3211) drop-shadow(0 2px 4px rgba(29,51,70,.25))}"
+    },
+    {
+      "name": "Chart Sheet with Photograph",
+      "kind": "card",
+      "refersTo": "photo-tint",
+      "description": "Neat-lined chart surface: grayscale ship photograph at the edges, frosted to graticule in the centre, credit chip.",
+      "html": "<div class=\"ds-chart\"><div class=\"ds-photo\"></div><div class=\"ds-tint\"></div><div class=\"ds-frost\"></div><div class=\"ds-neat\"></div><p class=\"ds-credit\">The <i>Java</i> at Gibraltar · photograph courtesy of Peter Staveley, R.N.</p></div>",
+      "css": ":host{--sea:#dfe9ec;--paper:#f6f1e4;--ink:#1d3346;--ink-2:#3f5a6e;--track:#b23a26;--rule:#8aa3b1} .ds-chart{position:relative;height:320px;overflow:hidden;background:var(--sea)}.ds-photo{position:absolute;inset:0;background:#34495a;filter:grayscale(1) contrast(1.05)}.ds-tint{position:absolute;inset:0;background:#b9cdd6;mix-blend-mode:multiply}.ds-frost{position:absolute;inset:0;backdrop-filter:blur(8px) saturate(.7);background:linear-gradient(rgba(138,163,177,.45) 1px,transparent 1px) -1px -1px/120px 120px,linear-gradient(90deg,rgba(138,163,177,.45) 1px,transparent 1px) -1px -1px/120px 120px,rgba(223,233,236,.93);-webkit-mask-image:radial-gradient(ellipse 52% 56% at 52% 50%,#000 50%,rgba(0,0,0,.55) 72%,transparent 96%);mask-image:radial-gradient(ellipse 52% 56% at 52% 50%,#000 50%,rgba(0,0,0,.55) 72%,transparent 96%)}.ds-neat{position:absolute;inset:.9rem;border:1px solid var(--ink)}.ds-neat::after{content:'';position:absolute;inset:5px;border:3px double var(--ink-2)}.ds-credit{position:absolute;right:1.6rem;bottom:1.3rem;margin:0;font:500 .8rem 'Barlow Semi Condensed',sans-serif;color:#f2f5f6;background:rgba(29,51,70,.75);padding:.2rem .5rem}"
+    },
+    {
+      "name": "Diary Page",
+      "kind": "card",
+      "refersTo": "paper",
+      "description": "A page of the open book: running head, date in small capitals, verbatim quotation, page-turn controls.",
+      "html": "<article class=\"ds-page\"><div class=\"ds-run\"><span>Close the book</span><span>11 Nov 1839</span></div><div class=\"ds-when\">11 November 1839</div><p class=\"ds-where\">Canary Islands</p><q>Passed the Canary Islands, caught the trade winds, child died with whooping cough—very warm.</q><div class=\"ds-where\">— William Richards’ diary</div><div class=\"ds-foot\"><button>Earlier</button><span class=\"ds-where\">6 of 12</span><button>Later</button></div></article>",
+      "css": ":host{--sea:#dfe9ec;--paper:#f6f1e4;--ink:#1d3346;--ink-2:#3f5a6e;--track:#b23a26;--rule:#8aa3b1} .ds-page{background:var(--paper);color:var(--ink);padding:1.8rem 1.5rem;max-width:24rem;font:1.1rem/1.55 'IM Fell English',Georgia,serif;box-shadow:inset 18px 0 24px -18px rgba(0,0,0,.25)}.ds-run{display:flex;justify-content:space-between;font:italic .85rem 'IM Fell English',serif;color:var(--ink-2);border-bottom:1px solid var(--rule);padding-bottom:.3rem}.ds-when{font:1.25rem/1.2 'IM Fell English SC',serif;letter-spacing:.06em;margin:1rem 0 .1rem}.ds-where{font-style:italic;color:var(--ink-2);margin:0 0 .6rem}.ds-page q{display:block}.ds-foot{display:flex;justify-content:space-between;align-items:center;margin-top:1rem}.ds-foot button{font:600 .95rem 'Barlow Semi Condensed',sans-serif;background:none;border:0;color:var(--ink);cursor:pointer;padding:.5rem .2rem}.ds-foot button:hover{color:var(--track)}.ds-foot button:focus-visible{outline:3px solid var(--track);outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Chart in the Endpapers",
+    "overview": "The site is a printed object laid on an Admiralty chart. The book itself is the hero: a 3D hardback of the real cover that opens to a chart endpaper on the left and a diary page on the right. Everything around it is chart material: a pale blue-grey sea, engraved navy ink, red track ink for the ship's course, parchment land, a double neat-line border and a fine graticule. Lettering is engraver's type (IM Fell); controls are a plain condensed sans (Barlow Semi Condensed) so that what you can press never reads as period ornament.\n\nTwo materials sit on top of the chart and belong to the system. First, gilt: the title and byline are cast copper-gold, the same treatment and gradient stops the cover generator (build/make_cover.py) uses, so the page lettering and the cover lettering are one metal. It is static; it does not track the cursor. Second, the ship herself: a full-bleed photograph of the *Java* at Gibraltar (courtesy of Peter Staveley, R.N.) lies under the chart at the edges, grayscale and multiplied with a sea-grey tint, and is frosted back to chart paper toward the centre, where the graticule takes over. The photograph is atmosphere at the margins; the reading surface in the middle is always chart.\n\nDensity is low and type is large, for an older audience: body at 1.15rem/1.6, headings in spaced small capitals, one dominant action. Corners are square, borders are ruled lines, and depth belongs to physical objects (the book, the turning leaf), never to interface panels.",
+    "keyCharacteristics": [
+      "Admiralty-chart palette: sea, navy ink, red track, parchment land.",
+      "IM Fell for lettering, Barlow Semi Condensed for every control.",
+      "Copper-gold gilt lettering for the book's title and author only.",
+      "Full-bleed grayscale ship photograph at the edges, frosted to chart in the centre, always credited.",
+      "Square corners, ruled and double-ruled lines, graticule.",
+      "Real 3D only for the book object; flat everywhere else."
+    ],
+    "rules": [
+      {
+        "name": "The One Track Rule",
+        "body": "Red is the ship's ink. Use it for the route, for focus and hover, and for underlines; never for decoration or for a second competing call to action.",
+        "section": "colors"
+      },
+      {
+        "name": "The Gilt Is the Book's Name Rule",
+        "body": "Copper-gold appears only on the book's title and author (on the page and on the cover). Not on section headings, buttons or numbers.",
+        "section": "colors"
+      },
+      {
+        "name": "The Small Capitals Rule",
+        "body": "Headings are IM Fell English SC, weight 400, letter-spaced 0.06–0.12em. Never bold, never all-caps via text-transform.",
+        "section": "typography"
+      },
+      {
+        "name": "The Controls Are Sans Rule",
+        "body": "Anything interactive (buttons, tiles, page-turn, close, credits) is set in Barlow Semi Condensed; links inside prose stay in Fell with a red underline.",
+        "section": "typography"
+      },
+      {
+        "name": "The Objects Have Weight Rule",
+        "body": "Only the book, its pages and the gilt cast a shadow. Buttons, tiles, fields and sections never do.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep one navy primary button per view, with downloads as equal-weight outlined tiles beneath it.",
+      "Do set every heading in IM Fell English SC at weight 400 with 0.06–0.12em tracking.",
+      "Do set every control in Barlow Semi Condensed.",
+      "Do use track red only for the route, focus, hover and link underlines.",
+      "Do frame chart surfaces with the double neat line (1px ink outside, 3px double faded ink 5px inside).",
+      "Do treat any full-bleed photograph as the hero photograph is treated: grayscale, multiplied with the sea-grey tint, frosted to chart toward the reading area, and credited on the surface with the PERMISSIONS.md credit line.",
+      "Do match the cover generator's gilt stops whenever the title or author appears in gilt.",
+      "Do honour reduced motion: no tilt, no leaf animation, instant cover."
+    ],
+    "donts": [
+      "Don't apply gilt to anything but the book's title and author, or make it react to the cursor.",
+      "Don't show a photograph in full colour or unframed under text; the centre of any reading surface stays chart paper.",
+      "Don't round corners or put shadows on buttons, tiles, fields or sections.",
+      "Don't use a bold or text-transformed uppercase heading in place of the Fell small capitals."
+    ]
+  }
+}

@@ -81,33 +81,23 @@
   #align(center + horizon)[#image("/images/cover.jpg", height: 100%)]
 ]
 
-// ── Title page ────────────────────────────────────────────────
+// ── Copyright page: the cover is the title page, so this carries only the imprint ──
 #page(numbering: none)[
-  #v(22%)
-  #align(center)[
-    #text(size: 40pt, weight: "bold")[$title$]
-    $if(subtitle)$
-    #v(1.2em)
-    #text(size: 16pt, style: "italic")[$subtitle$]
-    $endif$
-    #v(4em)
-    #text(size: 13pt)[by]
-    #v(0.4em)
-    #text(size: 18pt)[$for(author)$$author$$sep$, $endfor$]
-    #v(1fr)
-    $if(edition)$
-    #text(size: 11pt)[$edition$]
-    #v(0.8em)
-    $endif$
-    $if(publisher)$
-    #text(size: 11pt)[$publisher$]
-    #v(0.8em)
-    $endif$
-    $if(rights)$
-    #text(size: 9pt)[$rights$]
-    $endif$
-    #v(8%)
-  ]
+  #v(1fr)
+  #set text(size: 10pt)
+  #set par(spacing: 0.7em)
+  *$title$*$if(subtitle)$: $subtitle$$endif$ \
+  by $for(author)$$author$$sep$, $endfor$
+
+  $if(edition)$
+  $edition$ \
+  $endif$
+  $if(publisher)$
+  Published by $publisher$ \
+  $endif$
+  $if(rights)$
+  #text(size: 9pt)[$rights$]
+  $endif$
 ]
 
 // ── Table of contents, on its own page ────────────────────────
