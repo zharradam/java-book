@@ -68,7 +68,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         run: |
           mkdir -p _site
-          cp site/index.html site/robots.txt _site/
+          cp site/index.html site/robots.txt site/land.js site/voyage.js _site/
           cp images/cover.jpg _site/ 2>/dev/null || true
           cp -r dist/read _site/read && rm -f _site/read/sitemap.json
           # Sitemap for search engines: the home page and every read-online page

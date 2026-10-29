@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-AU">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -42,85 +42,304 @@
   ]
 }
 </script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=IM+Fell+Great+Primer:ital@0;1&family=IM+Fell+DW+Pica+SC&family=Pinyon+Script&family=Barlow+Semi+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
-  :root { color-scheme: light; }
-  body {
-    font-family: Georgia, "Times New Roman", serif;
-    background: #f7f4ee;
-    color: #2b2620;
-    max-width: 40rem;
-    margin: 0 auto;
-    padding: 3rem 1.5rem 4rem;
-    line-height: 1.6;
-    text-align: center;
+  :root { --sea: #dfe9ec; --sea-2: #d3e1e6; --land: #efe6cf; --paper: #f6f1e4; --ink: #1d3346; --ink-2: #3f5a6e; --track: #b23a26; --rule: #8aa3b1; --cloth: #22384c;
+          --h: min(74vh, 620px); --w: calc(var(--h) * .625); }
+  * { box-sizing: border-box; }
+  html { background: var(--sea); color: var(--ink); }
+  body { margin: 0; font: 1.15rem/1.6 "IM Fell English", Georgia, serif; }
+  ::selection { background: var(--track); color: #fff; }
+  a { color: var(--ink); text-underline-offset: .2em; text-decoration-color: var(--track); }
+  :focus-visible { outline: 3px solid var(--track); outline-offset: 3px; }
+  .ui { font-family: "Barlow Semi Condensed", system-ui, sans-serif; }
+
+  /* Chart frame around the whole first viewport */
+  .hero { position: relative; min-height: 100svh; display: grid; grid-template-columns: auto minmax(20rem, 30rem); gap: clamp(2rem, 4vw, 4rem);
+          align-items: center; justify-content: center; padding: clamp(2rem, 5vw, 4rem) clamp(1.2rem, 4vw, 3rem); overflow: hidden;
+          }
+  .photo { position: absolute; inset: 0; background: #34495a url(read/images/hulk-port-broadside.jpg) center 45% / cover; filter: grayscale(1) sepia(.25) contrast(1.05) brightness(.95); }
+  .frost { position: absolute; inset: 0; -webkit-backdrop-filter: blur(8px) saturate(.7); backdrop-filter: blur(8px) saturate(.7);
+          background: linear-gradient(rgba(138,163,177,.45) 1px, transparent 1px) -1px -1px / 120px 120px, linear-gradient(90deg, rgba(138,163,177,.45) 1px, transparent 1px) -1px -1px / 120px 120px, rgba(223,233,236,.93);
+          -webkit-mask-image: radial-gradient(ellipse 52% 56% at 52% 50%, #000 50%, rgba(0,0,0,.55) 72%, transparent 96%); mask-image: radial-gradient(ellipse 52% 56% at 52% 50%, #000 50%, rgba(0,0,0,.55) 72%, transparent 96%); }
+  .photo-credit { position: absolute; right: 1.6rem; bottom: 1.3rem; z-index: 2; margin: 0; font: 500 .8rem "Barlow Semi Condensed", sans-serif; color: #f2f5f6; background: rgba(29,51,70,.75); padding: .2rem .5rem; }
+  .neat { position: absolute; inset: clamp(.4rem, 1.2vw, .9rem); border: 1px solid var(--ink); pointer-events: none; z-index: 1; }
+  .neat::after { content: ""; position: absolute; inset: 5px; border: 3px double var(--ink-2); }
+  .hero > :not(.neat):not(.photo):not(.frost):not(.photo-credit) { position: relative; z-index: 2; }
+
+  /* The book */
+  .stage { width: calc(var(--w) * 2); height: var(--h); perspective: 2200px; }
+  .book { position: relative; width: var(--w); height: var(--h); transform-style: preserve-3d; will-change: transform;
+          transform: translateX(calc(var(--w) / 2)) rotateY(-22deg) rotateX(6deg); }
+  
+  .block { position: absolute; inset: 0; transform-style: preserve-3d; }
+  /* page edges and back board */
+  .block .pages { position: absolute; top: 6px; bottom: 6px; left: 0; right: 4px; background: var(--paper); transform: translateZ(-1px);
+          box-shadow: inset -2px 0 0 #e3dcc9, inset -4px 0 0 #f6f1e4, inset -6px 0 0 #e3dcc9, inset -8px 0 0 #f6f1e4; }
+  .block .back { position: absolute; inset: 0; background: var(--cloth); transform: translateZ(-34px); border-radius: 0 4px 4px 0;
+          box-shadow: 0 40px 80px rgba(16,30,42,.45), 0 12px 24px rgba(16,30,42,.35); }
+  .block .edge { position: absolute; top: 6px; bottom: 6px; right: 4px; width: 32px; background: repeating-linear-gradient(90deg, #efe8d6 0 1px, #fbf8ef 1px 3px);
+          transform-origin: right; transform: rotateY(90deg); }
+  .spine { position: absolute; top: 0; bottom: 0; left: 0; width: 34px; background: linear-gradient(90deg, #1a2c3d, #2c4660 50%, #1a2c3d); transform-origin: left; transform: rotateY(90deg); }
+  /* right-hand page: the diary */
+  .page { position: absolute; top: 6px; bottom: 6px; left: 0; right: 6px; background: var(--paper); padding: clamp(1.2rem, 3vh, 2.2rem) clamp(1.1rem, 2.4vh, 1.8rem);
+          display: flex; flex-direction: column; overflow: hidden; box-shadow: inset 18px 0 24px -18px rgba(0,0,0,.25); }
+  .page .run { display: flex; justify-content: space-between; font: italic .85rem "IM Fell English", serif; color: var(--ink-2); border-bottom: 1px solid var(--rule); padding-bottom: .3rem; }
+  .page .when { font: 1.25rem/1.2 "IM Fell English SC", serif; letter-spacing: .06em; margin: 1rem 0 .1rem; }
+  .page .where { font-style: italic; color: var(--ink-2); margin: 0 0 .8rem; }
+  .page q { display: block; font-size: clamp(1rem, 2.2vh, 1.2rem); line-height: 1.55; quotes: "“" "”"; }
+  .page .who { font-style: italic; color: var(--ink-2); margin-top: .6rem; }
+  .page .foot { margin-top: auto; display: flex; justify-content: space-between; align-items: center; }
+  .turn { font: 600 .95rem "Barlow Semi Condensed", sans-serif; background: none; border: 0; color: var(--ink); cursor: pointer; padding: .5rem .2rem; display: inline-flex; gap: .3rem; align-items: center; }
+  .turn:hover { color: var(--track); }
+  .turn:disabled { opacity: .3; cursor: default; }
+  .page .no { font: italic .9rem "IM Fell English", serif; color: var(--ink-2); }
+  .page .mini { display: none; }
+  .closed-msg { font-size: 1.05rem; color: var(--ink-2); text-align: center; margin: auto 0; }
+  /* the front board: cover outside, chart endpaper inside */
+  .cover { position: absolute; inset: 0; padding: 0; border: 0; background: none; font: inherit; color: inherit; text-align: inherit; transform-origin: left; transform-style: preserve-3d; transition: transform 1.1s cubic-bezier(.16,1,.3,1); cursor: pointer; }
+  .open .cover { transform: rotateY(-178deg); cursor: default; }
+  .cover > div { position: absolute; inset: 0; backface-visibility: hidden; border-radius: 0 4px 4px 0; overflow: hidden; }
+  .cover .front { background: url(cover.jpg) center / cover; box-shadow: inset 6px 0 10px -4px rgba(0,0,0,.3); }
+  .cover .front::after { content: ""; position: absolute; inset: 0; background: linear-gradient(105deg, rgba(255,255,255,.25), transparent 35%, transparent 70%, rgba(0,0,0,.08)); }
+  .cover .inside { transform: rotateY(180deg); background: #e9f0f2; outline: 1px solid var(--rule); border-radius: 4px 0 0 4px; box-shadow: inset -18px 0 24px -18px rgba(0,0,0,.3); }
+  .inside .chart-title { position: absolute; top: .8rem; left: 0; right: 0; text-align: center; font: 1rem "IM Fell English SC", serif; letter-spacing: .12em; }
+  .inside svg { position: absolute; left: 5%; top: 10%; width: 90%; height: 56%; border: 1px solid var(--ink-2); background: var(--sea-2); }
+  .inside .legend { position: absolute; left: 8%; right: 8%; top: 70%; font-size: 1rem; line-height: 1.45; text-align: center; }
+  .inside .legend b { display: block; font: 1.15rem "IM Fell English SC", serif; letter-spacing: .08em; color: var(--track); font-weight: 400; }
+  .inside .legend i { color: var(--ink-2); }
+  /* leaf that turns over the right page */
+  .leaf { position: absolute; top: 6px; bottom: 6px; left: 0; right: 6px; transform-origin: left; transform-style: preserve-3d; pointer-events: none; visibility: hidden; }
+  .leaf > div { position: absolute; inset: 0; backface-visibility: hidden; background: var(--paper); overflow: hidden; }
+  .leaf .b { transform: rotateY(180deg); background: linear-gradient(90deg, #ece5d2, var(--paper)); }
+  .leaf .f::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(90deg, rgba(0,0,0,0), rgba(0,0,0,.18)); opacity: 0; animation: shade .9s ease-in-out; }
+  .leaf.go { visibility: visible; animation: turn .9s cubic-bezier(.33,.08,.2,1) forwards; }
+  .leaf.back { visibility: visible; animation: turnback .9s cubic-bezier(.33,.08,.2,1) forwards; }
+  .stage.turning .page { box-shadow: inset 18px 0 24px -18px rgba(0,0,0,.25), inset 60px 0 60px -40px rgba(0,0,0,.12); }
+  /* opacity on the 3D leaf itself would flatten it and show the page mirrored, so only the paper back fades */
+  @keyframes turn { from { transform: rotateY(0); } to { transform: rotateY(-178deg); } }
+  @keyframes turnback { from { transform: rotateY(-178deg); } to { transform: rotateY(0); } }
+  .leaf.go .b { animation: backout .9s cubic-bezier(.33,.08,.2,1) forwards; }
+  .leaf.back .b { animation: backin .9s cubic-bezier(.33,.08,.2,1) forwards; }
+  @keyframes backout { 0%, 55% { opacity: 1; } 100% { opacity: 0; } }
+  @keyframes backin { 0% { opacity: 0; } 45%, 100% { opacity: 1; } }
+  @keyframes shade { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
+  .close-btn { font: 600 .85rem "Barlow Semi Condensed", sans-serif; background: none; border: 0; padding: 0; color: var(--ink-2); cursor: pointer; text-decoration: underline; text-underline-offset: .2em; }
+
+  .land { fill: var(--land); stroke: var(--ink-2); stroke-width: .8; }
+  .grat { stroke: var(--rule); stroke-width: .5; fill: none; }
+  .route-ghost { fill: none; stroke: var(--track); stroke-width: 1.4; stroke-dasharray: 2 4; opacity: .55; }
+  .route { fill: none; stroke: var(--track); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .stn { fill: var(--sea); stroke: var(--track); stroke-width: 2; }
+  .stn.past, .stn.on { fill: var(--track); }
+  .place-label { font: italic 20px "IM Fell English", serif; fill: var(--ink); paint-order: stroke; stroke: var(--sea); stroke-width: 4px; }
+
+  /* The offer: title and actions */
+  /* Cast copper-gold lettering: a metal gradient clipped to the type, extruded with stacked drop-shadows,
+     */
+  .gilt { color: #9a5b22; background: linear-gradient(105deg, #7a4318 0%, #c98a45 18%, #f7e2a6 30%, #d7a04f 42%, #8f5220 58%, #e9bd70 74%, #f9e7b4 82%, #9a5b22 100%);
+          background-size: 260% 100%; background-position: 38% 0; -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
+          filter: drop-shadow(0 1px 0 #6e3d15) drop-shadow(0 1px 0 #5c3211) drop-shadow(0 1px 0 #4b280d) drop-shadow(0 6px 10px rgba(29,51,70,.35)); }
+  .offer h1 { font: 400 clamp(3.6rem, 7.5vw, 6rem)/.95 "IM Fell English SC", serif; letter-spacing: .12em; margin: 0; padding-bottom: .05em; }
+  .offer .sub { font-style: italic; font-size: clamp(1.15rem, 1.8vw, 1.4rem); margin: .5rem 0 0; color: var(--ink-2); }
+  .offer .by { font: 1.45rem "IM Fell English SC", serif; letter-spacing: .1em; margin: .9rem 0 1.4rem; display: inline-block; }
+  .offer .by.gilt { filter: drop-shadow(0 1px 0 #6e3d15) drop-shadow(0 1px 0 #4b280d) drop-shadow(0 3px 5px rgba(29,51,70,.3)); }
+  .offer .lede { margin: 0 0 1.8rem; }
+  .read { display: flex; align-items: center; justify-content: space-between; gap: 1rem; text-decoration: none; background: var(--ink); color: var(--sea);
+          padding: 1.15rem 1.4rem; font: 700 1.35rem/1.1 "Barlow Semi Condensed", sans-serif; letter-spacing: .02em; transition: background .2s; }
+  .read small { display: block; font-weight: 500; font-size: .95rem; opacity: .8; }
+  .read:hover { background: var(--track); }
+  .dl { display: grid; grid-template-columns: repeat(3, 1fr); gap: .6rem; margin: .7rem 0 1.4rem; }
+  .dl a { text-decoration: none; border: 1.5px solid var(--ink); padding: .8rem .7rem; font: 700 1.1rem/1.15 "Barlow Semi Condensed", sans-serif; color: var(--ink); background: rgba(246,241,228,.6); transition: background .2s, color .2s; }
+  .dl a small { display: block; font-weight: 500; font-size: .85rem; color: var(--ink-2); }
+  .dl a:hover { background: var(--ink); color: var(--sea); } .dl a:hover small { color: var(--sea); }
+  .open-btn { font: 600 1.05rem "Barlow Semi Condensed", sans-serif; background: none; border: 0; padding: 0; color: var(--ink); cursor: pointer; display: inline-flex; gap: .45rem; align-items: center; text-decoration: underline; text-decoration-color: var(--track); text-underline-offset: .25em; }
+  .meta { font-size: .95rem; color: var(--ink-2); margin-top: 1.2rem; }
+
+  /* Below: ancestors, then about */
+  main { max-width: 64rem; margin: 0 auto; padding: clamp(3rem, 7vw, 5rem) clamp(1.2rem, 4vw, 2rem); }
+  h2 { font: 400 clamp(2rem, 4vw, 2.6rem)/1.1 "IM Fell English SC", serif; letter-spacing: .06em; margin: 0 0 .6rem; }
+  .ancestor { display: grid; grid-template-columns: 1fr auto; gap: 2rem; align-items: center; border-top: 3px double var(--ink-2); border-bottom: 3px double var(--ink-2); padding: 2rem 0; margin-bottom: 4rem; }
+  .ancestor p { margin: 0; max-width: 38rem; }
+  .finder { display: flex; gap: .5rem; }
+  .finder input { font: 1.15rem "IM Fell English", serif; padding: .85rem 1rem; border: 1.5px solid var(--ink); background: var(--paper); color: var(--ink); width: 15rem; }
+  .finder button { font: 700 1.05rem "Barlow Semi Condensed", sans-serif; background: var(--track); color: #fff; border: 0; padding: 0 1.2rem; cursor: pointer; }
+  .finder-links { grid-column: 1 / -1; margin: 0; font-size: 1.05rem; }
+  .two { display: grid; grid-template-columns: 1.1fr .9fr; gap: clamp(2rem, 5vw, 4rem); align-items: start; }
+  figure { margin: 0; } figure img { width: 100%; display: block; border: 1px solid var(--ink-2); }
+  figcaption { font-size: .95rem; font-style: italic; color: var(--ink-2); margin-top: .5rem; }
+  footer { text-align: center; padding: 2rem 1rem 3rem; font-size: 1rem; color: var(--ink-2); }
+  .sr { position: absolute; left: -9999px; }
+
+  @media (max-width: 1100px) { .hero { grid-template-columns: 1fr; justify-items: center; } .offer { max-width: 34rem; } }
+  @media (max-width: 760px) {
+    :root { --h: min(78vw * 1.6, 480px); --w: calc(var(--h) * .625); }
+    .frost { -webkit-mask-image: linear-gradient(180deg, rgba(0,0,0,.35) 0, #000 22%); mask-image: linear-gradient(180deg, rgba(0,0,0,.35) 0, #000 22%); }
+    .photo-credit { position: static; justify-self: center; order: 9; }
+    .stage { width: var(--w); }
+    
+    .open .cover { transform: rotateY(-178deg); opacity: 0; transition: transform 1.1s, opacity .1s .9s; }
+    .page .mini { display: block; width: 100%; height: auto; margin: .6rem 0 0; background: var(--sea); }
+    .ancestor, .two { grid-template-columns: 1fr; }
+    .finder input { width: auto; flex: 1; }
   }
-  h1 { font-size: 2.2rem; margin: 0.5rem 0 0.2rem; }
-  .subtitle { font-style: italic; color: #6b5f4e; margin: 0 0 2rem; }
-  img.cover {
-    max-width: 260px; width: 100%;
-    box-shadow: 0 4px 18px rgba(0,0,0,0.25);
-    margin-bottom: 1.5rem;
-  }
-  .buttons { margin: 2rem 0; }
-  a.btn {
-    display: inline-block;
-    background: #37506b;
-    color: #fff;
-    text-decoration: none;
-    padding: 0.8rem 1.6rem;
-    margin: 0.4rem;
-    border-radius: 6px;
-    font-family: system-ui, sans-serif;
-    font-size: 1rem;
-  }
-  a.btn:hover { background: #2a3e54; }
-  .hint { font-size: 0.85rem; color: #6b5f4e; }
-  .blurb { text-align: left; margin: 2rem 0; }
-  footer { margin-top: 3rem; font-size: 0.8rem; color: #8a7d68; }
-  footer a { color: inherit; }
+  @media (prefers-reduced-motion: reduce) { .book, .cover { transition: none; } .leaf.go, .leaf.back { animation: none; visibility: hidden; } }
 </style>
 </head>
 <body>
-  <img class="cover" src="cover.jpg" alt="Book cover: Java — The Sailing Ship 1813–1940, by Stephen Michael Barnett" onerror="this.style.display='none'">
-
-  <h1>Java</h1>
-  <p class="subtitle">The Sailing Ship 1813–1940 &middot; by Stephen Michael Barnett</p>
-
-  <div class="blurb">
-    <p>The true story of the voyage of the East Indiaman <em>Java</em>,
-    which carried emigrants to the colony of South Australia, arriving in
-    Holdfast Bay on February 6th, 1840 — of the loss of life during the
-    voyage, the subsequent enquiry, and the later history of the ship,
-    sometimes known as the &ldquo;Last of the East Indiamen&rdquo;, to its
-    final voyage to the breakers in Genoa in July 1939.</p>
+<section class="hero" id="hero">
+  <div class="photo" aria-hidden="true"></div><div class="frost" aria-hidden="true"></div>
+  <div class="neat" aria-hidden="true"></div>
+  <p class="photo-credit">The <i>Java</i> at Gibraltar · photograph courtesy of Peter Staveley, R.N.</p>
+  <div class="stage">
+    <div class="book" id="book">
+      <div class="block">
+        <div class="back"></div><div class="spine"></div><div class="edge"></div><div class="pages"></div>
+        <article class="page" id="page" aria-live="polite">
+          <p class="closed-msg">Open the book to follow the voyage.</p>
+        </article>
+        <div class="leaf" id="leaf"><div class="f"></div><div class="b"></div></div>
+      </div>
+      <button class="cover" id="cover" aria-label="Open the book to follow the voyage">
+        <div class="front"></div>
+        <div class="inside" aria-hidden="true"><div class="chart-title">The Voyage of the Java · 1839–40</div><svg id="chart"></svg><div class="legend" id="legend"><b>12 October 1839</b>London<br><i>Turn the pages to follow her track</i></div></div>
+      </button>
+    </div>
   </div>
 
-  <div class="buttons">
-    <a class="btn" href="read/">Read online</a>
-    <!-- These URLs never change: "latest" always points at the newest build -->
-    <a class="btn" href="https://github.com/zharradam/java-book/releases/latest/download/the-java.epub">Download EPUB</a>
-    <a class="btn" href="https://github.com/zharradam/java-book/releases/latest/download/the-java.pdf">Download PDF</a>
-    <!-- Uploaded to the release by hand (too large for git); CI does not rebuild it -->
-    <a class="btn" href="https://github.com/zharradam/java-book/releases/latest/download/the-java.m4b">Download audiobook</a>
+  <div class="offer">
+    <h1 class="gilt">Java</h1>
+    <p class="sub">The Sailing Ship 1813–1940</p>
+    <p class="by gilt">Stephen Michael Barnett</p>
+    <p class="lede">The true story of the East Indiaman <em>Java</em> and her emigrants to South Australia, arriving at Holdfast Bay on 6 February 1840: the children lost at sea, the enquiry that followed, and the ship’s long life until 1939. Free to read.</p>
+    <a class="read" href="read/"><span>Read the book online<small>Every chapter, with pictures</small></span><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    <div class="dl">
+      <a data-l="pdf">Download PDF<small>Print or computer<span id="pdf-size"></span></small></a>
+      <a data-l="epub">Download EPUB<small>E-readers, phones<span id="epub-size"></span></small></a>
+      <a data-l="m4b">Audiobook<small>Trial · 2 h 17 min</small></a>
+    </div>
+    <button class="open-btn" id="openBtn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 5h7a3 3 0 0 1 3 3v12a2 2 0 0 0-2-2H2zM22 5h-7a3 3 0 0 0-3 3v12a2 2 0 0 1 2-2h8z"/></svg>Open the book and follow the voyage</button>
+    <p class="meta ui" id="edition-line"><!--EDITION--></p>
   </div>
-  <p class="hint">EPUB for e-readers and phones<span id="epub-size"></span> &middot; PDF for reading on a computer or printing<span id="pdf-size"></span></p>
-  <p class="hint">Audiobook (trial): M4B with chapters, 2 hours 17 minutes (110 MB), for Apple Books or any audiobook app.
-  Narrated by computer-generated voices (OmniVoice model by k2-fsa, CC BY-NC); the lists, bibliography and pictures are in the EPUB and PDF.</p>
-  <p>Looking for an ancestor? See the <a href="read/appendix-b-passenger-list-of-the-java.html">passenger list of the <em>Java</em></a>
-  and the <a href="read/crew-list-1840-voyage-of-java.html">crew list</a>, or the
-  <a href="read/">full contents</a>.</p>
-  <p class="hint" id="edition-line"><!--EDITION--></p>
+</section>
 
-  <footer>
-    Published by Ten Brat Press &middot;
-    <a id="contact" href="#">stephenmichaelbarnett [at] gmail.com</a>
-    <script>
-      (function () {
-        var u = 'stephenmichaelbarnett', d = 'gmail.com', a = document.getElementById('contact');
-        a.href = 'mailto:' + u + '@' + d + '?subject=The%20Java';
-        a.textContent = u + '@' + d;
-      })();
-    </script>
-  </footer>
+<main>
+  <section class="ancestor">
+    <div>
+      <h2>Was your family aboard?</h2>
+      <p>Some 413 emigrants were landed at Holdfast Bay. The book gathers their names from the manifest, the free-passage applications, the Register of Sick and Destitute Emigrants and descendants’ own records.</p>
+    </div>
+    <form class="finder" onsubmit="location.href=JAVA_LINKS.passengers+'#:~:text='+encodeURIComponent(this.q.value.trim());return false;">
+      <label class="sr" for="q">Surname</label><input id="q" name="q" placeholder="Surname, e.g. Tonkin" autocomplete="family-name"><button>Search the list</button>
+    </form>
+    <p class="finder-links"><a data-l="passengers">The passenger list</a> · <a data-l="crew">The crew list</a> · <a href="read/">All chapters</a></p>
+  </section>
+  <div class="two">
+    <div>
+      <h2>A melancholy voyage</h2>
+      <p>The true story of the voyage of the East Indiaman <em>Java</em>, which carried emigrants to the colony of South Australia, arriving in Holdfast Bay on February 6th, 1840 — of the loss of life during the voyage, the subsequent enquiry, and the later history of the ship, sometimes known as the “Last of the East Indiamen”, to its final voyage to the breakers in Genoa in July 1939.</p>
+      <p class="ui" style="font-size:1rem;color:var(--ink-2)">The audiobook is a trial, narrated by computer-generated voices (OmniVoice model by k2-fsa, CC BY-NC). The lists, bibliography and pictures are in the EPUB and PDF.</p>
+    </div>
+    <figure><img src="read/images/sailing-card-java-1839.jpg" alt="Card announcing the sailing of the Java for South Australia, Alexander Duthie, commander, 1839"><figcaption>The card announcing the sailing of the <em>Java</em>, 1839. Courtesy of Leila Conigrave.</figcaption></figure>
+  </div>
+</main>
+<footer>Published by Ten Brat Press · <a data-contact href="#">stephenmichaelbarnett [at] gmail.com</a><br><span class="ui">Chart positions between named places are approximate. Coastlines: Natural Earth.</span></footer>
+
+<script src="land.js"></script><script src="voyage.js"></script>
+<script>
+(function () {
+  var V = JAVA_VOYAGE, L = JAVA_LAND, NS = 'http://www.w3.org/2000/svg', hero = document.getElementById('hero'),
+      page = document.getElementById('page'), leaf = document.getElementById('leaf'), cover = document.getElementById('cover'), book = document.getElementById('book');
+  var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches, cur = -1, opened = false;
+  function P(s) { return [(s.lon - L.lon0) * L.k, (L.lat0 - s.lat) * L.k]; }
+  // Draw a chart into an svg; returns an updater for the current station
+  function chart(svg, labels) {
+    // Portrait endpaper: crop to the Atlantic-Indian Ocean band the voyage crosses
+    svg.setAttribute('viewBox', '30 30 800 480'); svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
+    function el(n, a, p) { var e = document.createElementNS(NS, n); for (var k in a) e.setAttribute(k, a[k]); (p || svg).appendChild(e); return e; }
+    var g = el('g', { class: 'grat' });
+    for (var x = 0; x <= 875; x += 100) el('line', { x1: x, y1: 0, x2: x, y2: 550 }, g);
+    for (var y = 25; y <= 550; y += 75) el('line', { x1: 0, y1: y, x2: 900, y2: y }, g);
+    el('path', { d: L.d, class: 'land' });
+    var pts = V.map(P), all = 'M' + pts.map(function (p) { return p.join(' '); }).join('L');
+    el('path', { d: all, class: 'route-ghost' });
+    var route = el('path', { d: 'M' + pts[0].join(' '), class: 'route' });
+    var dots = pts.map(function (p) { return el('circle', { cx: p[0], cy: p[1], r: 5, class: 'stn' }); });
+    if (labels) [['London', 0, 10, -8], ['Holdfast Bay', 10, -110, 26], ['Cape of Good Hope', 7, -40, 28]].forEach(function (l) {
+      el('text', { x: pts[l[1]][0] + l[2], y: pts[l[1]][1] + l[3], class: 'place-label' }).textContent = l[0]; });
+    return function (i) {
+      route.setAttribute('d', 'M' + pts.slice(0, i + 1).map(function (p) { return p.join(' '); }).join('L'));
+      dots.forEach(function (d, j) { d.classList.toggle('past', j < i); d.classList.toggle('on', j === i); d.setAttribute('r', j === i ? 8 : 5); });
+    };
+  }
+  var big = chart(document.getElementById('chart'), true), mini;
+  function html(i) {
+    var s = V[i], q = s.who !== 'The book';
+    return '<div class="run"><button class="close-btn" data-close>Close the book</button><span>' + s.short + (s.date.match(/\d{4}/) ? ' ' + s.date.match(/\d{4}/)[0] : '') + '</span></div>' +
+      '<svg class="mini" aria-hidden="true"></svg>' +
+      '<div class="when">' + s.date + '</div><p class="where">' + s.place + (s.approx ? ' (position approximate)' : '') + '</p>' +
+      (q ? '<q>' + s.text + '</q><div class="who">— ' + s.who + '’s diary</div>' : '<p style="margin:0">' + s.text + '</p>') +
+      '<div class="foot"><button class="turn" data-d="-1"' + (i === 0 ? ' disabled' : '') + ' aria-label="Previous page">‹ Earlier</button>' +
+      '<span class="no">' + (i + 1) + ' of ' + V.length + '</span>' +
+      '<button class="turn" data-d="1"' + (i === V.length - 1 ? ' disabled' : '') + ' aria-label="Next page">Later ›</button></div>';
+  }
+  function render(i) {
+    page.innerHTML = html(i);
+    var m = page.querySelector('.mini'); if (getComputedStyle(m).display !== 'none') chart(m, false)(i);
+    page.querySelectorAll('.turn').forEach(function (b) { b.onclick = function () { go(cur + (+b.dataset.d)); }; });
+    big(i);
+    var s = V[i]; document.getElementById('legend').innerHTML = '<b>' + s.date + '</b>' + s.place + '<br><i>' + (i + 1) + ' of ' + V.length + ' · positions between named places approximate</i>';
+  }
+  var leafTimer, stage = document.querySelector('.stage');
+  function go(i) {
+    if (i < 0 || i >= V.length || i === cur) return;
+    var fwd = i > cur, old = page.innerHTML;
+    if (!reduce && cur >= 0) {
+      clearTimeout(leafTimer); leaf.className = 'leaf';
+      leaf.querySelector('.f').innerHTML = '<div class="page" style="position:absolute;inset:0">' + (fwd ? old : html(i)) + '</div>';
+      void leaf.offsetWidth; leaf.classList.add(fwd ? 'go' : 'back'); stage.classList.add('turning');
+      leafTimer = setTimeout(function () { leaf.className = 'leaf'; stage.classList.remove('turning'); }, 920);
+    }
+    cur = i; render(i);
+    if (document.activeElement && document.activeElement.classList.contains('turn')) (page.querySelector('.turn[data-d="' + (fwd ? 1 : -1) + '"]:not([disabled])') || page.querySelector('.turn:not([disabled])')).focus();
+  }
+  var openBtn = document.getElementById('openBtn'), openLabel = openBtn.innerHTML;
+  function open() {
+    if (opened) return; opened = true; hero.classList.add('open'); cover.setAttribute('aria-label', 'Close the book');
+    openBtn.innerHTML = openLabel.replace('Open the book and follow the voyage', 'Close the book');
+    setTimeout(function () { if (cur < 0) go(0); else render(cur); var t = page.querySelector('.turn[data-d="1"]'); t && t.focus({ preventScroll: true }); }, reduce ? 0 : 500);
+  }
+  function close() {
+    if (!opened) return; opened = false; hero.classList.remove('open'); cover.setAttribute('aria-label', 'Open the book to follow the voyage');
+    openBtn.innerHTML = openLabel; cover.focus({ preventScroll: true });
+  }
+  cover.onclick = function () { opened ? close() : open(); };
+  openBtn.onclick = function () { if (opened) return close(); open(); book.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' }); };
+  page.addEventListener('click', function (e) { if (e.target.closest('[data-close]')) close(); });
+  // The book follows the cursor in 3D; its pose is eased every frame so opening, closing and tilting blend together
+  var tilt = { x: 0, y: 0 }, pose = { tx: null, ry: -22, rx: 6 };
+  if (!reduce) hero.addEventListener('pointermove', function (e) {
+    if (e.pointerType !== 'mouse') return; var r = hero.getBoundingClientRect();
+    tilt.x = (e.clientX - r.left) / r.width - .5; tilt.y = (e.clientY - r.top) / r.height - .5;
+  });
+  hero.addEventListener('pointerleave', function () { tilt.x = tilt.y = 0; });
+  function frame() {
+    var w = book.offsetWidth, wide = innerWidth > 760;
+    var tTx = wide ? (opened ? w : w / 2) : 0, tRy = opened ? tilt.x * 16 : -22 + tilt.x * 50, tRx = opened ? 4 - tilt.y * 10 : 6 - tilt.y * 26;
+    if (pose.tx === null || reduce) { pose.tx = tTx; pose.ry = tRy; pose.rx = tRx; }
+    var k = .085; pose.tx += (tTx - pose.tx) * k; pose.ry += (tRy - pose.ry) * k; pose.rx += (tRx - pose.rx) * k;
+    book.style.transform = 'translateX(' + pose.tx.toFixed(1) + 'px) rotateY(' + pose.ry.toFixed(2) + 'deg) rotateX(' + pose.rx.toFixed(2) + 'deg)';
+    if (!reduce) requestAnimationFrame(frame);
+  }
+  frame();
+  document.addEventListener('keydown', function (e) {
+    if (!opened || /INPUT|TEXTAREA/.test(e.target.tagName)) return;
+    if (e.key === 'ArrowRight') go(cur + 1); if (e.key === 'ArrowLeft') go(cur - 1); if (e.key === 'Escape') close();
+  });
+  document.querySelectorAll('[data-l]').forEach(function (a) { a.href = JAVA_LINKS[a.dataset.l]; });
+  big(0);
+})();
+</script>
 </body>
 </html>
