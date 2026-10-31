@@ -23,7 +23,7 @@ The most striking thing about the diaries is that Trangmar  did not mention any 
 
 *"October 28th... more disturbances amongst us. I begin to have a very bad opinion of our Plymouth Emigrants, the greater part of them are Cornish people, and many of them are miners, they are a very uncouth and dissatisfied lot of people."*
 
-William Richards does not make any such comment about his fellow passengers although he did write, "the supposed ladies in the cuddy discovered to be bad characters." George was to however chronicle the very sad litany of deaths, of children in particular.
+William Richards does not make any such comment about his fellow passengers although he did write, "the supposed ladies in the cuddy discovered to be bad characters." William was to however chronicle the very sad litany of deaths, of children in particular.
 
 It is the large number of deaths that prompted the author to bring to light as much as he could discover about the "JAVA"; in doing so I hope that we remember that our ancestors suffered greatly in many cases, to provide a new opportunity for their families, and that in some small way, we acknowledge the voyage of the "JAVA" to South Australia.
 

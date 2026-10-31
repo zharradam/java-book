@@ -76,7 +76,7 @@ The weather changes were something to note,
 
 **November 7th.** Coats, neck cloth and stockings off."
 
-The next day James has a detailed entry as compared to George, when the former noted:
+The next day James has a detailed entry as compared to William, when the former noted:
 
 *In the afternoon, a heavy squall struck us from the N.W. while off the Western Islands; the effect of the wind upon the sea was wonderful, the waves seeming to rise in size as if by magic. *
 

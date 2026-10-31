@@ -22,7 +22,7 @@ This last comment on the manifest has of course made any complete listing likely
 
 Other sources have provided the following names in addition to those shown;
 
-James and Thomasina Crowle, ancestors of the author were on board, as of course was William Richards (the diarist), his daughter Caroline having died at sea. William had also William, Jnr., Laura, George and Cyrus as well as presumably his wife on board. James Trangmar and his sister Sarah and his aunt and uncle were passengers but I am unsure of their location on the ship. We know that there was the widow to Mr. Oxford of Bideford and his four children. Also George mentions Mr. Bastian of Cowan whose daughter aged 11 years died, a Mr Gahan lost a child and Mr. Carbins also lost his wife.
+James and Thomasina Crowle, ancestors of the author were on board, as of course was William Richards (the diarist), his daughter Caroline having died at sea. William had also William, Jnr., Laura, George and Cyrus as well as presumably his wife on board. William Richards and his family were the second-last embarkation numbers on Patricia Button's passenger list below, embarkation number 3678. James Trangmar and his sister Sarah and his aunt and uncle were passengers but I am unsure of their location on the ship. We know that there was the widow to Mr. Oxford of Bideford and his four children. Also William mentions Mr. Bastian of Cowan whose daughter aged 11 years died, a Mr Gahan lost a child and Mr. Carbins also lost his wife.
 
 ![Thomasina Crowle, a passenger on the Java — an early photograph. *Barnett family collection.*](images/portrait-thomasina-crowle.jpg){width=36%}
 
