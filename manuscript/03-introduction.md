@@ -43,6 +43,8 @@ In 1813 the JAVA was admitted to British registry in the service of the East Ind
 
 This is clearly in conflict with McGregor; somewhere between the two authors must be the true situation- I believe that it was in fact an East Indiaman.
 
+![An advertisement for the Java, bound for Calcutta "under an engagement with the Honourable East India Company". *Newspaper cutting, digitally sharpened.*](images/advert-java-calcutta-sharpened.jpg){width=100%}
+
 In his definitive work “Ships of the East India Company” published posthumously by the World Ship Society, the late Rowan Hackman clearly places Java as being one of the East India Company ships. He provides us with significant detail. In Part 2 Section1 Major Ships of the United Company 1708-1834 including the launch date of Tuesday, December 17th 1811 He stated she was launched by Anthony Blackmore, Calcutta for Paxton & Co., London and Calcutta. Her first master was Captain Thomas Driver. From 1811 to 1825 she sailed in the Indian coastal trade and from 26/7/1825-15/3/1827 she sailed between Bengal and China.
 
 She then left the East India Company and from 1827 to 1866 traded between London and India, the Far East and Australia. He also provided the date on which the Java was sunk by Italian limpet mines this was Friday, September 20th 1940. He states also that she was the only East Indiaman employed by the Company to have survived until the Second World War.

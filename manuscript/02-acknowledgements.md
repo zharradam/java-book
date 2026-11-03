@@ -10,4 +10,8 @@ Because of my haste any errors are entirely my own, any omissions, my fault. If 
 
 I would like to thank those friends and colleagues who put up with my enthusiasm after each new fact and find relating to the "Java" was made and relayed to them.
 
+Special thanks go to the staff in the JC Beaglehole Room at the Victoria University of Wellington New Zealand who gave me permission to use the image that appears on the cover: "The old East Indiaman 'Java' of London", Newsclipping scrapbook, Tapuaka - Heritage & Archive Collections, Victoria University of Wellington Library ref: Fildes 637, p.80.
+
+I must also tip my hat to Horace Fildes who last century had a great interest in history and had a significant collection that was donated to the university.
+
 Finally thanks and love go friends and family for putting up with a man who spends much time on the telephone and in libraries and still has a family history or two to finish!

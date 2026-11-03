@@ -77,8 +77,8 @@
 }
 
 // ── Cover, full page (same image as the EPUB cover) ───────────
-#page(margin: 0pt, numbering: none, fill: rgb("#f7f2e6"))[
-  #align(center + horizon)[#image("/images/cover.jpg", height: 100%)]
+#page(margin: 0pt, numbering: none)[
+  #align(center + horizon)[#image("/images/cover-pdf.jpg", width: 100%, height: 100%, fit: "cover")]
 ]
 
 // ── Copyright page: the cover is the title page, so this carries only the imprint ──

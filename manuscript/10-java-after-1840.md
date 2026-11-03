@@ -38,6 +38,8 @@ Coates then said Mr. Smith told him the previously mentioned story of how the "J
 
 Coates then went on to point out the robustness of construction when he said the following:-"A curious fact which speaks volumes to the excellence of her scantling, and to the skills of her builders happened on her passage out to Gibraltar, laden with coal. She struck on Pearl Rock, which, as most readers are aware, lies to the southward of Carnero point and a mile from the shore. She got off, however and came into Gibraltar Bay. It was the intention to dock her at Cadiz, but the underwriters insisting on her returning home to dock she sailed to England. There on being docked, she was found to have a large piece of rock sticking into her bottom. Even at her present age, eighty-three years, her only leak is in the vicinity of this spot, as the planking put in by the repairers has not stood the test of time.
 
+![The hulk of the Java at her moorings. *"The old East Indiaman 'Java' of London", Newsclipping scrapbook, Tapuaka - Heritage & Archive Collections, Victoria University of Wellington Library ref: Fildes 637, p.80.*](images/hulk-gibraltar-fildes.jpg){width=100%}
+
 As an almost forgotten hulk she lies now, a link in the chain of progression in the art of ship buildinga ship that when built was considered a triumph of skill, a credit alike to designer and builder, but now a floating monument to the palmy days of shipping, and a reminder of the ceaseless changes in the phases of commerce."
 
 ![The coal hulk from the starboard bow. *Photograph courtesy of Peter Staveley, R.N.*](images/hulk-starboard-bow-sepia.jpg){width=100%}
