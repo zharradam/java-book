@@ -95,7 +95,7 @@ def cover(W, H, s, photo, y, path):
 
     gilt('Java', ImageFont.truetype(FELL, S(330)), y['title'], S(40), S(8))
     center('The Sailing Ship', f(ital, S(82)), y['ship'])
-    center('1813–1940', f(ital, S(82)), y['dates'])
+    center('1811–1940', f(ital, S(82)), y['dates'])
     center('The voyage of the East Indiaman', f(reg, S(48)), y['sub1'])
     center('to South Australia, 1839–1840', f(reg, S(48)), y['sub2'])
     gilt('Stephen Michael Barnett', ImageFont.truetype(FELL, S(96)), y['author'], S(6), S(4))
