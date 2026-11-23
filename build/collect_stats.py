@@ -45,11 +45,19 @@ def visits(token):
     start = end - timedelta(days=30)
     q = lambda **k: urllib.parse.urlencode({'start': start.strftime('%Y-%m-%dT%H:%M:%SZ'),
                                             'end': end.strftime('%Y-%m-%dT%H:%M:%SZ'), **k})
-    total = get(f'{GC}/stats/total?{q()}', token)
-    hits = get(f'{GC}/stats/hits?{q(limit=100)}', token).get('hits', [])
-    refs = get(f'{GC}/stats/toprefs?{q(limit=10)}', token).get('stats', [])
-    alltime = get(f'{GC}/stats/total?' + urllib.parse.urlencode({'start': '2026-11-01T00:00:00Z',
-                                                                  'end': end.strftime('%Y-%m-%dT%H:%M:%SZ')}), token)
+    def call(path, empty):
+        try:
+            return get(f'{GC}/{path}', token)
+        except Exception as e:
+            print(f'GoatCounter {path.split("?")[0]}: {e}', file=sys.stderr)
+            if path.startswith('stats/total'):
+                raise
+            return empty
+    total = call(f'stats/total?{q()}', {})
+    hits = call(f'stats/hits?{q(limit=100)}', {}).get('hits', [])
+    refs = call(f'stats/toprefs?{q(limit=10)}', {}).get('stats', [])
+    alltime = call('stats/total?' + urllib.parse.urlencode({'start': '2026-11-01T00:00:00Z',
+                                                          'end': end.strftime('%Y-%m-%dT%H:%M:%SZ')}), {})
     pages = [{'path': h['path'], 'title': h.get('title') or '', 'count': h.get('count', 0)}
              for h in hits if not h.get('event')]
     clicks = [{'name': h['path'], 'count': h.get('count', 0)} for h in hits if h.get('event')]
