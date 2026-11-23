@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Readership · The Java</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%93%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Barlow+Semi+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root { --sea: #dfe9ec; --paper: #f6f1e4; --ink: #1d3346; --ink-2: #3f5a6e; --track: #b23a26; --rule: #8aa3b1; }
+  * { box-sizing: border-box; }
+  html { background: var(--sea); color: var(--ink); }
+  body { margin: 0; font: 1.1rem/1.5 "IM Fell English", Georgia, serif; }
+  a { color: var(--ink); text-underline-offset: .2em; text-decoration-color: var(--track); }
+  :focus-visible { outline: 3px solid var(--track); outline-offset: 3px; }
+  main { max-width: 52rem; margin: 0 auto; padding: clamp(1.5rem, 5vw, 3.5rem) 16px; }
+  h1 { font: 400 clamp(2rem, 6vw, 3rem)/1.1 "IM Fell English SC", serif; letter-spacing: .04em; margin: 0; }
+  h2 { font: 400 1.45rem "IM Fell English SC", serif; letter-spacing: .04em; margin: 0 0 .9rem; border-bottom: 1px solid var(--rule); padding-bottom: .55rem; }
+  .ui, .num, .bars, .updated, .note { font-family: "Barlow Semi Condensed", system-ui, sans-serif; }
+  .updated { color: var(--ink-2); margin: .3rem 0 2rem; }
+  section { background: var(--paper); border: 1px solid var(--rule); padding: 1.2rem clamp(1rem, 3vw, 1.6rem); margin-bottom: 1.5rem; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 1rem; }
+  .tile .num { display: block; font-size: 2.4rem; font-weight: 600; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .tile .lbl { color: var(--ink-2); }
+  .bars { list-style: none; margin: 0; padding: 0; display: grid; gap: .45rem; }
+  .bars li { display: grid; grid-template-columns: minmax(0, 1fr) 4rem; gap: .2rem .8rem; align-items: center; }
+  .bars .name { overflow-wrap: anywhere; }
+  .bars .n { text-align: right; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .bars .bar { grid-column: 1 / -1; height: 6px; background: var(--track); border-radius: 3px; min-width: 2px; }
+  .days { display: flex; align-items: flex-end; gap: 2px; height: 8rem; border-bottom: 1px solid var(--ink-2); }
+  .days span { flex: 1; background: var(--track); min-height: 1px; border-radius: 2px 2px 0 0; }
+  .axis { display: flex; justify-content: space-between; color: var(--ink-2); font: .85rem "Barlow Semi Condensed", sans-serif; margin-top: .3rem; }
+  .note { color: var(--ink-2); font-size: .95rem; margin: .8rem 0 0; }
+  .empty { color: var(--ink-2); font-style: italic; }
+</style>
+</head>
+<body>
+<main>
+  <p class="ui"><a href="/">← theshipjava.uk</a></p>
+  <h1>Readership</h1>
+  <p class="updated" id="updated">Loading…</p>
+
+  <section aria-labelledby="h-dl">
+    <h2 id="h-dl">Downloads</h2>
+    <div class="tiles" id="downloads"></div>
+    <p class="note">Counted by GitHub, where the files are stored, so this includes downloads from links shared elsewhere. Counting began on 23 November 2026.</p>
+  </section>
+
+  <section aria-labelledby="h-v">
+    <h2 id="h-v">Visits</h2>
+    <div id="visits"><p class="empty">Visit figures will appear here once the counter is connected.</p></div>
+  </section>
+
+  <section aria-labelledby="h-p" id="pages-sec" hidden>
+    <h2 id="h-p">Most-read pages, last 30 days</h2>
+    <ol class="bars" id="pages"></ol>
+  </section>
+
+  <section aria-labelledby="h-r" id="refs-sec" hidden>
+    <h2 id="h-r">Where visitors came from, last 30 days</h2>
+    <ol class="bars" id="refs"></ol>
+  </section>
+</main>
+<script>
+  // Written hourly by .github/workflows/stats.yml
+  const SRC = 'https://raw.githubusercontent.com/zharradam/java-book/stats/stats.json';
+  const fmt = n => n.toLocaleString('en-AU');
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const tile = (n, label) => { const d = el('div', 'tile'); d.append(el('span', 'num', fmt(n)), el('span', 'lbl', label)); return d; };
+  const CHAPTERS = { '/': 'Home page', '/read/': 'Contents (read online)', '/stats/': 'This page' };
+
+  function bars(list, items) {
+    const max = Math.max(1, ...items.map(i => i.count));
+    for (const i of items) {
+      const li = el('li');
+      const bar = el('span', 'bar'); bar.style.width = (100 * i.count / max) + '%';
+      li.append(el('span', 'name', i.name), el('span', 'n', fmt(i.count)), bar);
+      list.append(li);
+    }
+  }
+
+  fetch(SRC, { cache: 'no-cache' }).then(r => { if (!r.ok) throw r.status; return r.json(); }).then(s => {
+    document.getElementById('updated').textContent = 'Updated ' + new Date(s.updated).toLocaleString('en-AU', { dateStyle: 'long', timeStyle: 'short' }) + ' · refreshed every hour';
+
+    const dl = document.getElementById('downloads');
+    dl.append(tile(s.downloads.reduce((a, d) => a + d.total, 0), 'All downloads'));
+    for (const d of s.downloads) dl.append(tile(d.total, d.label));
+
+    const v = s.visits;
+    if (!v) return;
+    const box = document.getElementById('visits'); box.textContent = '';
+    const tiles = el('div', 'tiles'); tiles.append(tile(v.total_all, 'Visits since November 2026'), tile(v.total_30d, 'Visits in the last 30 days'));
+    box.append(tiles);
+    if (v.daily.length) {
+      const max = Math.max(1, ...v.daily.map(d => d.count));
+      const days = el('div', 'days'); days.setAttribute('role', 'img');
+      days.setAttribute('aria-label', 'Visits per day: ' + v.daily.map(d => d.day + ' ' + d.count).join(', '));
+      for (const d of v.daily) { const b = el('span'); b.style.height = (100 * d.count / max) + '%'; b.title = d.day + ': ' + fmt(d.count); days.append(b); }
+      const axis = el('div', 'axis'); axis.append(el('span', '', v.daily[0].day), el('span', '', 'Visits per day'), el('span', '', v.daily.at(-1).day));
+      box.append(days, axis);
+    }
+    if (v.pages.length) {
+      bars(document.getElementById('pages'), v.pages.slice(0, 15).map(p => ({ name: CHAPTERS[p.path] || p.title.replace(/ [·|—-] .*$/, '') || p.path, count: p.count })));
+      document.getElementById('pages-sec').hidden = false;
+    }
+    if (v.referrers.length) {
+      bars(document.getElementById('refs'), v.referrers);
+      document.getElementById('refs-sec').hidden = false;
+    }
+  }).catch(() => { document.getElementById('updated').textContent = 'The figures could not be loaded just now. Please try again later.'; });
+</script>
+<script data-goatcounter="https://theshipjava.goatcounter.com/count" async fetchpriority="low" src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

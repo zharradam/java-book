@@ -69,6 +69,7 @@ jobs:
         run: |
           mkdir -p _site
           cp site/index.html site/robots.txt site/land.js site/voyage.js _site/
+          mkdir -p _site/stats && cp site/stats.html _site/stats/index.html
           cp images/cover.jpg _site/ 2>/dev/null || true
           cp -r dist/read _site/read && rm -f _site/read/sitemap.json
           # Sitemap for search engines: the home page and every read-online page
