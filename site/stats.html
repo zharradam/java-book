@@ -69,7 +69,7 @@
   const fmt = n => n.toLocaleString('en-AU');
   const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
   const tile = (n, label) => { const d = el('div', 'tile'); d.append(el('span', 'num', fmt(n)), el('span', 'lbl', label)); return d; };
-  const CHAPTERS = { '/': 'Home page', '/read/': 'Contents (read online)', '/stats/': 'This page' };
+  const CHAPTERS = { '/': 'Home page', '/read': 'Contents (read online)', '/stats': 'This page' };
 
   function bars(list, items) {
     const max = Math.max(1, ...items.map(i => i.count));
@@ -102,7 +102,7 @@
       box.append(days, axis);
     }
     if (v.pages.length) {
-      bars(document.getElementById('pages'), v.pages.slice(0, 15).map(p => ({ name: CHAPTERS[p.path] || p.title.replace(/ [·|—-] .*$/, '') || p.path, count: p.count })));
+      bars(document.getElementById('pages'), v.pages.slice(0, 15).map(p => ({ name: CHAPTERS[p.path.replace(/(.)\/$/, '$1')] || p.title.replace(/ [·|—-] .*$/, '') || p.path, count: p.count })));
       document.getElementById('pages-sec').hidden = false;
     }
     if (v.referrers.length) {
