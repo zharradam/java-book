@@ -98,7 +98,7 @@ jobs:
 
       # The site is served by a Cloudflare Worker (wrangler.toml, worker/). Pushes to main
       # go live at theshipjava.uk; running this workflow by hand from any other branch
-      # deploys a preview at theshipjava-preview.<account>.workers.dev instead.
+      # deploys the preview environment (theshipjava-preview.<account>.workers.dev) instead.
       - name: Deploy to Cloudflare
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -110,10 +110,10 @@ jobs:
           id=$(db_id)
           if [ -z "$id" ]; then wrangler d1 create theshipjava-stats; id=$(db_id); fi
           [ -n "$id" ] || { echo "Could not find or create the stats database"; exit 1; }
-          sed -i "s/00000000-0000-0000-0000-000000000000/$id/" wrangler.toml
+          sed -i "s/00000000-0000-0000-0000-000000000000/$id/g" wrangler.toml
           wrangler d1 execute theshipjava-stats --remote --yes --file worker/schema.sql
           if [ "$GITHUB_REF" = refs/heads/main ]; then
-            wrangler deploy --domain theshipjava.uk --domain www.theshipjava.uk
+            wrangler deploy
           else
-            wrangler deploy --name theshipjava-preview
+            wrangler deploy --env preview
           fi

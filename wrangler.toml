@@ -1,7 +1,7 @@
 # theshipjava.uk on Cloudflare Workers: the static site in _site/ (built by
 # .github/workflows/build.yml) plus the readership counter in worker/index.js.
-# Deployed by that workflow; the real domain is attached there, not here, so a
-# preview deploy can never take over the live site.
+# Deployed by that workflow: pushes to main go live; any other branch deploys the
+# "preview" environment below, which has no domain and so can never take over the site.
 name = "theshipjava"
 main = "worker/index.js"
 compatibility_date = "2026-06-01"
@@ -20,3 +20,25 @@ database_id = "00000000-0000-0000-0000-000000000000"   # filled in by the deploy
 
 [observability]
 enabled = true
+
+[[routes]]
+pattern = "theshipjava.uk"
+custom_domain = true
+zone_name = "theshipjava.uk"
+
+[[routes]]
+pattern = "www.theshipjava.uk"   # redirected to theshipjava.uk by the Worker
+custom_domain = true
+zone_name = "theshipjava.uk"
+
+# A look-alike copy at theshipjava-preview.<account>.workers.dev for checking changes
+# before they go live. It shows the real figures but never adds to them.
+[env.preview]
+name = "theshipjava-preview"
+workers_dev = true
+routes = []
+
+[[env.preview.d1_databases]]
+binding = "DB"
+database_name = "theshipjava-stats"
+database_id = "00000000-0000-0000-0000-000000000000"
