@@ -7,15 +7,15 @@ export const HOST = 'theshipjava.uk';
 const BROWSER = /Mozilla\/5\.0 .*(Chrome|Chromium|Firefox|FxiOS|Safari|Edg|OPR|SamsungBrowser)/;
 const BOT = /bot|crawl|spider|slurp|preview|facebookexternalhit|embed|fetch|curl|wget|python|httpclient|okhttp|powershell|headless|lighthouse|monitor|uptime|whatsapp|mastodon|signal|telegram|skype|linkedin|pinterest|vkshare|go-http-client|java\/|node|axios|undici|scrapy/i;
 
-// Browsers send Sec-Fetch-* on every request and page scripts cannot forge them, so a
-// page pulled in by another site's hidden <img>, <iframe>, fetch() or prefetch is not a
-// page open. Older browsers that send no Sec-Fetch headers at all still count.
+// Every current browser sends Sec-Fetch-* when it opens a page (Chrome 76, Firefox 90,
+// Safari 16.4), and page scripts cannot forge them. Requiring them leaves out both the
+// scanners that only borrow a browser's name and pages pulled in by another site's hidden
+// <img>, <iframe>, fetch() or prefetch. The cost: browsers from before 2023 are not counted.
 export function isPageOpen(req) {
   const h = req.headers, ua = h.get('user-agent') || '';
   if (req.method !== 'GET' || !BROWSER.test(ua) || BOT.test(ua)) return false;
-  const mode = h.get('sec-fetch-mode'), dest = h.get('sec-fetch-dest');
-  if (mode && mode !== 'navigate') return false;
-  if (dest && dest !== 'document') return false;
+  if (h.get('sec-fetch-mode') !== 'navigate' || h.get('sec-fetch-dest') !== 'document') return false;
+  if (!h.get('accept-language')) return false;   // people's browsers always say which language they read
   const purpose = [h.get('sec-purpose'), h.get('purpose'), h.get('x-purpose'), h.get('x-moz')].filter(Boolean).join(' ');
   return !/prefetch|prerender|preview/i.test(purpose);
 }

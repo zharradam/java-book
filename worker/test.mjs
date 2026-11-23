@@ -4,10 +4,11 @@ import { isPageOpen, sourceOf } from './rules.mjs';
 
 const CHROME = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36';
 const req = (headers, method = 'GET') => new Request('https://theshipjava.uk/', { method, headers });
-const nav = { 'user-agent': CHROME, 'sec-fetch-mode': 'navigate', 'sec-fetch-dest': 'document' };
+const nav = { 'user-agent': CHROME, 'sec-fetch-mode': 'navigate', 'sec-fetch-dest': 'document', 'accept-language': 'en-AU,en;q=0.9' };
 
 assert.equal(isPageOpen(req(nav)), true, 'a browser opening a page');
-assert.equal(isPageOpen(req({ 'user-agent': CHROME })), true, 'an older browser with no Sec-Fetch headers');
+assert.equal(isPageOpen(req({ 'user-agent': CHROME })), false, 'a scanner borrowing a browser name, with none of its other headers');
+assert.equal(isPageOpen(req({ ...nav, 'accept-language': '' })), false, 'no language header');
 assert.equal(isPageOpen(req(nav, 'HEAD')), false, 'HEAD');
 assert.equal(isPageOpen(req({ ...nav, 'user-agent': 'curl/8.4.0' })), false, 'curl');
 assert.equal(isPageOpen(req({ ...nav, 'user-agent': 'Mozilla/5.0 (compatible; Googlebot/2.1)' })), false, 'Googlebot');
