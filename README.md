@@ -12,7 +12,8 @@ manuscript/   the book itself — one Markdown file per chapter,
               built in filename order (00-…, 01-…, 02-…)
 images/       photographs, maps, facsimiles (see images/README.md)
 build/        metadata, stylesheet, and the build script
-site/         the public download page (GitHub Pages)
+site/         the website: home page, readership page, 404 page
+worker/       serves theshipjava.uk from Cloudflare and counts readers
 .github/      the automation that builds the book on every change
 ```
 
@@ -45,8 +46,12 @@ verify the conversion changed nothing.
   humans, in the Markdown, where the commit history records them.
 - Every image needs a caption with a credit line, and an entry in
   [PERMISSIONS.md](PERMISSIONS.md).
-- One-time repo setup: **Settings → Pages → Source: GitHub Actions**
-  (needed once before the download page publishes).
+- The website is deployed to Cloudflare by the build workflow. One-time
+  setup: the repository secrets `CLOUDFLARE_API_TOKEN` (Workers and D1
+  edit) and `CLOUDFLARE_ACCOUNT_ID`. Readership figures are at
+  [theshipjava.uk/stats/](https://theshipjava.uk/stats/); how they are
+  counted, and what is deliberately not kept, is described at the top of
+  [worker/index.js](worker/index.js).
 
 ## TODO before first release
 

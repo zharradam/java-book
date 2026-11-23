@@ -16,8 +16,8 @@ theshipjava.uk is the free home of *Java: The Sailing Ship 1813–1940* by Steph
 The only book-length history of this ship and voyage, built on passengers' diaries, the Medical Board enquiry, the Register of Sick and Destitute Emigrants and descendants' own records, published free.
 
 ## Capabilities and Constraints
-- Static site on GitHub Pages (custom domain via Cloudflare DNS); vanilla HTML/CSS/JS, no framework or server.
-- Read-online pages under /read/ are generated from manuscript/*.md by Pandoc in CI; downloads are GitHub release assets.
+- Static site served by a Cloudflare Worker (worker/), which also counts readership server-side into a D1 database; vanilla HTML/CSS/JS, no framework.
+- Read-online pages under /read/ are generated from manuscript/*.md by Pandoc in CI; downloads are GitHub release assets, reached through /download/ so they can be counted.
 - Must keep: SEO head (title, description, canonical, JSON-LD), download links, passenger/crew list links, audiobook note, obfuscated contact email.
 - Interactive feature chosen for exploration: a voyage map/timeline (London → Plymouth → Holdfast Bay) with dated events and diary extracts from the book.
 

@@ -1,0 +1,23 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "design-system-font",
+        "value": "fell english\",georgia,serif",
+        "createdAt": "2026-11-23T07:10:42.374Z",
+        "reason": "Same body font stack as site/index.html (the live home page); stats page reuses it"
+      },
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "site/stats.html"
+        ],
+        "createdAt": "2026-11-23T10:46:13.010Z",
+        "reason": "Rendered page (user screenshot 23 Nov) shows 16-26px insets on all bordered sections; detector does not name an element"
+      }
+    ]
+  }
+}

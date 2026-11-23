@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Barlow+Semi+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
-  :root { --sea: #dfe9ec; --paper: #f6f1e4; --ink: #1d3346; --ink-2: #3f5a6e; --track: #b23a26; --rule: #8aa3b1; }
+  :root { --sea: #dfe9ec; --paper: #f6f1e4; --ink: #1d3346; --ink-2: #3f5a6e; --track: #b23a26; --rule: #8aa3b1; --grid: #d9d2bf; }
   * { box-sizing: border-box; }
   html { background: var(--sea); color: var(--ink); }
   body { margin: 0; font: 1.1rem/1.5 "IM Fell English", Georgia, serif; }
@@ -18,99 +18,166 @@
   main { max-width: 52rem; margin: 0 auto; padding: clamp(1.5rem, 5vw, 3.5rem) 16px; }
   h1 { font: 400 clamp(2rem, 6vw, 3rem)/1.1 "IM Fell English SC", serif; letter-spacing: .04em; margin: 0; }
   h2 { font: 400 1.45rem "IM Fell English SC", serif; letter-spacing: .04em; margin: 0 0 .9rem; border-bottom: 1px solid var(--rule); padding-bottom: .55rem; }
-  .ui, .num, .bars, .updated, .note { font-family: "Barlow Semi Condensed", system-ui, sans-serif; }
+  .ui, .num, table, .updated, .note, .readout, summary, figcaption { font-family: "Barlow Semi Condensed", system-ui, sans-serif; }
   .updated { color: var(--ink-2); margin: .3rem 0 2rem; }
   section { background: var(--paper); border: 1px solid var(--rule); padding: 1.2rem clamp(1rem, 3vw, 1.6rem); margin-bottom: 1.5rem; }
-  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 1rem; }
-  .tile .num { display: block; font-size: 2.4rem; font-weight: 600; line-height: 1.1; font-variant-numeric: tabular-nums; }
-  .tile .lbl { color: var(--ink-2); }
-  .bars { list-style: none; margin: 0; padding: 0; display: grid; gap: .45rem; }
-  .bars li { display: grid; grid-template-columns: minmax(0, 1fr) 4rem; gap: .2rem .8rem; align-items: center; }
-  .bars .name { overflow-wrap: anywhere; }
-  .bars .n { text-align: right; font-weight: 600; font-variant-numeric: tabular-nums; }
-  .bars .bar { grid-column: 1 / -1; height: 6px; background: var(--track); border-radius: 3px; min-width: 2px; }
-  .days { display: flex; align-items: flex-end; gap: 2px; height: 8rem; border-bottom: 1px solid var(--ink-2); }
-  .days span { flex: 1; background: var(--track); min-height: 1px; border-radius: 2px 2px 0 0; }
-  .axis { display: flex; justify-content: space-between; color: var(--ink-2); font: .85rem "Barlow Semi Condensed", sans-serif; margin-top: .6rem; }
-  .note { color: var(--ink-2); font-size: .95rem; margin: .8rem 0 0; }
-  .empty { color: var(--ink-2); font-style: italic; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 1rem; margin: 0; }
+  .tiles div { display: flex; flex-direction: column-reverse; }   /* number above its label; label first for screen readers */
+  .tiles dt { color: var(--ink-2); }
+  .tiles dd { margin: 0; font: 600 2.4rem/1.1 "Barlow Semi Condensed", system-ui, sans-serif; font-variant-numeric: tabular-nums; }
+  .note { color: var(--ink-2); font-size: .95rem; margin: .9rem 0 0; }
+  .empty { color: var(--ink-2); font-style: italic; margin: 0; }
+
+  /* Visits per day: one series, so no legend; the heading names it */
+  figure { margin: 1.6rem 0 0; }
+  .plot { position: relative; display: flex; align-items: stretch; gap: 2px; height: 9rem; border-bottom: 1px solid var(--ink-2);
+          background: linear-gradient(var(--grid), var(--grid)) top / 100% 1px no-repeat; }
+  .plot .col { flex: 1; display: flex; align-items: flex-end; }           /* full-height hit target */
+  .plot .col span { width: 100%; background: var(--track); border-radius: 4px 4px 0 0; }
+  .plot .col:hover span, .plot .col.on span { background: var(--ink); }
+  .plot .max { position: absolute; top: .15rem; left: 0; font: 500 .85rem "Barlow Semi Condensed", sans-serif; color: var(--ink-2); }
+  .axis { display: flex; justify-content: space-between; color: var(--ink-2); font: 500 .85rem "Barlow Semi Condensed", sans-serif; margin-top: .6rem; }
+  .readout { min-height: 1.5em; margin: .6rem 0 0; font-weight: 600; }
+  details { margin-top: .6rem; }
+  summary { cursor: pointer; color: var(--ink-2); width: fit-content; padding: .3rem 0; }
+
+  table { border-collapse: collapse; width: 100%; font-size: 1.05rem; }
+  caption { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  th, td { padding: .35rem 0; text-align: left; font-weight: 500; vertical-align: top; }
+  thead th { color: var(--ink-2); font-size: .9rem; border-bottom: 1px solid var(--grid); }
+  td, thead th:last-child { text-align: right; padding-left: 1rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  td { font-weight: 600; }
+  .ranked th[scope=row] { width: 100%; overflow-wrap: anywhere; }
+  .ranked .bar { display: block; height: 4px; margin-top: .25rem; background: var(--track); border-radius: 0 4px 4px 0; min-width: 2px; }
+  .days { max-width: 22rem; }
 </style>
 </head>
 <body>
 <main>
   <p class="ui"><a href="/">← theshipjava.uk</a></p>
   <h1>Readership</h1>
-  <p class="updated" id="updated">Loading…</p>
-
-  <section aria-labelledby="h-dl">
-    <h2 id="h-dl">Downloads</h2>
-    <div class="tiles" id="downloads"></div>
-    <p class="note">Counted by GitHub, where the files are stored, so this includes downloads from links shared elsewhere. Counting began on 23 November 2026.</p>
-  </section>
+  <p class="updated" id="status" role="status">Loading the figures…</p>
 
   <section aria-labelledby="h-v">
     <h2 id="h-v">Visits</h2>
-    <div id="visits"><p class="empty">Visit figures will appear here once the counter is connected.</p></div>
+    <dl class="tiles" id="visits"></dl>
+    <figure id="chart" hidden>
+      <div class="plot" id="plot" aria-hidden="true"></div>
+      <div class="axis" aria-hidden="true"><span id="axis-from"></span><span>Visits per day, last 30 days</span><span id="axis-to"></span></div>
+      <figcaption class="readout" id="readout"></figcaption>
+      <details>
+        <summary>Show the daily figures as a table</summary>
+        <table class="days"><caption>Visits per day, last 30 days</caption>
+          <thead><tr><th scope="col">Day</th><th scope="col">Visits</th></tr></thead><tbody id="days"></tbody></table>
+      </details>
+    </figure>
   </section>
 
-  <section aria-labelledby="h-p" id="pages-sec" hidden>
-    <h2 id="h-p">Most-read pages, last 30 days</h2>
-    <ol class="bars" id="pages"></ol>
+  <section aria-labelledby="h-dl">
+    <h2 id="h-dl">Downloads</h2>
+    <dl class="tiles" id="downloads"></dl>
+    <p class="note">Counted since 11 November 2026.</p>
   </section>
 
-  <section aria-labelledby="h-r" id="refs-sec" hidden>
-    <h2 id="h-r">Where visitors came from, last 30 days</h2>
-    <ol class="bars" id="refs"></ol>
+  <section aria-labelledby="h-p">
+    <h2 id="h-p">Most-read pages</h2>
+    <div id="pages"></div>
   </section>
+
+  <section aria-labelledby="h-r">
+    <h2 id="h-r">Where visitors came from</h2>
+    <div id="sources"></div>
+    <p class="note">“Direct” means the address was typed, bookmarked, or opened from an email or app.</p>
+  </section>
+
+  <section aria-labelledby="h-c">
+    <h2 id="h-c">Countries</h2>
+    <div id="countries"></div>
+  </section>
+
+  <p class="note">How this is counted: by the website itself each time a page is opened in a real browser, so ad blockers make no difference; search-engine robots and link previews are left out. A visit is one sitting; a new one starts after 30 minutes away. No cookies are used and nothing that identifies a reader is kept. Days are Adelaide days.</p>
 </main>
-<script>
-  // Written hourly by .github/workflows/stats.yml
-  const SRC = 'https://raw.githubusercontent.com/zharradam/java-book/stats/stats.json';
+<script type="module">
+  const $ = id => document.getElementById(id);
   const fmt = n => n.toLocaleString('en-AU');
-  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
-  const tile = (n, label) => { const d = el('div', 'tile'); d.append(el('span', 'num', fmt(n)), el('span', 'lbl', label)); return d; };
-  const CHAPTERS = { '/': 'Home page', '/read': 'Contents (read online)', '/stats': 'This page' };
+  const el = (tag, text, cls) => { const e = document.createElement(tag); if (text != null) e.textContent = text; if (cls) e.className = cls; return e; };
+  const dateOf = day => new Date(day + 'T12:00:00');
+  const short = day => dateOf(day).toLocaleDateString('en-AU', { day: 'numeric', month: 'short' });
+  const date = day => dateOf(day).toLocaleDateString('en-AU', { day: 'numeric', month: 'long', year: 'numeric' });
+  const long = day => dateOf(day).toLocaleDateString('en-AU', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+  const plural = (n, word) => `${fmt(n)} ${word}${n === 1 ? '' : 's'}`;
 
-  function bars(list, items) {
-    const max = Math.max(1, ...items.map(i => i.count));
-    for (const i of items) {
-      const li = el('li');
-      const bar = el('span', 'bar'); bar.style.width = (100 * i.count / max) + '%';
-      li.append(el('span', 'name', i.name), el('span', 'n', fmt(i.count)), bar);
-      list.append(li);
-    }
+  function tiles(dl, items) {
+    for (const [label, n] of items) { const d = el('div'); d.append(el('dt', label), el('dd', fmt(n))); dl.append(d); }
   }
 
-  fetch(SRC, { cache: 'no-cache' }).then(r => { if (!r.ok) throw r.status; return r.json(); }).then(s => {
-    document.getElementById('updated').textContent = 'Updated ' + new Date(s.updated).toLocaleString('en-AU', { dateStyle: 'long', timeStyle: 'short' }) + ' · refreshed every hour';
+  // A ranked table: name, count, and a bar whose length is the count
+  function ranked(box, caption, nameHead, countHead, rows) {
+    if (!rows.length) { box.append(el('p', 'Nothing recorded yet.', 'empty')); return; }
+    const max = Math.max(...rows.map(r => r.n));
+    const table = el('table', null, 'ranked'), head = el('tr'), body = el('tbody');
+    for (const h of [nameHead, countHead]) { const th = el('th', h); th.scope = 'col'; head.append(th); }
+    for (const r of rows) {
+      const tr = el('tr'), th = el('th', r.name), bar = el('span', null, 'bar');
+      th.scope = 'row'; bar.style.width = (100 * r.n / max) + '%'; bar.ariaHidden = 'true';
+      th.append(bar); tr.append(th, el('td', fmt(r.n))); body.append(tr);
+    }
+    const thead = el('thead'); thead.append(head);
+    table.append(el('caption', caption), thead, body); box.append(table);
+  }
 
-    const dl = document.getElementById('downloads');
-    dl.append(tile(s.downloads.reduce((a, d) => a + d.total, 0), 'All downloads'));
-    for (const d of s.downloads) dl.append(tile(d.total, d.label));
+  function chart(daily) {
+    const max = Math.max(...daily.map(d => d.n));
+    if (!max) return;
+    const plot = $('plot'), readout = $('readout');
+    const busiest = daily.reduce((a, d) => d.n > a.n ? d : a);
+    const rest = `Busiest day: ${long(busiest.day)}, with ${plural(busiest.n, 'visit')}.`;
+    const show = d => { readout.textContent = d ? `${long(d.day)}: ${plural(d.n, 'visit')}` : rest; };
+    plot.append(el('span', fmt(max), 'max'));
+    for (const d of daily) {
+      const col = el('div', null, 'col'), bar = el('span');
+      bar.style.height = (100 * d.n / max) + '%';
+      col.append(bar); plot.append(col);
+      col.addEventListener('pointerenter', () => show(d));
+      col.addEventListener('pointerdown', () => show(d));   // touch
+      const tr = el('tr'), th = el('th', long(d.day)); th.scope = 'row';
+      tr.append(th, el('td', fmt(d.n))); $('days').append(tr);
+    }
+    plot.addEventListener('pointerleave', () => show());
+    $('axis-from').textContent = short(daily[0].day); $('axis-to').textContent = short(daily.at(-1).day);
+    show(); $('chart').hidden = false;
+  }
 
-    const v = s.visits;
-    if (!v) return;
-    const box = document.getElementById('visits'); box.textContent = '';
-    const tiles = el('div', 'tiles'); tiles.append(tile(v.total_all, 'Visits since November 2026'), tile(v.total_30d, 'Visits in the last 30 days'));
-    box.append(tiles);
-    if (v.daily.length) {
-      const max = Math.max(1, ...v.daily.map(d => d.count));
-      const days = el('div', 'days'); days.setAttribute('role', 'img');
-      days.setAttribute('aria-label', 'Visits per day: ' + v.daily.map(d => d.day + ' ' + d.count).join(', '));
-      for (const d of v.daily) { const b = el('span'); b.style.height = (100 * d.count / max) + '%'; b.title = d.day + ': ' + fmt(d.count); days.append(b); }
-      const axis = el('div', 'axis'); axis.append(el('span', '', v.daily[0].day), el('span', '', 'Visits per day'), el('span', '', v.daily.at(-1).day));
-      box.append(days, axis);
-    }
-    if (v.pages.length) {
-      bars(document.getElementById('pages'), v.pages.slice(0, 15).map(p => ({ name: CHAPTERS[p.path.replace(/(.)\/$/, '$1')] || p.title.replace(/ [·|—-] .*$/, '') || p.path, count: p.count })));
-      document.getElementById('pages-sec').hidden = false;
-    }
-    if (v.referrers.length) {
-      bars(document.getElementById('refs'), v.referrers);
-      document.getElementById('refs-sec').hidden = false;
-    }
-  }).catch(() => { document.getElementById('updated').textContent = 'The figures could not be loaded just now. Please try again later.'; });
+  // Chapter titles come from the contents page, so they never drift from the book
+  async function titles() {
+    const names = { '/': 'Home page', '/read/': 'Contents (read online)' };
+    try {
+      const doc = new DOMParser().parseFromString(await (await fetch('/read/', { priority: 'low' })).text(), 'text/html');
+      for (const a of doc.querySelectorAll('nav[role="doc-toc"] a[href*=".html"]')) {   // the first link to each file is its chapter title
+        names[new URL(a.getAttribute('href'), location.origin + '/read/').pathname] ??= a.textContent.trim();
+      }
+    } catch { /* paths are shown instead */ }
+    return names;
+  }
+
+  try {
+    const [res, names] = await Promise.all([fetch('/api/stats'), titles()]);
+    if (!res.ok) throw new Error(res.status);
+    const s = await res.json();
+    const regions = new Intl.DisplayNames(['en-AU'], { type: 'region' });
+    const country = code => { try { return regions.of(code); } catch { return 'Unknown'; } };
+
+    tiles($('visits'), [['Visits today', s.visits.today], ['Last 30 days', s.visits.month], ['All visits', s.visits.allTime], ['Pages read', s.views.allTime]]);
+    chart(s.daily);
+    tiles($('downloads'), [['All downloads', s.downloads.reduce((a, d) => a + d.n, 0)],
+      ...s.downloads.map(d => [{ pdf: 'PDF', epub: 'EPUB', audiobook: 'Audiobook' }[d.name], d.n])]);
+    ranked($('pages'), 'Most-read pages', 'Page', 'Times read', s.pages.map(p => ({ name: names[p.name] || p.name, n: p.n })));
+    ranked($('sources'), 'Where visitors came from', 'Source', 'Visits', s.sources);
+    ranked($('countries'), 'Visits by country', 'Country', 'Visits', s.countries.map(c => ({ name: country(c.name), n: c.n })));
+    $('status').textContent = s.since ? `Live figures · visits counted since ${date(s.since)}` : 'Live figures · no visits recorded yet';
+  } catch {
+    $('status').textContent = 'The figures could not be loaded just now. Please try again later.';
+  }
 </script>
-<script data-goatcounter="https://theshipjava.goatcounter.com/count" async fetchpriority="low" src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

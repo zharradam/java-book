@@ -1,0 +1,22 @@
+# theshipjava.uk on Cloudflare Workers: the static site in _site/ (built by
+# .github/workflows/build.yml) plus the readership counter in worker/index.js.
+# Deployed by that workflow; the real domain is attached there, not here, so a
+# preview deploy can never take over the live site.
+name = "theshipjava"
+main = "worker/index.js"
+compatibility_date = "2026-06-01"
+
+[assets]
+directory = "./_site"
+binding = "ASSETS"
+html_handling = "none"            # every file keeps its exact address, .html included
+not_found_handling = "404-page"   # site/404.html
+run_worker_first = true           # the Worker sees every request, so it can count page opens
+
+[[d1_databases]]
+binding = "DB"
+database_name = "theshipjava-stats"
+database_id = "00000000-0000-0000-0000-000000000000"   # filled in by the deploy workflow
+
+[observability]
+enabled = true

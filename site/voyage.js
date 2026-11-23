@@ -29,9 +29,9 @@ window.JAVA_VOYAGE = [
 window.JAVA_LINKS = {
   read: "read/", passengers: "read/appendix-b-passenger-list-of-the-java.html",
   crew: "read/crew-list-1840-voyage-of-java.html", voyage: "read/java-leaves-london.html",
-  epub: "https://github.com/zharradam/java-book/releases/latest/download/the-java.epub",
-  pdf: "https://github.com/zharradam/java-book/releases/latest/download/the-java.pdf",
-  m4b: "https://github.com/zharradam/java-book/releases/latest/download/the-java.m4b"
+  epub: "/download/the-java.epub",
+  pdf: "/download/the-java.pdf",
+  m4b: "/download/the-java.m4b"
 };
 // Contact link built at runtime so the address is not in the page source
 document.addEventListener('DOMContentLoaded', function () {

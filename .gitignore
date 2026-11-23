@@ -5,3 +5,4 @@ _site/
 
 # local working files
 *.diff
+.wrangler/
